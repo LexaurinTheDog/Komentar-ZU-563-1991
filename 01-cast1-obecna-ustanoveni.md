@@ -283,6 +283,11 @@ Prahové hodnoty skupin jsou shodné s hodnotami pro malé a střední individu�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 100/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F8DD4E0BB259A4FC1258636001DCCA2?openDocument) — 30. 9. 2020, kat. A
+  > „Zvláštním právním předpisem ve smyslu ustanovení § 316 odst. 4 insolvenčního zákona se rozumí zákon č. 563/1991 Sb., o účetnictví. Jestliže poslední účetní období předcházející insolvenčnímu návrhu bylo u dlužníka delší 1 roku, postupuje insolvenční soud při zkoumání přípustnosti reorganizace pro účely určení celkového ročního úhrnu čistého obratu dlužníka podle ustanovení § 1d odst. 2 zákona o účetnictví"
+
 #### Aktiva celkem (odst. 1)
 
 Aktiva celkem jsou definována jako **úhrn aktiv zjištěný z rozvahy** — jde o tzv. brutto (hrubá) aktiva, tj. celkovou aktivní stranu rozvahy před odečtením závazků, jinak řečeno bilanční suma na straně aktiv. Do hodnoty aktiv celkem se zahrnuje jak stálý majetek (dlouhodobý hmotný, nehmotný a finanční majetek), tak oběžná aktiva (zásoby, pohledávky, krátkodobý finanční majetek) a časové rozlišení aktivní.
@@ -457,6 +462,11 @@ Předmětem jednoduchého účetnictví jsou jen **výdaje a příjmy** (hotovos
 > *- b) nástupnickou účetní jednotkou nebo rozdělovanou účetní jednotkou do 30 dnů ode dne zápisu přeměny do veřejného rejstříku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 NSCR 2/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5D70BA69DFC2787C12589650041BC6B?openDocument) — 22. 12. 2022, kat. A
+  > „Účetním obdobím předchozího roku trvání reorganizace podle ustanovení § 2 písm. b/ vyhlášky č. 313/2007 Sb. (ve znění pozdějších předpisů) se rozumí jen to účetní období, ve kterém dlužník účtoval podle zákona o účetnictví v roce předcházejícím době započetí „následujícího roku“ trvání reorganizace"
 
 #### Akruální princip — časová a věcná souvislost (odst. 1)
 
