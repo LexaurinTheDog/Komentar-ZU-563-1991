@@ -34,6 +34,10 @@ Komentář byl sestaven AI asistentem (Claude) **výhradně z lokálních materi
 
 Tento komentář **není autoritativním právním stanoviskem** ve smyslu § 4 odst. 1 občanského zákoníku. Slouží jako orientační průvodce materií účetního práva. Pro praktickou aplikaci je nutné ověřit aktuální znění zákona a prováděcích předpisů a konzultovat auditora, daňového poradce nebo advokáta.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z dobového sněmovního tisku, digitální knihovna Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
