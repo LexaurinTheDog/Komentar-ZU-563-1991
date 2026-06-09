@@ -69,6 +69,43 @@ Zákon umožňuje (a za podmínek stanovených Vyhláškou 500 přikazuje) oceni
 
 Účetní metodu přeměn obchodních korporací stanovuje Vyhláška 500, podrobněji pak Český účetní standard č. 011. Ocenění jmění při přeměnách je specifická oblast na pomezí účetnictví a práva obchodních korporací (zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost Gama s.r.o. (kupující) nabyla k 1. 6. 2025 od společnosti Delta a.s. (prodávající) koupí obchodní závod — pekárenský provoz — za souhrnnou kupní cenu 18 mil. Kč. Součástí závodu je výrobní hala, technologie, zásoby, pohledávky a převzaté dluhy; kupní smlouva jednotlivé složky samostatně neoceňuje. Účetní jednotka řeší, jak jednotlivé složky majetku ocenit a zda jí vznikne goodwill, nebo oceňovací rozdíl k nabytému majetku. Důkazy/podklady: smlouva o koupi závodu, zápis o předání, inventurní soupisy ke dni převodu, hlavní kniha a účetní závěrka prodávajícího, případně znalecký posudek podle zákona č. 151/1997 Sb.
+
+**2. Právní otázka.** Jakým způsobem je kupující povinen ocenit jednotlivé složky majetku nabyté koupí obchodního závodu, nelze-li je ocenit jednotlivě postupem podle § 25 ZoÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 3 písm. a) ZoÚ — volba mezi navázáním na ocenění v účetnictví převodce (bod 1) a oceněním podle zvláštního právního předpisu (bod 2).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 (okamžiky ocenění), § 25 (pořizovací a reprodukční pořizovací cena), § 28 (následné odpisování nabytých složek), § 7 odst. 1 (věrný a poctivý obraz).
+- *Související předpisy:* § 2175 a násl. OZ (koupě závodu); zákon č. 151/1997 Sb., o oceňování majetku; § 7 odst. 10 Vyhlášky 500 (oceňovací rozdíl k nabytému majetku, odpis 180 měsíců); ČÚS č. 011 — Operace s podnikem; zákon č. 125/2008 Sb. u přeměn.
+- *Judikatura:* Nejvyšší správní soud setrvale zdůrazňuje, že ocenění nabývaného majetku nesmí být stanoveno svévolně a účetnictví musí i při souhrnném nabytí podávat věrný a poctivý obraz; rozklad kupní ceny mezi složky závodu je předmětem dokazování (znaleckého ocenění), nikoli volné úvahy účetní jednotky.
+
+**4. Subsumpce.** Je naplněno nabytí více než jedné složky majetku převodem (koupě závodu) i nemožnost ocenit jednotlivé složky postupem podle § 25 (cena byla sjednána souhrnně za celek). Jde o nabytí obchodního závodu, proto se uplatní odst. 3 písm. a), nikoli poměrné rozúčtování podle písm. b). Sporná zůstává jen volba mezi bodem 1 (převzetí účetních hodnot Delta a.s.; rozdíl mezi kupní cenou a souhrnem převzatých hodnot tvoří oceňovací rozdíl k nabytému majetku) a bodem 2 (individuální přecenění podle zákona č. 151/1997 Sb.; rozdíl tvoří goodwill).
+
+**5. Řešení.** Obě varianty jsou legální; volbu je třeba učinit před zaúčtováním transakce, promítnout ji do vnitřního předpisu a aplikovat konzistentně. Při bodu 1 odpadá znalecké ocenění a vzniklý oceňovací rozdíl k nabytému majetku se odpisuje 180 měsíců; při bodu 2 vzniká goodwill (kladný či záporný) odpisovaný podle účetních metod. Procesně: převzít analytické členění, zaúčtovat podle ČÚS č. 011 a popsat zvolený postup v příloze v účetní závěrce. Rizikem je zpochybnění rozkladu ceny správcem daně s dopadem na následné odpisy jednotlivých složek.
+
+**6. Varianty.** (i) Pokud by kupní smlouva věrohodně a ekonomicky odůvodněně stanovila ceny jednotlivých složek, § 24 odst. 3 by se nepoužil — složky by se ocenily přímo pořizovacími cenami dle § 25. (ii) Při nabytí pouhého souboru movitých věcí (např. výrobní linky bez závodu) by se uplatnilo poměrné rozúčtování celkové ceny dle odst. 3 písm. b), případně ocenění souboru jako celku dle odst. 4.
+
+#### G. Protiargumenty a rizika
+
+- *„Převzetí účetních hodnot převodce nezobrazuje skutečnou hodnotu nabytého majetku."* — Zákon tuto volbu výslovně připouští (odst. 3 písm. a) bod 1); rozdíl mezi kupní cenou a převzatými hodnotami se transparentně vykáže jako oceňovací rozdíl k nabytému majetku, takže věrný obraz zůstává zachován.
+- *„Formální rozepsání ceny ve smlouvě vylučuje aplikaci § 24 odst. 3."* — Jen je-li rozpis věrohodný; účelové (svévolné) rozdělení souhrnné ceny lze zpochybnit testem věrného a poctivého obrazu dle § 7 odst. 1.
+- Slabé místo: u přeshraniční přeměny, vkladu nebo prodeje závodu závisí použitelnost bodu 1 na prováděcím předpisu (odst. 5) — před transakcí je nutné ověřit aktuální znění Vyhlášky 500 a ČÚS č. 011.
+
+#### H. Praktický závěr
+
+§ 24 ukotvuje dvojici okamžiků ocenění (vznik účetního případu × rozvahový den) a pro souhrnná nabytí dává volbu metody, která určuje, zda vznikne goodwill, či oceňovací rozdíl, a jaká bude budoucí nákladová zátěž z jejich odpisování.
+
+**Checklist (účetní jednotka / poradce / auditor):**
+- [ ] Určit, zda lze složky ocenit jednotlivě dle § 25; pokud ne, kvalifikovat režim odst. 3 písm. a), nebo b).
+- [ ] U nabytí závodu zvolit bod 1 × bod 2 a volbu zdokumentovat (vnitřní předpis, kalkulace dopadů na odpisy).
+- [ ] Při volbě individuálního přecenění zajistit ocenění podle zákona č. 151/1997 Sb.
+- [ ] Zaznamenat ocenění k rozvahovému dni do účetních knih (odst. 2 písm. b)).
+- [ ] Popsat zvolený postup v příloze v účetní závěrce.
+
+**Typicky rozhodné důkazy / podklady:** smlouva o koupi závodu či projekt přeměny, inventurní soupisy ke dni nabytí, účetní záznamy převodce, znalecký posudek, vnitřní předpis o oceňování, odpisový plán goodwillu / oceňovacího rozdílu.
+
 ---
 
 ### § 24a — Měna účetnictví
@@ -113,6 +150,43 @@ Použití cizí měny jako měny účetnictví je **dobrovolné** — splňuje-l
 
 Změna měny účetnictví je možná vždy jen k **prvnímu dni účetního období** (tj. nelze ji provést uprostřed roku). Zákon stanoví jednostrannou bariéru pro návrat do české koruny: jednou zvolená cizí měna jako měna účetnictví se nemůže vrátit na českou korunu, dokud tato cizí měna zůstává funkční měnou. To brání oportunistickým přechodům zpět do korunového účetnictví z důvodů daňové optimalizace nebo jiných účelů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Autoparts CZ s.r.o., dceřiná společnost německého koncernu, fakturuje 85 % tržeb v eurech, v eurech nakupuje rozhodující část materiálu a je financována eurovým úvěrem od mateřské společnosti; v korunách hradí pouze mzdy a energie. Jednatel chce od 1. 1. 2027 vést účetnictví v eurech, aby odstranil kurzové rozdíly a usnadnil skupinové výkaznictví. Důkazy/podklady: měnová analýza tržeb, nákladů a financování za poslední účetní období, úvěrové smlouvy, rozhodnutí statutárního orgánu, vnitřní směrnice o měně účetnictví.
+
+**2. Právní otázka.** Je euro funkční měnou společnosti ve smyslu § 24a odst. 2 ZoÚ, takže si je společnost může zvolit za měnu účetnictví podle § 24a odst. 1 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24a — uzavřený katalog měn účetnictví (CZK, EUR, USD, GBP), definice funkční měny, změna měny jen k prvnímu dni účetního období a jednosměrná bariéra návratu (odst. 4).
+- *Související ustanovení téhož zákona:* § 24b (přepočet korunových limitů), § 24c a § 24d (přepočty cizích měn na měnu účetnictví), § 1 odst. 3 (vybrané účetní jednotky — vždy CZK dle odst. 3).
+- *Související předpisy:* IAS 21 (kritéria funkční měny jako výkladové vodítko); zákon č. 586/1992 Sb. a daňový řád (vazba daňových povinností na měnu); Vyhláška 500.
+- *Judikatura:* k § 24a, účinnému od 1. 1. 2024, dosud soudní výklad chybí; pojem funkční měny je proto třeba vykládat podle kritérií IAS 21 (měna, v níž jsou sjednávány ceny prodejů a nákupů a v níž probíhá financování), z něhož zákonodárce koncept převzal.
+
+**4. Subsumpce.** Primárním ekonomickým prostředím společnosti je prostředí eurové: v EUR jsou sjednávány ceny prodejů, rozhodující nákupy i financování. Korunové mzdy a energie menšinové povahy na tom nic nemění. EUR je v zákonném katalogu (odst. 1 písm. b) bod 1). Společnost není vybranou účetní jednotkou ani nevede jednoduché účetnictví (odst. 3 se neuplatní). Podmínky volby jsou splněny; změnu lze provést výhradně k 1. 1. 2027 (odst. 4).
+
+**5. Řešení.** Společnost může přejít na euro jako měnu účetnictví k prvnímu dni účetního období. Prakticky: doložit funkční měnu kvantitativní analýzou, přijmout rozhodnutí orgánu a vnitřní předpis, přepočítat zahajovací rozvahu, přenastavit účetní software, přepočítat zákonné limity podle § 24b a prověřit navazující daňové a administrativní povinnosti. Zásadním rizikem je nevratnost: návrat ke koruně je možný, jen přestane-li být euro funkční měnou.
+
+**6. Varianty.** (i) Kdyby eurové tržby tvořily jen menšinu a financování bylo korunové, euro by nebylo funkční měnou — volba by byla nezákonná a účetnictví vedené v EUR by bylo vedeno v rozporu se zákonem. (ii) Kdyby funkční měnou byl polský zlotý, nelze jej zvolit (není v katalogu odst. 1) — účetnictví musí zůstat v české koruně, byť to plně neodpovídá ekonomické realitě jednotky.
+
+#### G. Protiargumenty a rizika
+
+- *„Funkční měna je neurčitý pojem a posouzení jednotky lze zpochybnit."* — Riziko se snižuje doloženou kvantitativní analýzou podle kritérií IAS 21, archivovanou jako účetní záznam; posouzení je třeba při změně poměrů přehodnocovat.
+- *„Volba EUR je výhodná pro konsolidaci, i když test funkční měny vychází hraničně."* — Nepřípustné; použití cizí měny bez splnění podmínky funkční měny je vedením účetnictví v rozporu se zákonem se sankčním rizikem podle § 37 a násl. ZoÚ.
+- Slabé místo: jednosměrná bariéra odst. 4 — při změně obchodního modelu (ztráta eurových trhů) zůstává jednotka v euru „uzamčena", dokud euro nepřestane být funkční měnou; rozhodnutí proto vyžaduje dlouhodobou rozvahu, navíc bez opory v tuzemské judikatuře.
+
+#### H. Praktický závěr
+
+§ 24a umožňuje vést účetnictví v EUR, USD nebo GBP jen tehdy, je-li daná měna skutečně funkční měnou jednotky; volba je dobrovolná, činí se výhradně k prvnímu dni účetního období a je fakticky nevratná.
+
+**Checklist (účetní jednotka / poradce):**
+- [ ] Zpracovat a archivovat analýzu funkční měny (struktura tržeb, nákladů a financování podle měn).
+- [ ] Ověřit, že jednotka není vybranou účetní jednotkou ani nevede jednoduché účetnictví.
+- [ ] Naplánovat přechod k prvnímu dni účetního období a přijmout vnitřní předpis.
+- [ ] Přepočítat zahajovací rozvahu a zákonné limity (§ 24b); upravit software a výkaznictví.
+- [ ] Posoudit daňové a administrativní dopady (přiznání, statistika, mzdová agenda).
+
+**Typicky rozhodné důkazy / podklady:** měnová struktura fakturace a smluv, úvěrové smlouvy, rozhodnutí orgánu společnosti, vnitřní směrnice, dokumentace přechodu (přepočtená zahajovací rozvaha).
+
 ---
 
 ### § 24b — Přepočet účetních limitů na jinou měnu
@@ -141,6 +215,42 @@ Pravidla zaokrouhlování (odst. 2) reagují na skutečnost, že zákon pracuje 
 
 Jde o ryze technické ustanovení bez přímé interpretační kontroverznosti; jeho praktický dopad na kategorizaci účetní jednotky (mikro, malá, střední, velká ve smyslu § 1b ZoÚ) je však nezanedbatelný — nesprávný přepočet by mohl vést k chybné kategorizaci a tím k nesprávnému rozsahu povinností (povinnost auditu, povinné součásti závěrky, povinnost sestavovat zprávu o nefinančních informacích atd.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost Beta s.r.o. vede od 1. 1. 2026 účetnictví v eurech. Na začátku období potřebuje určit, v jaké výši pro ni platí korunové hranice stanovené právními předpisy — zejména hodnotové hranice pro kategorizaci účetní jednotky podle § 1b ZoÚ (a tím i pro povinnost auditu) a korunové limity významné pro zacházení s majetkem. Důkazy/podklady: kurzovní lístek ČNB k poslednímu dni účetního období 2025, vnitřní přehled přepočtených limitů, doklad o volbě měny účetnictví.
+
+**2. Právní otázka.** Jakým kurzem a k jakému dni se korunová účetní kritéria přepočtou na měnu účetnictví a jak se přepočtené částky zaokrouhlí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24b — přepočet kurzem devizového trhu vyhlášeným ČNB k měně účetnictví pro poslední den bezprostředně předcházejícího účetního období; zaokrouhlování podle přesnosti částky (odst. 2).
+- *Související ustanovení téhož zákona:* § 24a (měna účetnictví), § 1b (kategorizační hraniční hodnoty), § 20 (povinný audit).
+- *Související předpisy:* ZDP (korunové limity pro hmotný majetek a technické zhodnocení), Vyhláška 500.
+- *Judikatura:* není; jde o technické přepočtové pravidlo bez výkladové kontroverze.
+
+**4. Subsumpce.** Měnou účetnictví Bety není česká měna → všechna korunová kritéria se přepočtou kurzem ČNB CZK/EUR vyhlášeným pro 31. 12. 2025 a platí v této výši po celé účetní období 2026. Hraniční hodnoty uváděné v celých tisícikorunách (kategorizace dle § 1b) se zaokrouhlí na celá čísla; částky uvedené s přesností na stokoruny, desetikoruny, koruny či haléře se nezaokrouhlují.
+
+**5. Řešení.** Sestavit jednou ročně vnitřní tabulku přepočtených limitů, založit ji jako účetní záznam a používat konzistentně po celé období; limity se v průběhu roku nepřepočítávají, čímž je zajištěna jejich stabilita. Správný přepočet je podmínkou správné kategorizace jednotky, a tedy správného rozsahu povinností (audit, rozsah a zveřejňování závěrky).
+
+**6. Varianty.** (i) Vede-li jednotka účetnictví v české koruně, § 24b se vůbec nepoužije. (ii) Výrazný pohyb kurzu v průběhu roku limity nemění — rozhodný je výhradně kurz k poslednímu dni předcházejícího období; promítne se až do limitů následujícího účetního období, což může změnit kategorii jednotky.
+
+#### G. Protiargumenty a rizika
+
+- *„Věrnější by byl průměrný roční kurz nebo průběžná aktualizace limitů."* — Zákon kotví jediný rozhodný kurz; jakákoli jiná metoda je nezákonná a vedla by k nestabilitě limitů v průběhu období.
+- Riziko: chybný přepočet či nesprávné zaokrouhlení může posunout jednotku do nesprávné kategorie (mikro/malá/střední/velká) s řetězovým dopadem na povinnost auditu a rozsah výkaznictví; chybu je nutno opravit a kategorizaci revidovat.
+- Slabé místo: připadne-li poslední den účetního období na den, pro který ČNB kurz nevyhlašuje (víkend, svátek), použije se kurz z posledního vyhlášeného kurzovního lístku platného pro tento den; postup je vhodné výslovně popsat ve vnitřním předpisu, aby byl konzistentní.
+
+#### H. Praktický závěr
+
+§ 24b zajišťuje, aby jednotky účtující v EUR, USD či GBP pracovaly s korunovými zákonnými limity ve stabilní protihodnotě fixované jednou ročně kurzem ČNB k poslednímu dni předcházejícího účetního období.
+
+**Checklist (účetní jednotka):**
+- [ ] Identifikovat všechna korunová kritéria relevantní pro jednotku (kategorizace, audit, majetkové limity).
+- [ ] Přepočíst je kurzem ČNB k poslednímu dni předcházejícího účetního období.
+- [ ] Správně zaokrouhlit (tisícikoruny → celá čísla; koruny a haléře → bez zaokrouhlení).
+- [ ] Tabulku limitů archivovat jako účetní záznam a každoročně aktualizovat.
+
+**Typicky rozhodné důkazy / podklady:** kurzovní lístek ČNB k rozhodnému dni, vnitřní přehled přepočtených limitů, dokumentace kategorizace účetní jednotky.
+
 ---
 
 ### § 24c — Okamžik přepočtu cizí měny na měnu účetnictví
@@ -168,6 +278,42 @@ Jde o ryze technické ustanovení bez přímé interpretační kontroverznosti; 
 **Ke konci rozvahového dne (§ 24 odst. 2 písm. b))** se přepočítává pouze **majetek a závazky vyjmenované v § 4 odst. 12** — tedy peněžní prostředky v cizí měně, pohledávky a závazky v cizí měně a dále cenné papíry a deriváty v cizí měně, pokud se neoceňují reálnou hodnotou dle § 27. K tomuto přepočtu **nelze použít pevný kurz** — musí se použít obecný kurz ke dni přepočtu.
 
 Vzniklé **kurzové rozdíly** (kladné = kurzové zisky, záporné = kurzové ztráty) se účtují výsledkově, tj. do finančních výnosů nebo finančních nákladů (účty 663 – Kurzové zisky resp. 563 – Kurzové ztráty). Podrobnosti stanoví Vyhláška 500 a Český účetní standard č. 006 – Kurzové rozdíly.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní společnost Omega s.r.o. (měna účetnictví CZK) přijala 10. 3. fakturu od amerického dodavatele na 100 000 USD; podle vnitřního předpisu používá měsíční pevný kurz. K 31. 12. zůstává neuhrazeno 40 000 USD. Účetní řeší, jakým kurzem závazek přepočítat při jeho vzniku a jak ke konci rozvahového dne. Důkazy/podklady: faktura, vnitřní předpis o používání pevného kurzu, kurzovní lístky ČNB, saldokonto a inventurní soupis závazků.
+
+**2. Právní otázka.** Lze pevný kurz použít i pro přepočet cizoměnového závazku ke konci rozvahového dne, nebo pouze k okamžiku uskutečnění účetního případu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24c — k okamžiku uskutečnění účetního případu se přepočítává veškerý cizoměnový majetek a závazky (obecným, volitelně pevným kurzem — odst. 2); ke konci rozvahového dne jen položky podle § 4 odst. 12, a to výhradně obecným kurzem.
+- *Související ustanovení téhož zákona:* § 24 odst. 2 (okamžiky ocenění), § 24d (definice obecného a pevného kurzu), § 4 odst. 12 (okruh položek přepočítávaných k rozvahovému dni), § 27 (cizoměnové položky oceňované reálnou hodnotou).
+- *Související předpisy:* Vyhláška 500 a ČÚS č. 006 — Kurzové rozdíly (výsledkové účtování na účty 563/663); interpretace Národní účetní rady k cizím měnám (mj. k nepřepočítávání záloh, u nichž se neočekává vrácení peněz).
+- *Judikatura:* Nejvyšší správní soud se opakovaně zabýval nerealizovanými kurzovými rozdíly vznikajícími právě závěrkovým přepočtem (spor o jejich daňový režim); pro účetnictví z judikatury plyne, že závěrkový přepočet a výsledkové zachycení kurzových rozdílů je zákonnou povinností, daňové dopady řeší samostatně ZDP.
+
+**4. Subsumpce.** Vznik závazku 10. 3. je okamžikem uskutečnění účetního případu (§ 24 odst. 2 písm. a)) → přípustný je obecný i pevný kurz; použití měsíčního pevného kurzu dle vnitřního předpisu je v souladu s odst. 2. Neuhrazený zůstatek závazku je položkou podle § 4 odst. 12 → k 31. 12. podléhá povinnému přepočtu obecným kurzem ČNB; pevný kurz je zde vyloučen. Rozdíl z přepočtu je kurzový zisk či ztráta účtovaná výsledkově.
+
+**5. Řešení.** Při vzniku přepočítat pevným kurzem dle vnitřního předpisu; k rozvahovému dni přepočítat zůstatek 40 000 USD kurzem ČNB k 31. 12. a rozdíl zaúčtovat na 563 (kurzové ztráty), resp. 663 (kurzové zisky). Vynechání závěrkového přepočtu zkresluje výsledek hospodaření, je vadou účetnictví a může naplnit skutkovou podstatu přestupku podle § 37, resp. § 37a ZoÚ.
+
+**6. Varianty.** (i) Kdyby byl závazek během roku zcela uhrazen, závěrkový přepočet odpadá — kurzový rozdíl se realizuje při úhradě. (ii) Kdyby šlo o cenný papír v cizí měně oceňovaný reálnou hodnotou podle § 27, samostatný kurzový přepočet podle § 24c odst. 1 písm. b) se neprovádí — kurzová složka je součástí změny reálné hodnoty.
+
+#### G. Protiargumenty a rizika
+
+- *„Pevný kurz zavedený vnitřním předpisem by měl platit i pro závěrkový přepočet."* — Text § 24c odst. 2 jej výslovně připouští jen pro okamžik podle § 24 odst. 2 písm. a); závěrkové ocenění musí odrážet aktuální kurz, jinak ztrácí vypovídací schopnost a odporuje věrnému obrazu.
+- *„K rozvahovému dni je nutné přepočítat všechna cizoměnová aktiva a pasiva."* — Nesprávné; okruh je omezen na položky podle § 4 odst. 12 (peněžní prostředky, pohledávky a závazky, vybrané cenné papíry a deriváty). U záloh a obdobných položek je třeba vycházet z ČÚS č. 006 a interpretací NÚR.
+- Riziko: u jednotek s cizí měnou účetnictví se nově přepočítává i česká koruna (CZK je vůči měně účetnictví cizí měnou) — častý zdroj chyb po přechodu na funkční měnu.
+
+#### H. Praktický závěr
+
+§ 24c odděluje přepočet při vzniku účetního případu (všechny cizoměnové položky, obecný nebo pevný kurz) od závěrkového přepočtu (jen položky podle § 4 odst. 12, výhradně obecný kurz); kurzové rozdíly se účtují výsledkově.
+
+**Checklist (účetní jednotka / auditor):**
+- [ ] Ověřit, že vnitřní předpis určuje druh kurzu pro okamžik uskutečnění účetního případu.
+- [ ] K rozvahovému dni identifikovat všechny položky podle § 4 odst. 12 a přepočítat je obecným kurzem.
+- [ ] Nepoužít pevný kurz pro závěrkový přepočet.
+- [ ] Zaúčtovat kurzové rozdíly výsledkově (563/663) a doložit je inventarizací.
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpis o kurzech, kurzovní lístky ČNB k datům transakcí a k rozvahovému dni, saldokonta cizoměnových pohledávek a závazků, inventurní soupisy.
 
 ---
 
@@ -238,6 +384,43 @@ Vzniklé **kurzové rozdíly** (kladné = kurzové zisky, záporné = kurzové z
 **Speciální subjekty — zákaz některých alternativních kurzů (odst. 5):** Banky, obchodníci s cennými papíry, investiční společnosti a fondy, penzijní fondy a penzijní společnosti, družstevní záložny, pojišťovny, zajišťovny, ČNB, Česká kancelář pojistitelů a zdravotní pojišťovny nemohou použít ani náhradní obecný kurz dle odst. 2 písm. b) ani pevný kurz. Tato regulovaná odvětví zpracovávají kurzy v rámci přísného dohledu (ČNB, ČBA, ČAP), a zákon proto vyžaduje, aby používala výhradně primární obecné kurzy bez zjednodušení.
 
 **Kurz transakce (odst. 6):** Speciální pravidlo pro nákup nebo prodej peněžních prostředků v cizí měně: přepočet může být proveden kurzem skutečně použitým při transakci (kurzem banky). Jde o pragmatické řešení — výsledný zůstatek peněžních prostředků v cizí měně v korunové hodnotě pak odpovídá skutečně vynaloženým peněžním prostředkům, aniž by vznikal „technický" kurzový rozdíl hned při nákupu valut.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní společnost Sigma s.r.o. (měna účetnictví CZK) zpracovává stovky cizoměnových transakcí měsíčně. Vnitřním předpisem zavedla čtvrtletní pevný kurz odvozený z kurzu ČNB vyhlášeného pro první den čtvrtletí. V dubnu navíc nakoupila u banky 50 000 EUR za koruny kurzem banky. Hlavní účetní ověřuje, zda je nastavení kurzů zákonné. Důkazy/podklady: vnitřní předpis o používání kurzů, kurzovní lístky ČNB, konfirmace nákupu deviz, bankovní výpisy.
+
+**2. Právní otázka.** Je čtvrtletní pevný kurz stanovený vnitřním předpisem v souladu s § 24d odst. 4 a lze nákup deviz přepočítat kurzem skutečně použitým bankou podle odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24d — definice obecného kurzu včetně náhradních variant a kurzu předcházejícího dne (odst. 1–3), pevný kurz a události ukončující jeho platnost (odst. 4), zákaz alternativních kurzů pro regulované finanční instituce (odst. 5), kurz transakce při nákupu/prodeji deviz (odst. 6).
+- *Související ustanovení téhož zákona:* § 24c (kdy se který kurz použije; pevný kurz jen k okamžiku uskutečnění účetního případu), § 24a (měna účetnictví), § 7 odst. 1 (věrný obraz jako korektiv délky období pevného kurzu).
+- *Související předpisy:* ČÚS č. 006 — Kurzové rozdíly; zákon o ČNB (vyhlašování kurzů devizového trhu); sektorové předpisy subjektů podle odst. 5 (banky, pojišťovny, obchodníci s cennými papíry aj.).
+- *Judikatura:* správní judikatura akcentuje, že způsob přepočtu zvolený a stanovený vnitřním předpisem musí účetní jednotka dodržovat konzistentně; svévolné střídání kurzů v průběhu období odporuje věrnému a poctivému obrazu i průkaznosti účetnictví.
+
+**4. Subsumpce.** Pevný kurz Sigmy je obecným kurzem podle odst. 1 vyhlášeným pro první den zvoleného období — podmínka odst. 4 je splněna; čtvrtletní období nepřesahuje účetní období a je určeno vnitřním předpisem. Sigma není subjektem podle odst. 5 (nemá bankovní licenci ani jiné tam uvedené povolení), pevný kurz tedy používat smí. Nákup 50 000 EUR je nákupem peněžních prostředků cizí měny za měnu účetnictví → odst. 6 dovoluje přepočet kurzem skutečně použitým při transakci, takže při nákupu valut nevznikne umělý („technický") kurzový rozdíl.
+
+**5. Řešení.** Nastavení je zákonné. Prakticky je nutné hlídat události předčasně ukončující platnost pevného kurzu (odst. 4 písm. a)–c)): devalvaci či revalvaci měny účetnictví a vlastní rozhodnutí o nahrazení nebo opuštění pevného kurzu. Vnitřní předpis má současně určit okamžiky uskutečnění účetního případu (den přijetí faktury, den úhrady apod.), od nichž se odvíjí den přepočtu; pro dny bez vyhlášeného kurzu lze využít kurz předcházejícího dne (odst. 3).
+
+**6. Varianty.** (i) Kdyby Sigma byla obchodníkem s cennými papíry, nesměla by použít pevný kurz ani náhradní kurz podle odst. 2 písm. b) (odst. 5) — musela by pracovat výhradně s primárními obecnými kurzy. (ii) Při transakci v exotické měně, k níž ČNB kurz nevyhlašuje denně ani týdně, by se použil křížový přepočet přes EUR či USD (odst. 2 písm. a)), případně kurz centrální banky příslušné pro danou měnu (odst. 2 písm. b)).
+
+#### G. Protiargumenty a rizika
+
+- *„Roční pevný kurz je také přípustný, výkyvy se vyrovnají."* — Formálně zákon delší období připouští (maximem je konec účetního období), avšak při výrazném pohybu kurzu pevný kurz deformuje náklady, výnosy i marže; korektivem je věrný obraz (§ 7) — delší období volit jen při nízké volatilitě a doplnit pravidlem o mimořádném nahrazení kurzu (odst. 4 písm. b)).
+- *„Kurz transakce podle odst. 6 lze použít i pro přepočet faktur."* — Nelze; odst. 6 dopadá výhradně na nákup nebo prodej peněžních prostředků cizí měny za měnu účetnictví, nikoli na závazkové transakce.
+- Riziko: přehlédnutí zákazů odst. 5 u regulovaných subjektů a nesoulad vnitřního předpisu se skutečnou praxí — audit i kontrola správce daně testují právě konzistenci aplikace kurzů.
+
+#### H. Praktický závěr
+
+§ 24d staví hierarchii kurzů: primárně denní/týdenní kurz centrální banky příslušné pro měnu účetnictví, náhradně křížový kurz přes EUR/USD nebo kurz jiné centrální banky, volitelně pevný kurz (mimo regulované finanční instituce) a transakční kurz u směny deviz.
+
+**Checklist (účetní jednotka):**
+- [ ] Upravit vnitřním předpisem druh kurzu, délku období pevného kurzu a okamžiky uskutečnění účetního případu.
+- [ ] Ověřit, že jednotka nespadá pod zákazy odst. 5.
+- [ ] Průběžně sledovat události ukončující platnost pevného kurzu (odst. 4).
+- [ ] U nákupu/prodeje deviz zvážit přepočet kurzem transakce (odst. 6).
+- [ ] Dodržovat zvolený systém konzistentně po celé účetní období.
+
+**Typicky rozhodné důkazy / podklady:** vnitřní předpis o kurzech, kurzovní lístky, konfirmace devizových obchodů, účetní záznamy dokládající konzistentní aplikaci kurzů.
 
 ---
 
@@ -331,6 +514,43 @@ Odst. 3 obsahuje zákonný výraz **zásady opatrnosti** (prudence principle), j
 2. **Zahrnovat předvídatelná rizika a možné ztráty** — přestože ztráty zatím nebyly realizovány, musejí být promítnuty do oceňování, jsou-li k okamžiku sestavení závěrky zřejmé. Klíčová formulace „jsou jim známy do okamžiku sestavení účetní závěrky" zakládá povinnost zohledňovat i události po rozvahovém dni, pokud objasňují podmínky existující již k rozvahovému dni (tzv. adjusting events, srov. IAS 10 a ČÚS č. 019).
 3. **Zahrnovat všechna snížení hodnoty bez ohledu na výsledek** — tato složka zakazuje vynechat opravné položky nebo ztráty jen proto, že by to přeměnilo zisk na ztrátu nebo prohloubilo ztrátu; zásada opatrnosti je přeřazena nad hledisko výsledku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Strojírenská a.s. si vlastní činností postavila výrobní halu: spotřebovaný materiál 30 mil. Kč, mzdy stavební čety 10 mil. Kč, výrobní režie přiřaditelná stavbě 5 mil. Kč, správní režie 3 mil. Kč, úroky z investičního úvěru do uvedení haly do užívání 2 mil. Kč. Účetní řeší, v jaké výši halu aktivovat. Současně k 31. 12. ví, že tržní cena části hotových výrobků na skladě klesla pod jejich účetní hodnotu. Důkazy/podklady: stavební a mzdová dokumentace, kalkulace vlastních nákladů, úvěrová smlouva, vnitřní předpis o oceňování, doklady o dosažitelných prodejních cenách výrobků.
+
+**2. Právní otázka.** Které nákladové položky vstupují do ocenění hmotného majetku vytvořeného vlastní činností vlastními náklady podle § 25 odst. 1 písm. b) a odst. 5 písm. d) ZoÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 — katalog oceňovacích základen (odst. 1), definice pořizovací ceny, reprodukční pořizovací ceny a vlastních nákladů (odst. 5), zásada opatrnosti (odst. 3), metody oceňování úbytků zásob (odst. 4).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 písm. a) (okamžik ocenění), § 26 (instrumenty zásady opatrnosti), § 7 odst. 1 (věrný obraz), § 28 (odpisování z ocenění).
+- *Související předpisy:* Vyhláška 500 — § 47 (složky ocenění dlouhodobého majetku včetně režimu úroků do uvedení do užívání), § 49 (vlastní náklady zásob); ZDP § 29 (vstupní cena pro daňové odpisy).
+- *Judikatura:* správní soudy konstantně judikují, že náklady vynaložené do okamžiku uvedení majetku do stavu způsobilého k užívání jsou součástí jeho ocenění (aktivují se), nikoli jednorázovým provozním nákladem; hranice aktivace je typickým předmětem daňových kontrol a důkazní břemeno o správnosti kalkulace nese účetní jednotka.
+
+**4. Subsumpce.** Hala je hmotný majetek vytvořený vlastní činností → ocenění vlastními náklady (odst. 1 písm. b)). Přímé náklady (materiál 30 mil., mzdy 10 mil.) vstupují do ocenění povinně; výrobní režie 5 mil. je přiřaditelným nepřímým nákladem vztahujícím se k výrobě → zahrne se v souladu s účetními metodami. Správní režie bez přímé vazby na výstavbu do ocenění nepatří. Úroky do uvedení do užívání lze zahrnout, rozhodne-li tak jednotka v souladu s Vyhláškou 500 a uplatňuje-li volbu konzistentně. Ocenění haly tedy činí 45 mil. Kč, resp. 47 mil. Kč při aktivaci úroků.
+
+**5. Řešení.** Aktivovat halu ve vlastních nákladech doložených kalkulací; rozhodnutí o úrocích zakotvit ve vnitřním předpisu. U výrobků se k rozvahovému dni uplatní zásada opatrnosti (odst. 3) ve spojení s § 26 odst. 1: zahrnout všechna známá snížení hodnoty bez ohledu na dopad do výsledku, tj. snížit ocenění zásob na úroveň prodejní ceny po odpočtu nákladů spojených s prodejem. Nerealizované zisky (např. růst tržní hodnoty pozemku) se naopak nevykazují, nejde-li o položky dle § 27.
+
+**6. Varianty.** (i) Kdyby hala byla pořízena dodavatelsky, ocení se pořizovací cenou včetně nákladů s pořízením souvisejících (doprava, montáž, projektové práce dle § 47 Vyhlášky 500). (ii) Kdyby vlastní náklady nebylo možné průkazně zjistit (chybějící kalkulace), nastoupila by reprodukční pořizovací cena (odst. 1 písm. l)) — nouzové řešení svědčící o slabé průkaznosti účetnictví.
+
+#### G. Protiargumenty a rizika
+
+- *„Čím méně se aktivuje, tím dříve jsou náklady v základu daně — režii lze ponechat v provozních nákladech."* — Nepřípustné; podhodnocení aktivace porušuje § 25 odst. 5 písm. d) i věrný obraz a správce daně náklady, jež měly být součástí ocenění, z okamžitých daňových nákladů vyloučí a doměří daň.
+- *„Pro úbytky zásob je v inflaci výhodnější LIFO."* — Zákon LIFO nepřipouští (odst. 4 zná jen vážený aritmetický průměr a FIFO); jeho použití by podhodnocovalo zásoby a porušovalo věrný obraz.
+- Riziko: zásada opatrnosti nesmí přerůst v tvorbu skrytých (tichých) rezerv záměrným podhodnocováním aktiv — odst. 3 vyžaduje zahrnutí známých rizik a ztrát, nikoli libovolné snižování hodnot; obě krajnosti (nadhodnocení i podhodnocení) jsou vadou.
+
+#### H. Praktický závěr
+
+§ 25 určuje historické oceňovací základny k okamžiku uskutečnění účetního případu (pořizovací cena, vlastní náklady, reprodukční pořizovací cena, jmenovitá hodnota) a v odst. 3 ukládá opatrnost: vykazovat jen dosažené zisky, ale všechna známá rizika, ztráty a snížení hodnoty — včetně skutečností zjištěných až do okamžiku sestavení závěrky.
+
+**Checklist (účetní jednotka / auditor / správce daně):**
+- [ ] Přiřadit každé složce majetku a závazků správnou oceňovací základnu podle odst. 1.
+- [ ] U vlastní výroby doložit kalkulaci přímých a přiřaditelných nepřímých nákladů.
+- [ ] Rozhodnutí o aktivaci úroků zakotvit ve vnitřním předpisu a aplikovat konzistentně.
+- [ ] U zásob zvolit a dodržovat metodu úbytků (FIFO / vážený průměr); LIFO nepoužívat.
+- [ ] K závěrce prověřit známá rizika a snížení hodnoty včetně událostí mezi rozvahovým dnem a sestavením závěrky.
+
+**Typicky rozhodné důkazy / podklady:** dodavatelské smlouvy a faktury, kalkulace vlastních nákladů, mzdové a výrobní výkazy, úvěrová dokumentace, vnitřní předpis o oceňování, skladová evidence, doklady o tržních cenách.
+
 ---
 
 ### § 26 — Rezervy, opravné položky, odpisy; zásoby pod prodejní cenou
@@ -390,6 +610,43 @@ Opravné položky musejí být **doloženy při inventarizaci** (§ 26 v návazn
 | Dopad | Ovlivňuje účetní výsledek a čisté jmění | Ovlivňuje daňový základ (§ 23 odst. 2 ZDP) |
 
 Rozdíl mezi účetními a daňovými odpisy je jednou z nejčastějších položek vedoucích k odložené dani (IAS 12 / ČÚS č. 003).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní a.s. eviduje k 31. 12.: (i) pohledávku 2,4 mil. Kč čtrnáct měsíců po splatnosti za odběratelem v insolvenčním řízení; (ii) sezónní zboží, jehož dosažitelná prodejní cena po odečtení nákladů spojených s prodejem klesla o 0,8 mil. Kč pod účetní hodnotu; (iii) pasivní soudní spor o 1,5 mil. Kč, v němž advokát hodnotí prohru jako pravděpodobnou. Představenstvo nechce před jednáním s financující bankou „kazit" výsledek hospodaření. Důkazy/podklady: saldokonto, přihláška pohledávky do insolvenčního řízení, skladová evidence a doklady o prodejních cenách, spisová dokumentace sporu, písemné stanovisko advokáta, inventurní soupisy.
+
+**2. Právní otázka.** Je účetní jednotka povinna vytvořit opravné položky, snížit ocenění zásob a vytvořit rezervu na soudní spor i tehdy, prohloubí-li tím účetní ztrátu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 — pravidlo nižší hodnoty u zásob (odst. 1), inventarizační korekce závazků oběma směry (odst. 2), definice rezerv (jasně definovaná povaha, pravděpodobnost či jistota vzniku, nejlepší odhad), opravných položek (přechodné snížení) a odpisů (trvalé snížení) jako nástrojů opatrnosti (odst. 3).
+- *Související ustanovení téhož zákona:* § 25 odst. 3 (zásada opatrnosti — „bez ohledu na to, zda je výsledkem hospodaření zisk nebo ztráta"), § 29–30 (inventarizace jako zdroj zjištění), § 7 odst. 1 (věrný obraz).
+- *Související předpisy:* zákon č. 593/1992 Sb., o rezervách (zákonné opravné položky a rezervy); Vyhláška 500, ČÚS č. 004 (rezervy) a č. 005 (opravné položky); ZDP (daňová neuznatelnost ryze účetních rezerv a opravných položek).
+- *Judikatura:* správní soudy opakovaně uzavírají, že tvorba opravných položek a rezerv vyžadovaných zásadou opatrnosti není volbou, nýbrž povinností — účetnictví bez nich nepodává věrný a poctivý obraz; k zákonným rezervám (na opravy hmotného majetku) je judikatura přísná při prokazování reálnosti a konkrétnosti plánované opravy.
+
+**4. Subsumpce.** Pohledávka: insolvence dlužníka znamená přechodné snížení hodnoty s nejistou mírou uspokojení → opravná položka (nikoli odpis, dokud pohledávka nezanikla a výtěžek není znám). Zásoby: čistá realizovatelná hodnota pod účetní cenou → povinné snížení ocenění o 0,8 mil. Kč (odst. 1). Spor: povaha závazku je jasně definovaná, vznik pravděpodobný, výše odhadnutelná → povinná rezerva v nejlepším odhadu částky potřebné k vypořádání (jistina, příslušenství, náklady řízení). Přání představenstva „nekazit výsledek" je právně bezvýznamné — § 25 odst. 3 přikazuje zohlednit snížení hodnoty bez ohledu na výsledek.
+
+**5. Řešení.** Zaúčtovat opravnou položku k pohledávce (v rozsahu umožněném přihláškou i jako daňově účinnou zákonnou opravnou položku dle z. č. 593/1992 Sb.), snížit ocenění zásob a vytvořit rezervu na spor; vše doložit inventarizací a popsat v příloze v účetní závěrce. Ryze účetní korekce nejsou daňově účinné — vzniká titul pro odloženou daň. Nevytvoření korekcí je vadou závěrky s rizikem výroku auditora s výhradou a sankce podle § 37 a násl. ZoÚ; statutárnímu orgánu hrozí i odpovědnost za škodu.
+
+**6. Varianty.** (i) Zanikne-li dlužník bez právního nástupce nebo skončí-li insolvenční řízení s nulovým uspokojením, je snížení hodnoty trvalé → pohledávka se odepíše a opravná položka rozpustí. (ii) Bude-li prohra sporu jen málo pravděpodobná, rezerva se netvoří — podmíněný závazek se pouze popíše v příloze v účetní závěrce.
+
+#### G. Protiargumenty a rizika
+
+- *„Rezerva je jen odhad; bez pravomocného rozhodnutí není co účtovat."* — Zákon s nejistotou výše i okamžiku výslovně počítá (odst. 3); vyžaduje nejlepší odhad k rozvahovému dni, nikoli jistotu. Neutralizace: kvalifikované stanovisko advokáta a dokumentovaná kalkulace rezervy.
+- *„Účetní opravné položky a rezervy nejsou daňově uznatelné, je tedy zbytečné je tvořit."* — Směšování daňového a účetního pohledu; účetní povinnost trvá bez ohledu na daňovou uznatelnost a její ignorování zakládá vadu účetnictví.
+- Riziko opačného excesu: nadhodnocené rezervy („big bath") vytvářejí skryté rezervy a zkreslují výsledek; rezervy také nesmějí být použity k úpravám hodnot aktiv (odst. 3) — snížení hodnoty aktiv patří opravným položkám a odpisům.
+
+#### H. Praktický závěr
+
+§ 26 operacionalizuje zásadu opatrnosti: zásoby na nižší realizovatelnou hodnotu, závazky v aktuálně zjištěné výši (oběma směry), přechodná snížení hodnoty opravnými položkami, trvalá odpisy a budoucí pravděpodobné povinnosti rezervami v nejlepším odhadu.
+
+**Checklist (účetní jednotka / auditor):**
+- [ ] Při inventarizaci porovnat účetní hodnotu zásob s prodejní cenou sníženou o náklady prodeje.
+- [ ] Prověřit stáří a bonitu pohledávek; rozlišit přechodné × trvalé snížení hodnoty.
+- [ ] Identifikovat tituly rezerv (spory, záruky, reklamace, restrukturalizace) a doložit nejlepší odhad.
+- [ ] Ověřit aktuální výši závazků (oběma směry) podle odst. 2.
+- [ ] Oddělit zákonné a účetní korekce; vyhodnotit odloženou daň.
+
+**Typicky rozhodné důkazy / podklady:** inventurní soupisy, saldokonta, výpisy z insolvenčního rejstříku a přihlášky pohledávek, právní stanoviska ke sporům, doklady o prodejních cenách zásob, kalkulace rezerv, vnitřní předpisy.
 
 ---
 
@@ -500,6 +757,43 @@ Zákon připouští dvě zvláštní metody pro cenné papíry mimo rozsah reál
 
 Mikro účetní jednotky (nejmenší kategorie dle § 1b ZoÚ) jsou od oceňování reálnou hodnotou obecně osvobozeny; výjimkou jsou regulované finanční subjekty (obchodníci s cennými papíry, platební instituce, investiční společnosti a fondy, penzijní fondy), u nichž by obecná výjimka vedla k neúplnému zachycení rizik. Tato kategorizace je v souladu s účetní směrnicí 2013/34/EU (čl. 36 pro mikro účetní jednotky).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Investiční s.r.o. (malá účetní jednotka, nikoli mikro) drží k 31. 12.: (a) akcie kotované na pražské burze pořízené k obchodování; (b) měnový forward EUR/CZK sjednaný k zajištění budoucí eurové tržby; (c) stoprocentní podíl v dceřiné společnosti; (d) pětiprocentní nekótovaný podíl v technologickém start-upu. Účetní sestavuje závěrku a řeší, které položky přecenit a jak. Důkazy/podklady: výpisy od obchodníka s cennými papíry, závěrečné kurzy burzy k rozvahovému dni, konfirmace forwardu a jeho ocenění od banky, zajišťovací dokumentace, účetní závěrka dceřiné společnosti, podklady k ocenění start-upu.
+
+**2. Právní otázka.** Které z držených položek podléhají povinnému ocenění reálnou hodnotou ke konci rozvahového dne a jak se reálná hodnota stanoví a zaúčtuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 — taxativní výčet položek (odst. 1), hierarchie reálné hodnoty: tržní hodnota → oceňovací modely → kvalifikovaný odhad/posudek znalce → zvláštní předpis (odst. 3–4), účtování rozdílů podle účetních metod (odst. 5), náhradní režimy včetně ekvivalence a amortizované ceny (odst. 6), výjimka pro mikro jednotky (odst. 7).
+- *Související ustanovení téhož zákona:* § 24 odst. 2 písm. b) (okamžik ocenění a povinnost zaznamenat je v účetních knihách), § 25 odst. 3 (zásada opatrnosti — použije se přiměřeně), § 4 odst. 12.
+- *Související předpisy:* Vyhláška 500 (§ 51 a násl. — výsledkové × rozvahové účtování, účet 414), ČÚS č. 008 (cenné papíry) a č. 009 (deriváty); směrnice 2013/34/EU (čl. 8); pojmově analogicky IFRS 13.
+- *Judikatura:* soudy v daňových a regulatorních sporech akcentují, že použitý oceňovací model či znalecký posudek musí být zdokumentovaný, ověřitelný a musí se přiměřeně blížit tržní hodnotě; svévolné nebo neodůvodněné ocenění neobstojí a jde k tíži účetní jednotky.
+
+**4. Subsumpce.** (a) Kotované akcie k obchodování spadají pod odst. 1 písm. a); reálnou hodnotou je závěrečná cena vyhlášená na regulovaném trhu v den ocenění (odst. 4, stupeň 1); rozdíl se účtuje výsledkově. (b) Forward je derivát → povinné přecenění bez výjimky (písm. b)); při řádné zajišťovací dokumentaci se uplatní režim zajištěné položky a zajišťovacího derivátu (písm. e)). (c) Stoprocentní podíl je účastí v ovládané osobě → z reálné hodnoty vyloučen (výjimka v písm. a)); ocení se pořizovací cenou, případně ekvivalencí podle odst. 6. (d) Nekótovaný pětiprocentní podíl reálné hodnotě podléhá; bez tržní ceny nastupuje oceňovací model či kvalifikovaný odhad (odst. 3 písm. b) a c)); není-li reálná hodnota objektivně zjistitelná, zůstává ocenění dle § 25 (odst. 6).
+
+**5. Řešení.** Přecenit položky (a), (b) a (d) k rozvahovému dni a přecenění zaznamenat v účetních knihách (§ 24 odst. 2 písm. b)): akcie výsledkově, zajišťovací derivát podle pravidel zajišťovacího účetnictví (efektivní část rozvahově), start-up podle doložitelného odhadu. Podíl v dceřiné společnosti nepřeceňovat reálnou hodnotou; zvolí-li jednotka ekvivalenci, musí ji použít pro všechny takové podíly. V příloze v účetní závěrce popsat použité metody stanovení reálné hodnoty.
+
+**6. Varianty.** (i) Kdyby jednotka byla mikro účetní jednotkou (a nešlo o obchodníka s cennými papíry či jiný subjekt dle odst. 7 písm. a)–d)), reálnou hodnotou by nepřeceňovala vůbec a držela by historické ceny. (ii) Kdyby forward nebyl zajišťovací, ale spekulativní, přeceňoval by se vždy výsledkově; zajišťovací účetnictví bez řádné dokumentace zajištění použít nelze.
+
+#### G. Protiargumenty a rizika
+
+- *„Přecenění nerealizovaných zisků do výsledku odporuje zásadě opatrnosti (§ 25 odst. 3)."* — § 27 je vůči ní lex specialis: u taxativně vyjmenovaných položek zákonodárce upřednostnil aktuální tržní informaci; opatrnost se uplatní přiměřeně (odst. 5) a u rozvahově účtovaných rozdílů (účet 414) se nerealizované zisky do rozdělitelného výsledku nedostanou.
+- *„Reálná hodnota nekótovaných podílů je nespolehlivá a manipulovatelná."* — Riziko je reálné u stupňů 2 a 3 hierarchie; neutralizuje se dokumentací modelu, citlivostní analýzou, případně posudkem znalce; není-li odhad objektivně možný, zákon sám vrací ocenění do § 25 (odst. 6).
+- Riziko volatility: výsledkové přecenění rozkolísává hospodářský výsledek (dopad na úvěrové kovenanty, podíly na zisku, test úpadku); jednotka musí být schopna pohyby vysvětlit v příloze a v řízení vůči bankám či správci daně.
+
+#### H. Praktický závěr
+
+§ 27 prolamuje historické ceny jen pro taxativně vymezené položky (zejména cenné papíry k obchodování a všechny deriváty); reálná hodnota se zjišťuje v hierarchii trh → model → kvalifikovaný odhad a oceňovací rozdíly se účtují výsledkově, nebo rozvahově podle kategorie položky.
+
+**Checklist (účetní jednotka / auditor):**
+- [ ] Kategorizovat finanční nástroje (k obchodování / držené do splatnosti / účasti / realizovatelné).
+- [ ] Ověřit kategorii jednotky — mikro jednotky nepřeceňují (odst. 7), ledaže jde o vyjmenované finanční instituce.
+- [ ] Přednostně získat tržní ceny z regulovaného trhu k okamžiku ocenění; teprve poté použít modely či odhady.
+- [ ] U zajišťovacích derivátů doložit zajišťovací dokumentaci a efektivitu zajištění.
+- [ ] Zaznamenat přecenění do účetních knih a popsat metody v příloze v účetní závěrce.
+
+**Typicky rozhodné důkazy / podklady:** burzovní závěrečné kurzy, konfirmace a ocenění od protistran, dokumentace oceňovacích modelů, znalecké posudky, zajišťovací dokumentace, výpisy z evidence cenných papírů.
+
 ---
 
 ### § 28 — Odpisování majetku; odpisový plán
@@ -553,6 +847,43 @@ Zákon výslovně limituje celkové odpisy: **majetek se odpisuje jen do výše 
 - Delší účetní životnost → nižší účetní odpisy < daňové odpisy → odložený daňový závazek.
 
 Odložená daň se zachycuje dle ČÚS č. 003, přičemž povinnost ji vykazovat se vztahuje na velké a střední účetní jednotky a na všechny konsolidující účetní jednotky; mikro a malé účetní jednotky, které nejsou součástí konsolidačního celku, mají výjimku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pekárna Krása s.r.o. (nájemce) si na deset let pronajala výrobní halu od Reality Beta a.s. (pronajímatel). Se souhlasem pronajímatele provedla na svůj náklad vestavbu chladicího boxu a rekonstrukci elektroinstalace za 1,2 mil. Kč. Dále užívá pec pořízenou formou finančního leasingu s povinností odkupu po pěti letech a vlastní rozvozovou dodávku, kterou plánuje intenzivně využívat čtyři roky. Důkazy/podklady: nájemní smlouva a písemný souhlas vlastníka s úpravami, stavební dokumentace a faktury, leasingová smlouva, protokoly o zařazení do užívání, odpisový plán.
+
+**2. Právní otázka.** Kdo je oprávněn účtovat o technickém zhodnocení provedeném nájemcem na najaté nemovitosti a odpisovat je a kdo odpisuje majetek užívaný na základě finančního leasingu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 — způsobilý odpisovatel (odst. 1–4: vlastník či hospodařící jednotka; pronajímatel u nájmu a finančního leasingu; pachtýř závodu jen dle smlouvy), technické zhodnocení na cizím majetku (odst. 5), povinný odpisový plán a limit odpisů do výše ocenění (odst. 6).
+- *Související ustanovení téhož zákona:* § 25 (ocenění technického zhodnocení pořizovací cenou / vlastními náklady), § 26 odst. 3 (odpisy jako trvalé snížení hodnoty), § 7 odst. 1 (věrný obraz při volbě doby a metody odpisování).
+- *Související předpisy:* § 33 ZDP (definice technického zhodnocení a hodnotový limit 80 000 Kč), § 28 odst. 3 a 7 ZDP (daňové odpisování TZ nájemcem — písemný souhlas vlastníka), § 26–33 ZDP (daňové odpisy); Vyhláška 500 (§ 7, § 56), ČÚS č. 013; OZ (nájem, výpůjčka, pacht závodu).
+- *Judikatura:* Nejvyšší správní soud setrvale odlišuje opravu (uvedení do předchozího stavu) od technického zhodnocení (změna technických parametrů, rozšíření vybavenosti nebo změna účelu užívání) a klade důkazní břemeno o charakteru zásahu na účetní jednotku; z judikatury rovněž plyne, že odpisovatelem je v zákonem vymezených případech ten, kdo majetek ekonomicky využívá, nikoli mechanicky vlastník.
+
+**4. Subsumpce.** Vestavba boxu a rekonstrukce elektroinstalace mění technické parametry haly → technické zhodnocení, nikoli oprava; bylo provedeno na účet nájemce → podle odst. 5 o něm účtuje a odpisuje je nájemce (Krása) jako samostatnou majetkovou položku, zpravidla po dobu nájmu, je-li kratší než životnost zhodnocení. Pec na finančním leasingu odpisuje leasingová společnost jako vlastník-poskytovatel (odst. 3); Krása účtuje pouze o leasingových splátkách. Dodávku ve vlastnictví odpisuje Krása podle odst. 1; účetní doba odpisování se řídí plánovanou skutečnou životností (čtyři roky), nezávisle na daňové odpisové skupině.
+
+**5. Řešení.** Krása zařadí technické zhodnocení v ocenění 1,2 mil. Kč, sestaví odpisový plán (doba, metoda, vstupní hodnota, případná zbytková hodnota) a odpisuje nejvýše do výše ocenění v účetnictví (odst. 6). Pro daňové odpisování TZ si zajistí písemný souhlas vlastníka podle ZDP a smluvně upraví vypořádání zůstatkové ceny při skončení nájmu (jinak hrozí jednorázový odpis zůstatkové ceny a spor o bezdůvodné obohacení pronajímatele). Rozdíl účetních a daňových odpisů promítne do odložené daně.
+
+**6. Varianty.** (i) Kdyby Krása měla závod v pachtu a pachtovní smlouva ji výslovně opravňovala o majetku účtovat a odpisovat jej, odpisovala by propachtovaný majetek ona (odst. 4). (ii) Kdyby pec užívala na základě operativního nájmu bez práva či povinnosti odkupu, nešlo by o finanční leasing podle odst. 3 — odpisuje pronajímatel a u nájemce se nic nemění.
+
+#### G. Protiargumenty a rizika
+
+- *„Odpisovat smí jen vlastník — nájemce nemůže mít v aktivech cizí majetek."* — § 28 stojí na ekonomickém pojetí: odst. 1 věta druhá a odst. 2 až 5 výslovně určují odpisovatele odlišně od vlastnictví (nabytí projevem vůle, finanční leasing, pacht závodu, technické zhodnocení); civilněprávní námitka proto neobstojí.
+- *„Účetní odpisy lze pro jednoduchost nastavit shodně s daňovými."* — Rozšířená praxe malých jednotek, avšak riskantní zjednodušení: neodpovídá-li daňová doba skutečné ekonomické životnosti, účetnictví nepodává věrný obraz (§ 7) a auditor i kontrola to vytknou; odpisový plán musí vycházet z ekonomické životnosti, daňové odpisy se řeší mimoúčetně.
+- Riziko u technického zhodnocení: chybná kvalifikace oprava × TZ (důkazní břemeno nese jednotka) a chybějící písemný souhlas vlastníka pro daňové odpisy; účetní povinnost účtovat o TZ podle odst. 5 však trvá i bez něj.
+
+#### H. Praktický závěr
+
+§ 28 určuje, kdo majetek odpisuje (zásadně vlastník či jednotka hospodařící s majetkem státu/samospráv; výjimky: finanční leasing — poskytovatel, pacht závodu — pachtýř dle smlouvy, technické zhodnocení — uživatel, který je provedl na svůj účet), a ukládá odpisovat podle odpisového plánu jen do výše ocenění v účetnictví.
+
+**Checklist (účetní jednotka / auditor):**
+- [ ] Určit způsobilého odpisovatele pro každou položku majetku (odst. 1–5).
+- [ ] Kvalifikovat zásahy do cizího majetku (oprava × technické zhodnocení) a charakter zásahu doložit.
+- [ ] Sestavit a průběžně aktualizovat odpisový plán podle skutečné ekonomické životnosti (doba, metoda, zbytková hodnota).
+- [ ] Hlídat limit odpisů do výše ocenění v účetnictví; po plném odepsání odpisy zastavit.
+- [ ] U TZ najatého majetku zajistit písemný souhlas vlastníka (daňové odpisy) a smluvní vypořádání při skončení nájmu; vyhodnotit odloženou daň z rozdílu účetních a daňových odpisů.
+
+**Typicky rozhodné důkazy / podklady:** nájemní, leasingové a pachtovní smlouvy, souhlas vlastníka s úpravami, stavební a projektová dokumentace, protokoly o zařazení do užívání, karty majetku, odpisový plán, kalkulace odložené daně.
 
 ---
 

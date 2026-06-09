@@ -66,6 +66,45 @@ Odst. 5 řeší situaci, kdy osoba pověřená pobočkou nemá přístup ke vše
 - § 32r — kritéria rovnocennosti (osvobození od povinnosti).
 - § 21a ZoÚ — způsob zveřejnění účetních výkazů; aplikuje se přiměřeně na zveřejnění zprávy (viz [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md)).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** GAMA a.s., česká strojírenská akciová společnost bez mateřské i dceřiné společnosti (není ovládající ani ovládanou osobou), má od roku 2024 pobočku na Slovensku a stálou provozovnu v Německu vzniklou dlouhodobým montážním projektem. Roční úhrn čistého obratu: za období 2024 činil 18,5 mld. Kč, za 2025 19,4 mld. Kč a za 2026 19,8 mld. Kč. Představenstvo řeší, zda a od kdy musí společnost sestavovat zprávu o daních z příjmů. Důkazně je třeba obstarat: účetní závěrky a výpočty ročního úhrnu čistého obratu za jednotlivá období, výpis ze slovenského obchodního rejstříku k pobočce, doklady o vzniku stálé provozovny v Německu (registrace, smluvní dokumentace projektu) a přehled vlastnické struktury prokazující status samostatné účetní jednotky.
+
+**2. Právní otázka.** Za které účetní období vzniká GAMA a.s. poprvé povinnost sestavit zprávu o daních z příjmů podle § 32m odst. 1, jestliže roční úhrn čistého obratu dosáhl 19 000 000 000 Kč poprvé za období 2025 a podruhé za období 2026?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32m odst. 1 a 3 ZoÚ — povinnost samostatné účetní jednotky (obchodní společnosti) se zahraniční pobočkou nebo stálou provozovnou sestavit zprávu poprvé za druhé ze dvou po sobě jdoucích období s obratem ≥ 19 mld. Kč; negativní definice samostatné účetní jednotky.
+- *Související ustanovení téhož zákona:* § 1d (roční úhrn čistého obratu), § 32n (obsah zprávy), § 32q (zpřístupnění), § 32r odst. 1 (osvobození při reportingu dle čl. 89 CRD IV), § 21a (způsob zveřejnění).
+- *Související předpisy:* směrnice 2013/34/EU ve znění směrnice (EU) 2021/2101 (čl. 48a a násl. — veřejné CbCR; použije se poprvé na účetní období započatá 22. 6. 2024 nebo později); zákon č. 164/2013 Sb. (neveřejné CbCR — odlišný režim); § 74 a násl. ZOK (ovládání).
+- *Judikatura:* k veřejnému CbCR dosud česká judikatura neexistuje (nový institut); výklad musí být eurokonformní — opřený o text a recitály směrnice 2021/2101; podpůrně rejstříková praxe k vynucování ukládání listin dle § 21a.
+
+**4. Subsumpce.** GAMA je obchodní společností a není ovládající ani ovládanou osobou → samostatná účetní jednotka dle odst. 3 písm. a). Zahraniční pobočka i stálá provozovna existují v posuzovaných obdobích → přeshraniční prvek splněn. Obrat za 2024 prahu nedosáhl; období 2025 je prvním a období 2026 druhým ze dvou po sobě jdoucích nadprahových období → povinnost vzniká poprvé za účetní období 2026. Sporné může být vymezení ročního úhrnu čistého obratu (které výnosy se započítávají) a okamžik vzniku stálé provozovny — obojí je nutno doložit.
+
+**5. Řešení.** GAMA sestaví zprávu o daních z příjmů poprvé za účetní období 2026 podle obsahových pravidel § 32n a zveřejní ji postupem dle § 32q (uložení do sbírky listin dle § 21a, odkaz a oznámení na internetových stránkách do 12 měsíců od rozvahového dne). Povinnost trvá, dokud obrat neklesne pod 19 mld. Kč po dvě po sobě jdoucí období; naposledy se zpráva sestaví za první z těchto podprahových období. Rizika: přehlédnutí stálé provozovny (vzniká fakticky, bez formální registrace); neplnění může rejstříkový soud vynucovat pořádkovou pokutou (§ 104 zákona č. 304/2013 Sb.) a jde o porušení účetních povinností s reputačními dopady.
+
+**6. Varianty.** (a) Pokud by GAMA neměla žádnou zahraniční pobočku ani stálou provozovnu, povinnost by nevznikla vůbec — čistě domácí subjekty § 32m odst. 1 nepodléhají. (b) Pokud by GAMA v roce 2026 koupil strategický investor a stala by se ovládanou osobou, přestala by být samostatnou účetní jednotkou; povinnost by se dále posuzovala na úrovni skupiny (§ 32o) u nejvyšší konsolidující osoby.
+
+#### G. Protiargumenty a rizika
+
+- *„Stálou provozovnu nemáme nikde registrovánu, povinnost nevznikla."* — Neobstojí: stálá provozovna je materiální (daňový) koncept a vzniká naplněním znaků podle daňových předpisů a smluv o zamezení dvojího zdanění, nikoli registrací; rozhodný je skutečný stav v účetním období.
+- *„Zveřejnění poškodí obchodní postavení společnosti."* — Neutralizace: zákon nezná osvobození od povinnosti jako celku z důvodu citlivosti; umožňuje pouze dočasné vynechání konkrétních údajů za podmínek § 32n odst. 6 (s vysvětlením a dozveřejněním do 5 let).
+- *„Údaje již předáváme správci daně v rámci CbCR dle zákona č. 164/2013 Sb."* — Neutralizace: neveřejné CbCR je určeno výhradně správcům daně; veřejné CbCR je samostatná povinnost vůči veřejnosti. Lze však využít jednotnou metodiku (§ 32n odst. 2).
+- Slabá místa: chybí judikatura i správní praxe; výkladové nejasnosti u výpočtu čistého obratu po změnách jeho zákonné definice a u prvního aplikovatelného účetního období.
+
+#### H. Praktický závěr
+
+§ 32m dopadá jen na subjekty se skutečně přeshraničním profilem: samostatné obchodní společnosti s obratem ≥ 19 mld. Kč a zahraniční pobočkou či stálou provozovnou, resp. na české pobočky velkých třetozemních entit (obrat pobočky ≥ 240 mil. Kč + výnosy entity ≥ 750 mil. EUR, fixní kurz ECB k 21. 12. 2021). Dvouletý test vstupu i výstupu vyžaduje průběžné sledování obratu.
+
+**Checklist (účetní jednotka / poradce / vedoucí pobočky):**
+- [ ] Ověřit status samostatné účetní jednotky (absence ovládání, odst. 3 písm. a))
+- [ ] Ověřit existenci zahraniční pobočky nebo stálé provozovny v účetním období
+- [ ] Sledovat roční úhrn čistého obratu ve dvou po sobě jdoucích obdobích (pravidlo vstupu/výstupu)
+- [ ] U třetozemní entity: testovat obrat pobočky (240 mil. Kč) i výnosy entity (750 mil. EUR, přepočet kurzem ECB k 21. 12. 2021, odst. 4)
+- [ ] U pobočky: prokazatelně si vyžádat údaje od zřizovatele; při neposkytnutí připojit prohlášení o neúplnosti (odst. 5)
+- [ ] Prověřit osvobození dle § 32r a navázat zveřejněním dle § 32q
+
+**Typicky rozhodné důkazy / podklady:** účetní závěrky a obratové výpočty za jednotlivá období, výpisy ze zahraničních rejstříků k pobočkám, doklady o stálých provozovnách, organigram vlastnické struktury, korespondence pobočky se zřizovatelem.
+
 ---
 
 ### § 32n — Obsah zprávy o daních z příjmů
@@ -158,6 +197,46 @@ Výjimka z povinnosti uvést určité informace je vázána na kumulativní podm
 
 Vynechání je časově omezeno: neuvedené informace musí být obsaženy v některé ze zpráv sestavených za období **do pěti let** od roku, za který k vynechání došlo. Tím zákon zabraňuje trvalé skrytosti dat — lze je odložit, nelze je trvale zatajit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** BETA a.s., samostatná česká obchodní společnost povinná dle § 32m odst. 1, má stálou provozovnu v Polsku a pobočku ve Švýcarsku. Při sestavování zprávy za rok 2026 zamýšlí: (i) neuvést údaje o výnosech a kumulovaných výsledcích hospodaření připadajících na švýcarskou pobočku, protože vede důvěrná jednání o prodeji tamního závodu a zveřejnění by oslabilo její vyjednávací pozici; (ii) licenční výnos ekonomicky spojený s činností v ČR i v Polsku vykázat v obou jurisdikcích. Důkazy: pracovní verze zprávy, interní analýza hrozící újmy (probíhající jednání, NDA), mapování výnosů na jurisdikce, datové podklady neveřejného CbCR, aktuální unijní seznamy jurisdikcí.
+
+**2. Právní otázka.** Může BETA a.s. podle § 32n odst. 6 dočasně vynechat obchodně citlivé údaje týkající se švýcarské jurisdikce, a může týž výnos vykázat ve dvou daňových jurisdikcích současně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32n — katalog povinných údajů (odst. 1), možnost použít metodiku neveřejného CbCR (odst. 2), jednotný vzor a elektronický formát (odst. 3), jurisdikční členění (odst. 4), zákaz vícenásobného přiřazení (odst. 5), doložka obchodní ochrany (odst. 6), dobrovolné vysvětlení nesrovnalostí (odst. 7).
+- *Související ustanovení téhož zákona:* § 32m (vznik povinnosti), § 32p odst. 2 (obdobné použití na konsolidovanou zprávu), § 32q (zveřejnění).
+- *Související předpisy:* čl. 48c směrnice 2013/34/EU ve znění směrnice (EU) 2021/2101; prováděcí předpis EU dle čl. 48c odst. 4 (společný vzor a strojově čitelný formát); vyhláška se vzorem zprávy podle zemí k zákonu č. 164/2013 Sb. (odst. 2); závěry Rady EU — unijní seznam nespolupracujících jurisdikcí („černá listina") a seznam stavu spolupráce („šedá listina").
+- *Judikatura:* dosud žádná; doložku odst. 6 je jako výjimku z transparentnostního pravidla nutno vykládat restriktivně (obecná zásada výkladu výjimek, eurokonformně dle recitálů směrnice 2021/2101).
+
+**4. Subsumpce.** Švýcarsko není členským státem EU; rozhodné je, zda k 1. březnu rozhodného roku figuruje na unijní černé či šedé listině (odst. 4 písm. b), c)) — pokud ne, vykazuje se v souhrnné položce dle písm. d) a doložka odst. 6 je použitelná. Hrozbu „závažného poškození obchodního postavení" mohou probíhající akviziční jednání naplnit, je-li doložena konkrétně, nikoli jen obecným tvrzením. Licenční výnos: návětí odst. 4 přiřazuje údaje podle usazení, stálé provozovny či trvalé podnikatelské činnosti rozhodné pro zdanění; odst. 5 dvojí vykázání výslovně zakazuje — výnos musí být přiřazen právě jedné jurisdikci.
+
+**5. Řešení.** BETA může švýcarské údaje dočasně vynechat, avšak jen pokud: vynechání ve zprávě výslovně uvede, vysvětlí důvody a neuvedené informace zveřejní v některé zprávě za období započaté do 5 let od rozvahového dne (odst. 6). Vynechat nelze údaje týkající se jurisdikcí z unijních listin. Licenční výnos přiřadí jediné jurisdikci (zde polské stálé provozovně, podléhá-li tam činnost dani), nikoli oběma. Zprávu sestaví podle společného vzoru a v elektronickém formátu dle prováděcího předpisu EU a uvede, zda využila metodiku neveřejného CbCR (odst. 2).
+
+**6. Varianty.** (a) Kdyby se citlivé údaje týkaly jurisdikce zařazené na černé nebo šedé listině, vynechání by bylo vyloučeno — u těchto jurisdikcí je transparentnost neomezitelná (odst. 6). (b) Kdyby rozdíl mezi splatnou (písm. g)) a zaplacenou daní (písm. h)) způsobil doměrek za minulá léta, mohla by BETA připojit dobrovolné vysvětlení dle odst. 7 — povinnost uvést obě hodnoty tím není dotčena.
+
+#### G. Protiargumenty a rizika
+
+- *„Závažné poškození obchodního postavení je neurčitý pojem a unese široký výklad."* — Neutralizace: jde o výjimku, kterou je nutno vykládat restriktivně; břemeno tvrzení a doložení nese účetní jednotka, vynechání musí být položkové, odůvodněné a časově ohraničené (dozveřejnění do 5 let), nikoli plošné.
+- *„Souhrnné vykázání třetích zemí dle odst. 4 písm. d) detail stejně skryje, doložka je nadbytečná."* — Nepřesné: doložka má samostatný význam u členských států EU, kde je členění po jednotlivých státech povinné a agregace nepřípustná.
+- Riziko metodické nekonzistence: použije-li se metodika neveřejného CbCR (odst. 2) bez výslovné deklarace ve zprávě, je zpráva napadnutelná pro porušení odst. 2 věty druhé; deklarace je povinná.
+- Slabé místo: zákon výslovně neřeší nepřímou identifikaci osob u jurisdikcí s minimem zaměstnanců (položka FTE) ani neexistuje správní praxe k posuzování „závažnosti" újmy.
+
+#### H. Praktický závěr
+
+§ 32n určuje úplný obsah zprávy: devět povinných položek, čtyřstupňové jurisdikční členění (členské státy EU jednotlivě, černá a šedá listina jednotlivě, ostatní souhrnně), jednotný elektronický formát a přísně podmíněnou možnost dočasného vynechání citlivých údajů.
+
+**Checklist (sestavovatel zprávy / poradce):**
+- [ ] Naplnit všech devět položek odst. 1 (vč. FTE a kumulovaných výsledků hospodaření)
+- [ ] Rozhodnout o použití metodiky neveřejného CbCR a volbu ve zprávě deklarovat (odst. 2)
+- [ ] Použít společný vzor a elektronický formát dle prováděcího předpisu EU (odst. 3)
+- [ ] Ověřit unijní seznamy k rozhodným datům (1. březen) a členit jurisdikce dle odst. 4
+- [ ] Zkontrolovat, že žádná činnost není přiřazena více jurisdikcím (odst. 5)
+- [ ] Případné vynechání údajů: deklarace + důvody + evidence 5leté lhůty k dozveřejnění (odst. 6)
+- [ ] Zvážit vysvětlení rozdílu splatné a zaplacené daně (odst. 7)
+
+**Typicky rozhodné důkazy / podklady:** datové podklady (neveřejného) CbCR, mapování výnosů a činností na jurisdikce, výpočet přepočtených úvazků, doklady o hrozící újmě pro účely odst. 6, aktuální znění unijních seznamů, výstup ve formátu dle předpisu EU.
+
 ---
 
 ### § 32o — Konsolidovaná zpráva o daních z příjmů
@@ -221,6 +300,45 @@ Tento komplex norem odráží snahu zákonodárce zajistit, aby žádná kombina
 
 Konsolidovaná zpráva o daních z příjmů je samostatným výstupem — nevstupuje do konsolidované účetní závěrky ani ji nenahrazuje. Je to přídavný veřejný dokument, který je svázán s konsolidovanou závěrkou pouze kritériem prahu výnosů. Viz [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md) k pojmu konsolidace obecně.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** SIGMA s.r.o. je velká účetní jednotka (obchodní společnost), 100% dceřiná společnost americké korporace OMEGA Inc., která je nejvyšší konsolidující osobou skupiny působící ve 40 státech. Konsolidované výnosy OMEGA Inc. podle US GAAP přesahují ekvivalent 750 000 000 EUR za účetní období 2025 i 2026. OMEGA Inc. odmítá SIGMA poskytnout rozpad daňových údajů za jurisdikce mimo EU s odkazem na interní důvěrnost. Účastníci: SIGMA („náhradní" povinný dle odst. 2), OMEGA Inc. (non-EU vrchol), jednatelé SIGMA (odpovědnost za plnění). Důkazy: konsolidovaná závěrka vrcholu, organigram skupiny, přepočet kritéria výnosů kurzem ECB k 21. 12. 2021, písemná žádost o údaje a odpověď vrcholu.
+
+**2. Právní otázka.** Je SIGMA s.r.o. povinna sestavit konsolidovanou zprávu o daních z příjmů podle § 32o odst. 2 a jak má povinnost splnit, neposkytne-li jí nejvyšší konsolidující osoba všechny potřebné údaje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32o odst. 2 (povinnost střední/velké české dcery non-EU vrcholu), odst. 5 (definice nejvyšší konsolidující osoby a konsolidovaných výnosů dle účetních předpisů vrcholu), odst. 6 (fixní přepočet kurzem ECB k 21. 12. 2021), odst. 7 (žádost o údaje a prohlášení o neúplnosti).
+- *Související ustanovení téhož zákona:* § 1b (kategorie účetních jednotek — střední/velká), § 32p (obsah konsolidované zprávy; měna dle odst. 1 písm. c)), § 32q (zveřejnění), § 32r odst. 4 (osvobození rovnocennou zprávou vrcholu), § 22 a násl. (konsolidace).
+- *Související předpisy:* čl. 48b směrnice 2013/34/EU ve znění směrnice (EU) 2021/2101; § 74 a násl. ZOK (ovládání, společný vliv); zákon č. 164/2013 Sb. (odlišný, neveřejný CbCR).
+- *Judikatura:* dosud žádná; nosný je eurokonformní výklad — účelem čl. 48b je, aby sídlo vrcholu mimo EU neumožnilo obejití povinnosti.
+
+**4. Subsumpce.** SIGMA je velkou účetní jednotkou a obchodní společností → osobní působnost odst. 2 naplněna. OMEGA Inc. je nejvyšší konsolidující osobou (sama konsoliduje a není ovládána, odst. 5 písm. a)) ustavenou mimo EU. Konsolidované výnosy dle účetních předpisů vrcholu (US GAAP, odst. 5 písm. b)) překročily po dvě po sobě jdoucí období ekvivalent 750 mil. EUR (přepočet fixním kurzem dle odst. 6) → povinnost vzniká poprvé za druhé z těchto období (2026). Sporná je pouze úplnost dostupných dat — tu řeší odst. 7.
+
+**5. Řešení.** SIGMA písemně a prokazatelně požádá OMEGA Inc. o všechny potřebné údaje. Neobdrží-li je, sestaví konsolidovanou zprávu z údajů, které má k dispozici, a připojí prohlášení, že vrchol všechny potřebné údaje neposkytl (odst. 7) — tím je povinnost splněna a odpovědnost za chybějící část limitována. Zprávu zveřejní dle § 32q; měnou je měna její vlastní účetní závěrky (§ 32p odst. 1 písm. c)). Alternativně se SIGMA povinnosti zprostí, pokud OMEGA Inc. sama uveřejní rovnocennou zprávu splňující podmínky § 32r odst. 4 (identifikace české dcery, překlad do češtiny/angličtiny, strojová čitelnost, lhůta 12 měsíců).
+
+**6. Varianty.** (a) Kdyby OMEGA Inc. byla sama ovládána ještě vyšší konsolidující entitou, nebyla by nejvyšší konsolidující osobou — kritéria (výnosy, rovnocenná zpráva) by se testovala u skutečného vrcholu pyramidy. (b) Kdyby SIGMA byla jen malou účetní jednotkou, povinnost dle odst. 2 by nevznikla; měla-li by však skupina v ČR zapsanou pobočku s obratem ≥ 240 mil. Kč, nastoupila by pobočková větev dle odst. 3 nebo 4.
+
+#### G. Protiargumenty a rizika
+
+- *„Česká dcera nemůže odpovídat za data celé skupiny, která nemá k dispozici."* — Neutralizace: zákon to zohledňuje — povinnost se splní sestavením z dostupných údajů s prohlášením o neúplnosti (odst. 7); klíčové je doložit, že o údaje bylo skutečně a včas požádáno.
+- *„Jde o nepřípustnou extrateritoriální regulaci non-EU vrcholu."* — Neutralizace: povinnost formálně i fakticky dopadá na českou entitu, resp. pobočku, nikoli na vrchol; jde o jednotnou transpozici čl. 48b směrnice platnou v celé EU.
+- Riziko chybného určení nejvyšší konsolidující osoby u vícestupňových struktur a společných podniků (společný vliv se nepovažuje za ovládání) a riziko přepočtu kritéria aktuálním kurzem namísto fixního kurzu ECB k 21. 12. 2021 (odst. 6).
+- Slabé místo: zákon nestanoví formu ani lhůtu „žádosti o údaje" dle odst. 7 — bez písemné, datované dokumentace nemusí být prohlášení o neúplnosti obhajitelné.
+
+#### H. Praktický závěr
+
+§ 32o pokrývá čtyři scénáře: českou vrcholovou konsolidující osobu (odst. 1), českou střední/velkou dceru non-EU vrcholu (odst. 2) a dvě pobočkové varianty pro non-EU struktury bez kvalifikované EU-dcery (odst. 3 a 4). Smyslem je, aby žádná korporátní architektura nevyvedla skupinu z povinnosti jen kvůli sídlu vrcholu mimo EU.
+
+**Checklist (skupina / česká dcera / pobočka):**
+- [ ] Určit nejvyšší konsolidující osobu (odst. 5 písm. a)); vyloučit vztahy společného vlivu
+- [ ] Přiřadit situaci správnému odstavci (1–4) a otestovat příslušné prahy ve dvou po sobě jdoucích obdobích
+- [ ] Kritérium 750 mil. EUR přepočítat fixním kurzem ECB k 21. 12. 2021 (odst. 6)
+- [ ] U odst. 2: písemně požádat vrchol o údaje a korespondenci archivovat (odst. 7)
+- [ ] Při neposkytnutí údajů sestavit zprávu z dostupných dat + prohlášení o neúplnosti (odst. 7, resp. 8)
+- [ ] Prověřit osvobození rovnocennou zprávou vrcholu (§ 32r odst. 4) a zveřejnit dle § 32q
+
+**Typicky rozhodné důkazy / podklady:** konsolidovaná účetní závěrka vrcholu, organigram skupiny, výpočet přepočtu kritéria, písemné žádosti o údaje a odpovědi, obratové údaje české pobočky.
+
 ---
 
 ### § 32p — Obsah konsolidované zprávy o daních z příjmů
@@ -262,6 +380,43 @@ Zákon rozlišuje dvě situace:
 #### Odkaz na § 32n odst. 2–7
 
 Odst. 2 § 32p přejímá formou globálního odkazu celá metodická pravidla § 32n odst. 2–7 (vazba na neveřejný CbCR, elektronický formát, jurisdikční logika, zákaz duplicitní přiřazení, doložka obchodní ochrany, vysvětlení nesrovnalostí). Tím se zamezuje duplicitní normativní úpravě a zajišťuje se, že konsolidovaná i individuální zpráva dodržují tutéž metodiku.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** KAPPA Group a.s., česká nejvyšší konsolidující osoba povinná dle § 32o odst. 1, konsoliduje dcery v ČR, na Slovensku a v Rakousku, 50% společný podnik (ovládání na základě společného vlivu) v třetím státě a plně ovládanou dceru v jurisdikci aktuálně zařazené na unijním seznamu nespolupracujících jurisdikcí (např. Panama). Dceřiné společnosti i společný podnik vyplácejí matce dividendy. Finanční ředitel řeší: které dividendy vyloučit z celkových výnosů, koho uvést v povinném seznamu a v jaké měně zprávu sestavit. Důkazy: konsolidovaná účetní závěrka, konsolidační balíčky, přehled dividendových toků, seznam entit skupiny s jurisdikcemi, unijní seznamy k rozhodným datům.
+
+**2. Právní otázka.** Musí KAPPA z celkových výnosů v konsolidované zprávě vyloučit dividendy přijaté od plně ovládaných dcer a uvést v seznamu dle § 32p odst. 1 písm. a) i dceru usazenou v jurisdikci z unijní černé listiny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32p odst. 1 — rozsah dat (vrchol + všechny plně ovládané osoby z konsolidované závěrky), povinný seznam (písm. a)), měna (písm. b) a c)), vyloučení vnitroskupinových dividend (písm. d)); odst. 2 — obdobné použití § 32n odst. 2 až 7.
+- *Související ustanovení téhož zákona:* § 32o (vznik povinnosti a sestavující subjekt), § 32n odst. 4 (jurisdikce z unijních listin vždy odděleně), § 32n odst. 6 (doložka ochrany nepoužitelná na jurisdikce z listin), § 22 a násl. (konsolidační celek).
+- *Související předpisy:* čl. 48c směrnice 2013/34/EU ve znění směrnice (EU) 2021/2101; prováděcí předpis EU ke společnému vzoru a formátu; závěry Rady EU (unijní seznamy).
+- *Judikatura:* dosud žádná; metodickou oporou je prováděcí předpis EU a praxe neveřejného CbCR (BEPS Action 13), na jehož pokyny § 32n odst. 2 ve spojení s § 32p odst. 2 odkazuje.
+
+**4. Subsumpce.** Dividendy od plně ovládaných dcer jsou vnitroskupinovým výnosem → vylučují se (písm. d)), aby tentýž výkon nebyl počítán dvakrát (na úrovni dcery i matky). Dividendy od společného podniku se nevylučují — ovládání na základě společného vlivu je z vylučovacího pravidla výslovně vyňato. Seznam dle písm. a) zahrnuje všechny ovládané osoby usazené v EU a v jurisdikcích z unijních listin → panamská dcera v něm musí být uvedena a její údaje se dle § 32n odst. 4 písm. b) vykazují odděleně; doložka obchodní ochrany je u ní vyloučena (§ 32n odst. 6 via § 32p odst. 2).
+
+**5. Řešení.** KAPPA sestaví zprávu za celou skupinu agregovaně po jurisdikcích (nikoli jako prostý součet zpráv jednotlivých entit), v měně své konsolidované účetní závěrky (písm. b)), s úplným seznamem dle písm. a) a s vyloučením vnitroskupinových dividend (písm. d)). Vzor, formát, jurisdikční členění, případná doložka i vysvětlení nesrovnalostí se řídí § 32n odst. 2–7 obdobně. Praktická rizika: opomenutí entity v seznamu (pro uživatele zprávy signál neúplnosti dat) a nesprávné zacházení s ekvivalenčně konsolidovanými podíly.
+
+**6. Varianty.** (a) Sestavovala-li by zprávu náhradní česká dcera za non-EU vrchol (§ 32o odst. 2), použila by měnu své vlastní účetní závěrky (písm. c)), nikoli měnu konsolidované závěrky vrcholu. (b) Kdyby byl společný podnik plně ovládán (nikoli společný vliv), jeho dividendy by se z výnosů vyloučily a jeho údaje by vstoupily do skupinových dat příslušné jurisdikce.
+
+#### G. Protiargumenty a rizika
+
+- *„Vyloučení dividend zkresluje vazbu na konsolidovanou závěrku."* — Neutralizace: jde o cílené pravidlo proti dvojímu počítání téhož výkonu; konsolidovaná závěrka vnitroskupinové výnosy eliminuje obdobně, logika obou výstupů je konzistentní.
+- *„Povinný seznam dcer odhaluje citlivou strukturu skupiny."* — Neutralizace: seznam je výslovným zákonným požadavkem (písm. a)) s kontrolní funkcí pro uživatele zprávy; doložkou dle § 32n odst. 6 jej nelze potlačit u jurisdikcí z unijních listin a plošné vynechání by odporovalo restriktivnímu výkladu výjimky.
+- Riziko: hraniční případy konsolidačních metod (ekvivalence, poměrná konsolidace) zákon výslovně neřeší — je vhodné zvolený přístup dokumentovat a deklarovat soulad s metodikou dle § 32n odst. 2.
+
+#### H. Praktický závěr
+
+§ 32p přenáší obsahová pravidla individuální zprávy na úroveň skupiny: data za vrchol a všechny plně ovládané entity agregovaně po jurisdikcích, povinný seznam EU-dceří a dceří z unijních listin, jednoznačné měnové pravidlo a vyloučení vnitroskupinových dividend.
+
+**Checklist (konsolidující jednotka / náhradní sestavovatel):**
+- [ ] Vymezit okruh: vrchol + všechny ovládané osoby bez společného vlivu (dle konsolidované závěrky)
+- [ ] Sestavit seznam ovládaných osob usazených v EU a v jurisdikcích z unijních listin (písm. a))
+- [ ] Zvolit správnou měnu: konsolidovaná závěrka vrcholu (písm. b)), resp. závěrka sestavující jednotky (písm. c))
+- [ ] Vyloučit dividendy od plně ovládaných osob (písm. d)); dividendy od entit pod společným vlivem ponechat
+- [ ] Aplikovat § 32n odst. 2–7 obdobně (vzor, formát, členění, doložka, vysvětlení nesrovnalostí)
+
+**Typicky rozhodné důkazy / podklady:** konsolidovaná závěrka a konsolidační balíčky, přehled dividendových toků, organigram s jurisdikcemi, unijní seznamy k rozhodným datům, dokumentace zvolené metodiky.
 
 ---
 
@@ -308,6 +463,44 @@ Pobočka, která zprávu zpřístupňuje (§ 32m odst. 2, § 32o odst. 3 nebo 4)
 #### Rovnocenná zpráva (odst. 4)
 
 Odst. 4 doplňuje § 32r (viz níže): subjekt, který je osvobozen od sestavení vlastní zprávy, protože jeho nejvyšší konsolidující osoba zveřejnila rovnocennou zprávu dle § 32r, musí tuto rovnocennou zprávu také uveřejnit po dobu alespoň 5 let. Tím zákon zajišťuje, že osvobozující zpráva nezůstane „skrytá" — musí být veřejně dostupná po stejnou dobu, jako by byla zpráva sestavená podle ZoÚ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Japonská korporace TOKAI K.K. (právní forma srovnatelná s akciovou společností), nejvyšší konsolidující osoba bez kvalifikovaných dceřiných společností v EU, má v ČR zapsaný odštěpný závod s ročním úhrnem čistého obratu 310 mil. Kč; konsolidované výnosy skupiny odpovídají 900 mil. EUR — pobočce tedy svědčí povinnost zpřístupnit konsolidovanou zprávu dle § 32o odst. 3. Účetním obdobím je hospodářský rok s rozvahovým dnem 31. 3. Vedoucí odštěpného závodu řeší, kam, dokdy a v jaké podobě zprávu zveřejnit a co umístit na internetové stránky. Důkazy: výpis z obchodního rejstříku k odštěpnému závodu, zpráva skupiny, potvrzení o uložení do sbírky listin, archivní snímky internetových stránek.
+
+**2. Právní otázka.** Jakým způsobem a v jakých lhůtách musí být zpráva zpřístupňovaná prostřednictvím české pobočky zveřejněna podle § 32q odst. 3 a postačí její uveřejnění pouze v japonštině na stránkách zřizovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32q — zveřejnění způsobem dle § 21a (odst. 1), webový odkaz s oznámením do 12 měsíců od rozvahového dne na dobu min. 5 let (odst. 2), pobočkový režim: sbírka listin rejstříku pobočky + internetové stránky jednotky nebo pobočky (odst. 3), 5leté uveřejnění rovnocenné zprávy (odst. 4).
+- *Související ustanovení téhož zákona:* § 21a (obecný režim zveřejňování), § 32m odst. 2 a § 32o odst. 3 a 4 (tituly pobočkového zpřístupnění), § 32r (rovnocenná zpráva), § 31 a násl. (obecná logika uchovávání).
+- *Související předpisy:* zákon č. 304/2013 Sb., o veřejných rejstřících (sbírka listin; jazyk ukládaných listin § 74; pořádková pokuta § 104); čl. 48d směrnice 2013/34/EU (zveřejnění a zpřístupnění).
+- *Judikatura:* k § 32q dosud žádná; podpůrně ustálená rejstříková praxe k vynucování ukládání listin do sbírky listin (pořádkové pokuty rejstříkových soudů).
+
+**4. Subsumpce.** Jde o zprávu zpřístupňovanou z důvodu existence pobočky → režim odst. 3: zveřejnění uložením do sbírky listin rejstříku, v němž je odštěpný závod zapsán, a uveřejnění na internetových stránkách jednotky nebo pobočky. Lhůta plyne z odst. 2: do 12 měsíců od rozvahového dne (zde do 31. 3. následujícího roku), trvání nejméně 5 let. Uveřejnění výhradně v japonštině je sporné: § 32q jazyk výslovně neřeší, avšak listiny ukládané do sbírky listin podléhají jazykovému režimu § 74 zákona o veřejných rejstřících a smysl úpravy (dostupnost informací české veřejnosti) svědčí pro češtinu či angličtinu — u rovnocenné zprávy je překlad výslovnou podmínkou (§ 32r odst. 2 a 4).
+
+**5. Řešení.** Vedoucí odštěpného závodu zajistí: (i) uložení zprávy do sbírky listin příslušného rejstříkového soudu do 12 měsíců od rozvahového dne; (ii) uveřejnění na internetových stránkách TOKAI K.K. nebo českého odštěpného závodu (postačí stránky pobočky) po dobu nejméně 5 let; (iii) prakticky pořízení překladu. Neplnění může rejstříkový soud vynucovat pořádkovou pokutou (§ 104 zákona č. 304/2013 Sb.). Alternativně lze povinnost nahradit rovnocennou zprávou vrcholu dle § 32r odst. 4 — pak ale trvá povinnost jejího uveřejnění po dobu alespoň 5 let (§ 32q odst. 4).
+
+**6. Varianty.** (a) Kdyby povinnou byla česká účetní jednotka dle § 32m odst. 1 nebo § 32o odst. 1, zveřejnila by zprávu způsobem podle § 21a (sbírka listin jejího rejstříku) a na webu by postačil odkaz na veřejný rejstřík s oznámením dle odst. 2. (b) Kdyby obrat odštěpného závodu klesl pod 240 mil. Kč po dvě po sobě jdoucí období, povinnost by zanikla (naposledy za první podprahové období) a nové publikační povinnosti by již nevznikaly.
+
+#### G. Protiargumenty a rizika
+
+- *„Dvojí publicita (rejstřík + web) je nadbytečnou zátěží."* — Neutralizace: odst. 2 koncipuje web pouze jako rozcestník (odkaz na rejstřík + oznámení); plný text zprávy na webu se u tuzemských jednotek nevyžaduje. Jde o směrnicový standard, od něhož se nelze odchýlit.
+- *„Dvanáctiměsíční lhůta běží až od schválení nebo auditu závěrky."* — Neobstojí: odst. 2 váže počátek lhůty objektivně na rozvahový den, bez ohledu na průběh schvalovacího procesu.
+- Faktická rizika: smazání zprávy při redesignu webu před uplynutím 5 let, nefunkční odkaz na rejstřík, uložení do sbírky listin nesprávného rejstříku (rejstřík jednotky vs. rejstřík pobočky).
+- Slabé místo: výslovně neupravený jazyk zprávy ukládané dle odst. 3 (na rozdíl od § 32r) — výkladovou nejistotu je vhodné překlenout pořízením překladu.
+
+#### H. Praktický závěr
+
+§ 32q stanoví tři publikační režimy: standardní zveřejnění dle § 21a (odst. 1), webový rozcestník (odkaz + oznámení, lhůta 12 měsíců, trvání 5 let, odst. 2) a pobočkový režim (sbírka listin rejstříku pobočky + web, odst. 3). Osvobozené jednotky musí po dobu 5 let uveřejňovat rovnocennou zprávu (odst. 4).
+
+**Checklist (účetní jednotka / vedoucí pobočky):**
+- [ ] Určit správný režim zveřejnění (odst. 1 vs. odst. 3) podle titulu povinnosti
+- [ ] Uložit zprávu do sbírky listin správného veřejného rejstříku do 12 měsíců od rozvahového dne
+- [ ] Uveřejnit na webu odkaz na rejstřík a oznámení (odst. 2), u pobočky zprávu na stránkách jednotky/pobočky (odst. 3)
+- [ ] Zajistit nepřetržitou dostupnost po dobu nejméně 5 let (interní evidence, kontrola při změnách webu)
+- [ ] U osvobození dle § 32r: zajistit 5leté uveřejnění rovnocenné zprávy (odst. 4)
+
+**Typicky rozhodné důkazy / podklady:** potvrzení o uložení do sbírky listin, výpis ze sbírky listin, archivní snímky internetových stránek, interní směrnice k publikačním povinnostem.
 
 ---
 
@@ -366,6 +559,45 @@ Odst. 2 písm. c) a odst. 4 písm. c) výslovně vyžadují, aby rovnocenná zpr
 #### Vztah ke zveřejnění dle § 32q odst. 4
 
 Jak bylo zmíněno u § 32q, osvobozená entita (odst. 4 § 32q) musí rovnocennou zprávu uveřejnit po dobu alespoň 5 let. Osvobození od sestavení vlastní zprávy tedy není osvobozením od všech povinností — entita musí zajistit trvalou veřejnou dostupnost rovnocenné zprávy v češtině nebo angličtině, v rejstříku a na webu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČB a.s. je česká banka, samostatná účetní jednotka s pobočkou na Slovensku a ročním úhrnem čistého obratu nad 19 mld. Kč po dvě po sobě jdoucí období — formálně tak naplňuje § 32m odst. 1. Banka současně v rámci výroční zprávy každoročně uveřejňuje zprávu podle zemí dle čl. 89 směrnice 2013/36/EU (CRD IV) — výnosy, zisk před zdaněním, daně a počty zaměstnanců za každý stát, v němž působí, a to za veškeré své činnosti. Paralelní linie: americká skupina s českou velkou dcerou (povinnou dle § 32o odst. 2) zveřejní na webu vrcholu skupinovou daňovou zprávu podle vzoru směrnice. Důkazy: výroční zpráva banky se zprávou dle čl. 89, mapování jejího obsahu na katalog § 32n; u skupiny doklad o identifikaci české dcery ve zprávě, o uložení překladu do sbírky listin a o bezplatném strojově čitelném uveřejnění.
+
+**2. Právní otázka.** Zbavuje zpráva podle čl. 89 CRD IV banku povinnosti sestavit zprávu o daních z příjmů dle § 32m odst. 1, a za jakých podmínek nahradí skupinová zpráva non-EU vrcholu povinnost české dcery dle § 32o odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32r odst. 1 a 3 (osvobození při reportingu dle čl. 89 CRD IV pokrývajícím veškeré činnosti), odst. 2 a 4 (rovnocenná zpráva: obsahová rovnocennost, identifikace české pobočky/dcery, překlad do češtiny nebo angličtiny do 12 měsíců, sbírka listin, bezplatné strojově čitelné uveřejnění).
+- *Související ustanovení téhož zákona:* § 32m a § 32o (osvobozované povinnosti), § 32n a § 32p (měřítko obsahové rovnocennosti), § 32q odst. 4 (povinnost 5letého uveřejnění rovnocenné zprávy).
+- *Související předpisy:* čl. 89 směrnice 2013/36/EU (country-by-country reporting úvěrových institucí a investičních podniků); směrnice (EU) 2021/2101 (zásada zamezení duplicitního vykazování); zákon č. 304/2013 Sb. (sbírka listin).
+- *Judikatura:* dosud žádná; nosná je zásada „once only" plynoucí z recitálů směrnice 2021/2101 — tytéž informace se nemají vykazovat dvakrát ve dvou režimech.
+
+**4. Subsumpce.** ČB a.s. podává zprávu dle čl. 89 CRD IV zahrnující údaje o veškerých jejích činnostech → podmínka odst. 1 splněna, povinnost sestavit zprávu dle § 32m odst. 1 nevzniká. U americké skupiny musí být kumulativně splněno: (a) obsahová rovnocennost skupinové zprávy konsolidované zprávě (měřeno katalogem § 32p ve spojení s § 32n), (b) uvedení názvu a sídla české dcery, (c) do 12 měsíců od rozvahového dne uložení překladu do češtiny nebo angličtiny do sbírky listin rejstříku dcery a bezplatné uveřejnění v elektronickém strojově čitelném formátu na internetových stránkách vrcholu. Nesplnění kterékoli podmínky znamená, že povinnost dcery trvá.
+
+**5. Řešení.** Banka osvobození doloží mapováním obsahu zprávy dle čl. 89 na veškeré své činnosti (včetně nebankovních); analýzu je vhodné archivovat pro případ kontroly. Česká dcera americké skupiny by si měla plnění podmínek odst. 4 zajistit vnitroskupinově (závazek vrcholu k včasnému zveřejnění, dodání překladu, strojově čitelný formát) a současně mít připraven záložní postup — sestavení vlastní konsolidované zprávy z dostupných dat s prohlášením dle § 32o odst. 7, pokud vrchol podmínky nesplní. V obou případech zůstává povinnost zajistit uveřejnění osvobozující zprávy po dobu alespoň 5 let (§ 32q odst. 4).
+
+**6. Varianty.** (a) Pokrývala-li by zpráva dle čl. 89 jen bankovní část skupiny (nikoli např. pojišťovací či leasingové dcery), podmínka „veškerých činností" dle odst. 3 by nebyla splněna a konsolidovanou zprávu by bylo nutno sestavit. (b) Byl-li by překlad rovnocenné zprávy uveřejněn až po uplynutí 12 měsíců od rozvahového dne, osvobození dle odst. 4 nenastane — povinnost dcery či pobočky trvá a její neplnění je vynutitelné.
+
+#### G. Protiargumenty a rizika
+
+- *„Rovnocennost není zákonem položkově definována, postačí rámcová podobnost."* — Neutralizace: měřítkem je katalog § 32n, resp. § 32p; rovnocennost vyžaduje funkční ekvivalenci všech povinných údajů včetně jurisdikčního členění. V pochybnostech je bezpečnější sestavit vlastní zprávu.
+- *„Zpráva dle čl. 89 CRD IV nemá formát veřejného CbCR, osvobození je nelogické."* — De lege lata neobstojí: odst. 1 a 3 formátové podmínky nestanoví; jde o vědomou volbu zákonodárce (zamezení duplicit). De lege ferenda jde o slabinu srovnatelnosti dat.
+- Riziko závislosti na třetí osobě: česká dcera/pobočka nese následky toho, že vrchol nezveřejní zprávu, překlad nebo strojově čitelný formát včas — bez vlastního monitoringu lhůt hrozí porušení povinnosti.
+- Slabé místo: chybí správní i soudní praxe k posuzování rovnocennosti a k povaze 12měsíční lhůty.
+
+#### H. Praktický závěr
+
+§ 32r brání dvojímu vykazování: banky a investiční podniky reportující po zemích dle čl. 89 CRD IV za veškeré činnosti vlastní zprávu nesestavují; třetozemní skupiny se zprostí české povinnosti rovnocennou zprávou jen při kumulativním splnění obsahových, identifikačních a publikačních podmínek (překlad do češtiny/angličtiny, lhůta 12 měsíců, sbírka listin, bezplatnost, strojová čitelnost).
+
+**Checklist (banka / česká dcera / pobočka non-EU skupiny):**
+- [ ] Ověřit, zda je podávána zpráva dle čl. 89 CRD IV a zda pokrývá veškeré činnosti (odst. 1 a 3)
+- [ ] U rovnocenné zprávy: porovnat obsah s katalogem § 32n/§ 32p (gap-analýza)
+- [ ] Zkontrolovat identifikaci české dcery (název a sídlo), resp. pobočky (název a adresa) ve zprávě
+- [ ] Pohlídat lhůtu 12 měsíců: uložení překladu do sbírky listin + bezplatné strojově čitelné uveřejnění na webu
+- [ ] Zajistit uveřejnění osvobozující zprávy po dobu 5 let (§ 32q odst. 4)
+- [ ] Mít záložní plán: vlastní zpráva s prohlášením o neúplnosti pro případ selhání vrcholu
+
+**Typicky rozhodné důkazy / podklady:** zpráva dle čl. 89 CRD IV, mapovací analýza rovnocennosti, potvrzení o uložení překladu do sbírky listin, snímky webu vrcholu (formát, bezplatnost), vnitroskupinová korespondence a závazky.
 
 ---
 

@@ -58,6 +58,44 @@ Zákon ukládá povinnost prokázat provedení inventarizace po dobu **5 let** o
 
 Pro **vybrané účetní jednotky** (stát, územní samosprávné celky, příspěvkové organizace, státní fondy, zdravotní pojišťovny — viz § 1 odst. 3 ZoÚ) zákon deleguje na prováděcí předpis bližší podmínky organizačního zajištění inventarizace a způsobu inventarizace položek jiných aktiv a jiných pasiv (tj. položek zachycovaných v knize podrozvahových účtů, jako jsou přijaté záruky, podmíněné závazky, hodnoty předané do správy apod.). Jde o vyhlášky Ministerstva financí, přičemž veřejnoprávní prostředí si vynucuje podrobnější procesní rámec (inventarizační komise, schvalovací postupy, archivace) oproti podnikatelskému sektoru.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost ABC Velkoobchod, s. r. o. (účetní jednotka podle § 1 odst. 2 ZoÚ), provozuje tři sklady stavebnin s tisíci položkami zásob, účtovanými v analytické evidenci podle míst uložení a podle hmotně odpovědných skladníků. Z provozních důvodů neprovedla fyzickou inventuru všech skladů k 31. 12.: sklad A inventarizovala v září, sklad B v listopadu a sklad C až v březnu následujícího roku. Při daňové kontrole správce daně zpochybnil průkaznost účetnictví s tím, že inventarizace nebyla provedena k rozvahovému dni a u skladu C ani v zákonném časovém rámci. Důkazně je třeba obstarat: vnitřní směrnici a plán inventur, inventurní soupisy s okamžiky zahájení a ukončení inventur a doklady o pohybech zásob mezi dny inventur a rozvahovým dnem (příjemky, výdejky, skladové karty).
+
+**2. Právní otázka.** Splnila účetní jednotka inventarizační povinnost podle § 29 ZoÚ, jestliže zásoby inventarizovala průběžně v termínech, které si sama zvolila, přičemž jeden druh zásob (sklad C) byl inventarizován až po skončení účetního období?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 1 (povinná periodická inventarizace k okamžiku sestavení závěrky), odst. 2 (průběžná inventarizace přípustná jen u zásob účtovaných podle druhů, míst uložení nebo hmotně odpovědných osob; každý druh alespoň jednou za účetní období), odst. 3 (povinnost prokázat provedení inventarizace po dobu 5 let).
+- *Související ustanovení téhož zákona:* § 30 odst. 4–6 (rozhodný den a okno 4 měsíce před / 2 měsíce po rozvahovém dni), § 30 odst. 7 a 8 (inventurní soupisy, resp. náhradní průkazný záznam u průběžné inventarizace), § 8 odst. 4 (průkaznost účetnictví podmíněná provedením inventarizace), § 37 a § 37a (přestupek neprovedení inventarizace, pokuta až 3 % hodnoty aktiv celkem).
+- *Související předpisy:* § 92 odst. 3 a § 148 daňového řádu (důkazní břemeno daňového subjektu, lhůta pro stanovení daně); vyhláška č. 270/2010 Sb., o inventarizaci majetku a závazků (závazná jen pro vybrané účetní jednotky dle odst. 4).
+- *Judikatura:* NSS setrvale dovozuje, že neprovedení nebo neprůkaznost inventarizace zásob činí účetnictví v dotčené části neprůkazným a může vést až ke stanovení daně podle pomůcek; nosný závěr: inventarizace je zákonným nástrojem, jímž jednotka prokazuje, že stav majetku v účetnictví odpovídá skutečnosti (vazba na § 8 odst. 4 ZoÚ).
+
+**4. Subsumpce.** Zásoby jsou účtovány podle míst uložení a hmotně odpovědných osob → podmínka § 29 odst. 2 pro průběžnou inventarizaci je splněna a termíny si jednotka určuje sama. Sklady A a B byly inventarizovány uvnitř účetního období → požadavek „alespoň jednou za účetní období" je splněn (pohyby od inventury do 31. 12. je nutno doložit účetními záznamy obdobně podle § 30 odst. 4 a 5). Sporný je sklad C: březnová inventura spadá již do následujícího účetního období, takže tento druh zásob nebyl v kontrolovaném období inventarizován vůbec; nelze ji zachránit ani režimem periodické inventarizace, neboť okno § 30 odst. 6 písm. b) končí dva měsíce po rozvahovém dni (konec února).
+
+**5. Řešení.** U skladů A a B inventarizace obstojí, jsou-li doloženy průkazné záznamy a dokladový dopočet stavu k rozvahovému dni. U skladu C došlo k porušení § 29 odst. 2 ZoÚ; hrozí přestupek podle § 37/§ 37a a v daňové rovině závěr o neprůkaznosti účetnictví v části zásob s rizikem stanovení daně podle pomůcek. Prakticky: neprodleně provést mimořádnou inventuru, dokladově rekonstruovat stav skladu C k rozvahovému dni a kvantifikovat i vysvětlit rozdíly; porušení tím zpětně zhojit nelze, lze však minimalizovat důkazní následky.
+
+**6. Varianty.** (i) Kdyby zásoby byly účtovány jen globálně (bez analytiky podle druhů, míst či odpovědných osob), průběžná inventarizace by byla nepřípustná u všech skladů; zářijová a listopadová inventura by obstála pouze jako zahájení periodické inventury v okně § 30 odst. 6 písm. a) s rozhodným dnem a dokladovým dopočtem. (ii) Kdyby sklad C byl inventarizován do konce února, šlo by o včasné dokončení periodické inventury podle § 30 odst. 6 písm. b) a povinnost by byla splněna.
+
+#### G. Protiargumenty a rizika
+
+- **„Termín průběžné inventarizace si jednotka stanoví sama, tedy i po skončení období."** Neobstojí: § 29 odst. 2 věta třetí výslovně žádá inventarizaci každého druhu „alespoň jednou za účetní období"; volnost volby termínu existuje jen uvnitř období. Neutralizace jazykovým i teleologickým výkladem (inventarizace ověřuje stav pro závěrku daného období).
+- **„Průběžná inventarizace bez vnitřní směrnice je nepřípustná."** Zákon formální podmínku vnitřního předpisu nestanoví; rozhodné je faktické splnění podmínek odst. 2 a průkaznost záznamů. Absence směrnice však výrazně oslabuje důkazní pozici jednotky vůči správci daně — riziko neuznání režimu průběžné inventarizace.
+- **Riziko paušalizace:** chybějící inventarizace jedné složky majetku neznamená automaticky neprůkaznost celého účetnictví; neprůkaznost je třeba vztáhnout primárně k dotčené složce. U zásob s přímým dopadem do nákladů však i dílčí vada může vyvolat pomůcky pro celou daň — slabé místo řešitelné jen maximální dokladovou rekonstrukcí.
+
+#### H. Praktický závěr
+
+§ 29 ukládá inventarizovat veškerý majetek a závazky k okamžiku sestavení řádné či mimořádné závěrky; průběžnou inventarizaci lze užít jen u kvalifikovaných zásob a movitého majetku v soustavném pohybu, a to tak, aby každý druh byl inventarizován alespoň jednou uvnitř účetního období. Provedení inventarizace musí jednotka umět prokázat 5 let zpětně — fakticky jde o podmínku průkaznosti celého účetnictví.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je k rozvahovému dni (resp. ke dni mimořádné závěrky) provedena periodická inventarizace veškerého majetku a závazků?
+- [ ] Splňují zásoby podmínky § 29 odst. 2 (analytika podle druhů / míst uložení / hmotně odpovědných osob), je-li užívána průběžná inventarizace?
+- [ ] Byl každý druh zásob a pohyblivého hmotného movitého majetku inventarizován alespoň jednou uvnitř účetního období?
+- [ ] Jsou inventury drženy v okně § 30 odst. 6 a pohyby mezi rozhodným a rozvahovým dnem dokladově doloženy?
+- [ ] Jsou doklady o provedení inventarizace uchovány 5 let (§ 29 odst. 3) a propojeny s vyúčtováním rozdílů?
+- [ ] U vybraných účetních jednotek: dodržen postup podle vyhlášky č. 270/2010 Sb. (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** vnitřní směrnice a plán inventur, jmenování inventarizačních komisí, inventurní soupisy a záznamy podle § 30 odst. 8, příjemky/výdejky a skladové karty za rozhodné období, vyúčtování inventarizačních rozdílů.
+
 ---
 
 ### § 30 — Inventurní soupisy, způsoby inventury, inventarizační rozdíly
@@ -177,6 +215,44 @@ Terminologické rozlišení manko/schodek má praktický (zejm. pracovněprávn�
 
 Zákon výslovně rozšiřuje inventarizační povinnost i na položky zachycené v **knize podrozvahových účtů** (jiná aktiva a jiná pasiva). Jde o záruky, podmíněné pohledávky a závazky, pohledávky a závazky ze závazkových vztahů zanikajících bez vstupu do bilance, hodnoty předané do správy třetím osobám apod. Tyto položky se inventarizují dokladovou inventurou — jejich existence a výše se ověřuje konfirmacemi s protistranami, smlouvami, soudními usneseními a dalšími průkaznými záznamy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Maloobchodní řetězec DELTA Retail, a. s., provedl k 31. 12. fyzickou inventuru zboží na prodejnách. Na prodejně v Plzni byl zjištěn skutečný stav zboží o 480 000 Kč nižší než stav účetní a v pokladně chybělo 12 000 Kč. Vedoucí prodejny (hmotně odpovědná osoba s dohodou o odpovědnosti za svěřené hodnoty podle § 252 zákoníku práce) namítá, že 180 000 Kč připadá na zboží zničené havárií vody (doloženo protokolem pojišťovny) a 50 000 Kč kryje norma přirozených úbytků podle vnitřního předpisu. Inventurní soupis podepsal pouze externí inventurní technik; chybí podpisový záznam osoby odpovědné za provedení inventury a není uveden způsob zjišťování skutečných stavů. Důkazy: inventurní soupis, škodní protokol pojišťovny, vnitřní předpis o normách úbytků, dohoda o odpovědnosti, skladová evidence prodejny.
+
+**2. Právní otázka.** Je inventurní soupis postrádající náležitosti § 30 odst. 7 ZoÚ průkazným účetním záznamem a která část zjištěného rozdílu je inventarizačním rozdílem (mankem, resp. schodkem) podle § 30 odst. 10, jenž musí být vyúčtován do ověřovaného účetního období (odst. 11)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 písm. a) a odst. 3 (fyzická inventura a způsoby zjišťování stavů), odst. 7 (povinné náležitosti soupisu včetně dvou podpisových záznamů a způsobu zjišťování), odst. 10 (inventarizačním rozdílem je jen rozdíl, který nelze prokázat zákonem stanoveným způsobem; manko vs. schodek u peněžních hotovostí a cenin), odst. 11 (vyúčtování do období, za které se stav ověřuje).
+- *Související ustanovení téhož zákona:* § 33a (průkaznost účetního záznamu, podpisový záznam), § 29 odst. 1 a 3 (účel a prokázání inventarizace), § 8 odst. 4 (průkaznost účetnictví), § 35 (opravy účetních záznamů).
+- *Související předpisy:* § 250 a § 252–254 zákoníku práce (obecná odpovědnost za škodu vs. schodek na svěřených hodnotách s presumpcí zavinění; inventarizace při uzavření a zániku dohody); ČÚS pro podnikatele č. 007 (inventarizační rozdíly a ztráty v rámci norem přirozených úbytků zásob); § 25 odst. 1 písm. n) a odst. 2 zákona o daních z příjmů (daňová neuznatelnost mank a škod přesahujících náhrady).
+- *Judikatura:* nosné závěry — úbytek doložený průkazným záznamem (škodní či likvidační protokol) není inventarizačním rozdílem, neboť jej lze prokázat; Nejvyšší soud v pracovněprávní judikatuře žádá, aby hmotně odpovědnému zaměstnanci byla dána možnost se inventury účastnit, jinak je uplatnění schodku důkazně oslabeno.
+
+**4. Subsumpce.** Zboží zničené havárií je úbytkem prokázaným (protokol) → nejde o inventarizační rozdíl, nýbrž o škodu (a contrario odst. 10). Úbytky do normy přirozených úbytků jsou prokazatelné povahou sortimentu a vnitřním předpisem → ztráty v rámci norem, rovněž nikoli manko. Zbývajících 250 000 Kč je mankem; 12 000 Kč v pokladně je schodkem na peněžní hotovosti (odst. 10 písm. a)). Soupis bez podpisového záznamu osoby odpovědné za provedení inventury a bez uvedení způsobu zjišťování nesplňuje odst. 7 písm. b) a c) → není průkazným účetním záznamem a skutečný stav by bylo nutno prokazovat jinak.
+
+**5. Řešení.** Vady soupisu zhojit doplněním chybějících náležitostí (podpisové záznamy, způsob zjišťování) postupem podle § 35 ZoÚ před uzavřením účetních knih; rozdíl dekomponovat (škoda z havárie, ztráty do normy, manko 250 000 Kč, schodek 12 000 Kč) a vše vyúčtovat do účetního období, za které se stav ověřuje (odst. 11), byť inventura skončila až po rozvahovém dni. Schodek uplatnit vůči vedoucímu z dohody o odpovědnosti (zavinění se presumuje); manko podle režimu svěřených hodnot, resp. obecné odpovědnosti za škodu. Daňově je manko nad přiznané náhrady neuznatelné.
+
+**6. Varianty.** (i) Měl-li by soupis všechny náležitosti a rozdíl by byl plně kryt normou přirozených úbytků a doloženou škodou, žádný inventarizační rozdíl by nevznikl a nebylo by co předepisovat k náhradě. (ii) Vyúčtovala-li by jednotka rozdíly až do období, v němž inventura fakticky skončila (následující rok), porušila by odst. 11 — závěrka by nepodala věrný obraz a hrozila by pokuta podle § 37/§ 37a ZoÚ i nesprávný základ daně.
+
+#### G. Protiargumenty a rizika
+
+- **„Chybějící podpis je jen formální vada."** Částečně lze skutečný stav prokázat jinými důkazy, avšak náležitosti odst. 7 jsou stanoveny kogentně; bez nich soupis ztrácí kvalitu průkazného záznamu a důkazní břemeno o stavu majetku nese plně účetní jednotka. Neutralizace: včasná oprava záznamu podle § 35 ZoÚ.
+- **Námitka zaměstnance, že inventura proběhla bez něj:** podle judikatury NS oslabuje vymahatelnost schodku; zaměstnavatel ji neutralizuje pozváním odpovědné osoby k inventuře, jejím podpisem na soupisu a možností vyjádřit se k rozdílům.
+- **Riziko směšování kategorií rozdílů:** zaúčtování celé částky jako manka by zkreslilo náklady i daňový základ (neuznatelnost) a oslabilo regres vůči zaměstnanci; nutná je doložená dekompozice každé složky rozdílu — chybějící škodní protokoly či normy úbytků jsou typickým slabým místem.
+
+#### H. Praktický závěr
+
+§ 30 stanoví závaznou metodiku inventur (fyzická vs. dokladová), časový rámec (rozhodný den, okno 4 měsíce před a 2 měsíce po rozvahovém dni), obsahové náležitosti inventurních soupisů jako průkazných záznamů a definici inventarizačních rozdílů. Mankem či schodkem je jen rozdíl, který nelze prokázat; vše prokázané se účtuje podle své skutečné povahy (škody, ztráty v normách). Rozdíly se vyúčtují do období, za které se stav ověřuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zvolena správná metoda inventury (fyzická u vizuálně zjistitelného majetku, dokladová u závazků, nehmotných a podrozvahových položek)?
+- [ ] Obsahuje soupis všech osm náležitostí odst. 7 (identifikace položek, dva podpisové záznamy, způsob zjišťování, ocenění, okamžik závěrky, rozhodný den, zahájení a ukončení inventury)?
+- [ ] Dodrženo okno odst. 6 a doloženy pohyby mezi rozhodným a rozvahovým dnem?
+- [ ] Rozdíly rozčleněny na prokázané úbytky, ztráty v rámci norem a inventarizační rozdíly (manko/schodek/přebytek)?
+- [ ] Rozdíly vyúčtovány do ověřovaného účetního období (odst. 11)?
+- [ ] Hmotně odpovědné osoby přizvány k inventuře a seznámeny s výsledky; podrozvahové položky inventarizovány dokladově (odst. 12)?
+
+**Typicky rozhodné důkazy / podklady:** inventurní soupisy, škodní a likvidační protokoly, vnitřní předpis o normách přirozených úbytků, dohody o odpovědnosti, skladová evidence a doklady o pohybech, zaúčtování rozdílů v hlavní knize.
+
 ---
 
 ## Část šestá — Úschova účetních záznamů
@@ -242,6 +318,44 @@ Zákon řeší přechod povinností úschovy při zániku účetní jednotky, a 
 
 **Pro případy bez právního nástupce a bez úmrtí** (odst. 4): každá účetní jednotka, která zaniká bez nástupce nebo přestává vést účetnictví (bez zániku osoby — typicky fyzická osoba ukončující podnikání), je povinna **zajistit úschovu** jiným způsobem (svěřit záznamy archivu, jiné osobě, nebo jinak doložitelně) a prokazatelně o tom **informovat státní archiv**. Účel tohoto ustanovení je preventivní: zákon nechce, aby zánik účetní jednotky vedl k faktickému zničení nebo nedostupnosti záznamů ještě v průběhu zákonné lhůty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel Jan Novák, fyzická osoba vedoucí účetnictví (účetní jednotka podle § 1 odst. 2 písm. d) ZoÚ), zemřel v březnu 2026. Jediným dědicem je syn, který převzal provozovnu, zásoby, pohledávky i vybavení závodu a v činnosti pokračuje. V pozůstalosti se nachází účetní dokumentace za roky 2016–2025 (účetní závěrky, doklady, knihy, inventurní soupisy). Syn hodlá starší dokumenty skartovat, aby uvolnil prostory; u zůstavitele přitom před smrtí byla zahájena daňová kontrola za zdaňovací období 2023. Důkazy: usnesení o nabytí dědictví (převzetí závodu), předávací soupis dokumentace, evidence dokumentů s lhůtami, protokol o zahájení daňové kontroly.
+
+**2. Právní otázka.** Přešly na dědice povinnosti úschovy účetních záznamů zůstavitele podle § 31 odst. 3 písm. b) ZoÚ a které záznamy a po jakou dobu musí dědic nadále uschovávat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 2 (závěrka a výroční zpráva 10 let; doklady, knihy, odpisové plány, inventurní soupisy, účtový rozvrh a přehledy 5 let; záznamy dokládající vedení účetnictví 5 let — vždy od konce účetního období, jehož se týkají), odst. 3 písm. b) (přechod povinností na dědice, převezme-li věci, práva či jiné majetkové hodnoty náležející k účetní jednotce), odst. 4 (jinak povinnost zajistit úschovu a prokazatelně informovat státní archiv).
+- *Související ustanovení téhož zákona:* § 32 (zákaz likvidace záznamů použitých pro jiné účely — zde daňové řízení), § 33 a § 33a (forma a průkaznost záznamů po celou dobu úschovy), § 29 odst. 3 (pětileté prokazování inventarizace), § 37/§ 37a (přestupek neuschování účetních záznamů, pokuta až 3 % hodnoty aktiv).
+- *Související předpisy:* § 148 daňového řádu (lhůta pro stanovení daně a její prodlužování při běžící kontrole), § 35 zákona o DPH (uchovávání daňových dokladů 10 let), zákon č. 499/2004 Sb., o archivnictví a spisové službě (výběr archiválií, skartační řízení), občanský zákoník (nabytí dědictví, přechod závodu).
+- *Judikatura:* nosný závěr daňové judikatury — povinnost úschovy je veřejnoprávní povinností sledující majetek účetní jednotky; její porušení jde k tíži povinného a v daňovém řízení se projeví neunesením důkazního břemene (§ 92 odst. 3 daňového řádu), nikoli nemožností daň stanovit.
+
+**4. Subsumpce.** Syn převzal věci a práva náležející k účetní jednotce → hypotéza § 31 odst. 3 písm. b) je naplněna a povinnosti úschovy na něj přešly ze zákona. Lhůty: účetní závěrka za rok 2016 musí být uschována do konce roku 2026, závěrka za rok 2025 do konce roku 2035; účetním dokladům a knihám za roky 2016–2020 pětiletá lhůta již uplynula, dokladům za rok 2021 a novějším dosud nikoli. Sporné jsou doklady za rok 2023 — lhůta běží do konce roku 2028, a především jsou použity pro daňové řízení, takže jejich režim ovládá i § 32 odst. 1 (nelze je zničit do skončení řízení).
+
+**5. Řešení.** Dědic je povinen pokračovat v úschově; skartovat smí pouze záznamy, jimž uplynula lhůta podle § 31 odst. 2 a které současně nejsou potřebné pro jiné účely (daňová kontrola, soudní spory, záruky, nezaplacené pohledávky — § 32) a nepodléhají výběru archiválií podle zákona č. 499/2004 Sb. Praktický postup: sestavit přehled dokumentace s lhůtami, oddělit záznamy vázané běžící kontrolou za rok 2023, u zbytku provést řádné skartační řízení a o úschově vést průkaznou evidenci.
+
+**6. Varianty.** (i) Nepřevezme-li dědic žádné majetkové hodnoty náležející k účetní jednotce (např. odmítne dědictví), povinnost na něj nepřechází; připadne-li dědictví státu, přecházejí povinnosti na příslušnou organizační složku státu, která vyrozumí státní archiv. (ii) U zanikající s. r. o. bez právního nástupce přecházejí povinnosti na likvidátora, resp. insolvenčního správce (odst. 3 písm. a)); po výmazu nastupuje režim odst. 4 — zajištění úschovy (např. u komerční spisovny) a prokazatelné informování státního archivu.
+
+#### G. Protiargumenty a rizika
+
+- **„Po uplynutí tříleté daňové prekluze jsou doklady bezcenné, lhůty ZoÚ jsou formalita."** Neobstojí: lhůta pro stanovení daně může běžet až 10 let, § 35 zákona o DPH žádá u daňových dokladů 10 let a záznamy slouží i civilním sporům či rejstříkovým a restitučním účelům. Skartace „na hraně" prekluze je rizikem, nikoli úsporou.
+- **Námitka dědice, že nemá prostory ani odbornost k úschově:** povinnosti ho nezbavuje; úschovu lze smluvně svěřit třetí osobě (spisovně), odpovědnost za dostupnost a průkaznost záznamů však zůstává na povinném.
+- **Slabé místo úpravy:** zákon výslovně neřeší souběh více dědiců ani jen částečné převzetí majetku — výkladově povinnost stíhá toho, kdo převzal věci náležející k účetní jednotce; při rozdělení pozůstalosti je vhodné určit uschovatele dohodou, jinak hrozí spor o odpovědnost za ztrátu záznamů.
+
+#### H. Praktický závěr
+
+§ 31 zakládá dvoustupňový systém úschovy (10 let závěrka a výroční zpráva, 5 let ostatní záznamy, vždy od konce účetního období) a zajišťuje kontinuitu úschovy při zániku účetní jednotky: povinnosti přecházejí na právního nástupce, likvidátora, insolvenčního správce nebo dědice přebírajícího majetek; bez nástupce musí jednotka úschovu sama zajistit a prokazatelně informovat státní archiv. Každou skartaci je nutno poměřovat i § 32 a zvláštními předpisy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kategorizovány záznamy podle odst. 2 (závěrka/výroční zpráva 10 let × doklady, knihy, odpisové plány, inventurní soupisy, účtový rozvrh, přehledy 5 let × záznamy podle § 33)?
+- [ ] Počítán běh lhůty od konce účetního období, jehož se záznam týká?
+- [ ] Před skartací ověřen § 32 (běžící řízení, záruky, nezaplacené pohledávky) a archivní předpisy?
+- [ ] Při přeměně, likvidaci, insolvenci či úmrtí určen nositel povinností úschovy (odst. 3)?
+- [ ] Při zániku bez nástupce zajištěna úschova a prokazatelně informován státní archiv (odst. 4)?
+- [ ] Elektronické záznamy udržovány v trvale čitelné a průkazné podobě (§ 33a), včetně ověřitelnosti podpisů?
+
+**Typicky rozhodné důkazy / podklady:** evidence dokumentů s úschovními lhůtami, skartační návrhy a protokoly, předávací protokoly (likvidátor, dědic, spisovna), doklad o informování státního archivu, usnesení o dědictví či o výmazu z rejstříku.
+
 ---
 
 ### § 32 — Zvláštní podmínky úschovy a rozšíření úschovní povinnosti
@@ -306,6 +420,43 @@ Odst. 4 chrání historicky cenné záznamy z doby **před 1. lednem 1949**, tj.
 2. **Účetní závěrky k převodům majetku** — zejm. závěrky vztahující se k privatizačním převodům podle zákona č. 92/1991 Sb. nebo jiných restitučních a privatizačních předpisů (viz [09-cast10-spolecna-prechodna-zaverecna.md](09-cast10-spolecna-prechodna-zaverecna.md)).
 
 Tyto záznamy **nesmí být bez souhlasu ministerstva financí vyřazeny** — ministerstvo může souhlas dát z vlastní iniciativy nebo na žádost účetní jednotky. Jde o jeden z mála případů, kdy ZoÚ výslovně chrání záznamy bez časového omezení úschovní lhůty jako takové.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Strojírenská společnost GAMA, s. r. o., dodala v roce 2018 odběrateli technologickou linku se smluvní zárukou za jakost v délce 10 let. V roce 2026 odběratel reklamoval vadu a požaduje slevu z ceny; GAMA současně u soudu vymáhá nezaplacenou fakturu z roku 2019 za jinou dodávku. Účetní GAMA při „digitalizaci archivu" v lednu 2026 skartovala listinné účetní doklady za roky 2018–2020 s odůvodněním, že pětiletá lhůta podle § 31 odst. 2 písm. b) ZoÚ uplynula — včetně dodacích listů, předávacích protokolů a kalkulací k lince i podkladů k žalované pohledávce. Mzdové listy z týchž let zachovala. Důkazy: skartační protokol, smlouva o dílo se záruční doložkou, saldokonto neuhrazených pohledávek, soudní spis, záložní data ERP.
+
+**2. Právní otázka.** Směla účetní jednotka po uplynutí obecné pětileté úschovní lhůty skartovat účetní záznamy vztahující se k běžící záruční lhůtě a k nezaplacené, soudně vymáhané pohledávce, a jaké důsledky má jejich zničení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 3 (úschova po dobu běhu záruční lhůty či trvání reklamačního řízení; u nezaplacené pohledávky nebo nesplněného závazku do konce prvního účetního období po zaplacení/splnění), odst. 1 (záznamy použité mj. pro občanské soudní či daňové řízení podléhají požadavkům z tohoto použití i po uplynutí lhůt § 31), odst. 2 (mzdové listy a daňové doklady jako účetní záznamy), odst. 4 (písemnosti z doby před 1. 1. 1949 a závěrky k privatizačním převodům jen se souhlasem ministerstva).
+- *Související ustanovení téhož zákona:* § 31 odst. 2 (základní lhůty 10/5 let), § 33a (průkaznost trvá i v prodloužené úschově), § 37/§ 37a (přestupek neuschování účetních záznamů).
+- *Související předpisy:* občanský zákoník (záruka za jakost, promlčení), občanský soudní řád (důkazní břemeno žalobce), § 148 daňového řádu, § 35 zákona o DPH (10 let u daňových dokladů), § 35a odst. 4 zákona č. 582/1991 Sb. (mzdové listy pro důchodové účely zásadně 45 let), čl. 6 odst. 1 písm. c) GDPR (právní titul delšího uchovávání osobních údajů).
+- *Judikatura:* nosný závěr — strana, která se zbavila listin, jež měla po právu uchovat, nese procesní následky důkazní nouze; v daňové rovině NSS dovozuje, že předčasná likvidace dokladů nejde k tíži správce daně a daňový subjekt jí neunese své důkazní břemeno.
+
+**4. Subsumpce.** Doklady k lince: záruční lhůta (do roku 2028) je delší než pětiletá úschovní lhůta → § 32 odst. 3 věta první ukládal úschovu po celou dobu běhu záruky; lednová skartace 2026 byla protiprávní. Podklady k pohledávce z roku 2019: pohledávka nebyla ve lhůtě zaplacena → úschova trvá do konce prvního účetního období následujícího po zaplacení; nadto jde o záznamy použité pro občanské soudní řízení (odst. 1). Mzdové listy: zachovány správně — plní funkci podle předpisů sociálního zabezpečení (odst. 1 a 2). Sporný není vznik povinnosti, nýbrž rozsah „vztahujících se" záznamů — rozhodná je věcná souvislost se zárukou a pohledávkou, nikoli formální označení dokumentu.
+
+**5. Řešení.** GAMA porušila § 32 odst. 3 ZoÚ; hrozí pokuta podle § 37/§ 37a a především civilní následky: v reklamačním sporu i ve sporu o zaplacení ponese důkazní nouzi (nemožnost prokázat rozsah a kvalitu plnění, předání díla, vznik a výši pohledávky). Praktické kroky: rekonstruovat dokumentaci z duplikátů u protistran, z elektronických záloh ERP a e-mailové korespondence, obsah doložit svědecky či znalecky; do budoucna podmínit každé skartační řízení prověřením běžících záruk, sporů, daňových řízení a neuhrazených položek salda.
+
+**6. Varianty.** (i) Kdyby pohledávka z roku 2019 byla zaplacena v roce 2024, úschovní povinnost k jejím dokladům by skončila koncem roku 2025 a lednová skartace 2026 by byla po právu. (ii) Kdyby mezi skartovanými písemnostmi byly doklady z přímého styku s cizinou z doby před 1. 1. 1949 nebo závěrka vztahující se k privatizačnímu převodu, byla by skartace protiprávní bez ohledu na uplynulé lhůty — vyžadovala by souhlas ministerstva financí (odst. 4).
+
+#### G. Protiargumenty a rizika
+
+- **„Odst. 3 dopadá jen na dokumenty výslovně označené jako záruční."** Neobstojí — zákon hovoří o dokladech a jiných účetních záznamech ve věcné souvislosti s transakcí, k níž se záruka nebo reklamace vztahuje; rozhodný je obsah, nikoli označení. Neutralizace: při skartaci mapovat záznamy podle transakcí, nikoli jen podle ročníků.
+- **„Povinnosti podle odst. 1 nastupují až faktickým použitím záznamů (zahájeným řízením), nikoli preventivně."** Jazykově obhajitelné („použijí-li"), avšak rizikové: potřeba záznamů může vyvstat dodatečně (doměření daně v prodloužené lhůtě, trestní řízení) a důkazní následky předčasné skartace nese jednotka. Obezřetná praxe uchovává déle u významných či rizikových transakcí.
+- **Kolize s GDPR (minimalizace a omezení uložení):** delší úschova osobních údajů musí mít titul v plnění právní povinnosti a být omezena na nezbytný rozsah; paušální časově neomezená archivace všeho neobstojí — nutný je skartační řád s odůvodněnými, diferencovanými lhůtami.
+
+#### H. Praktický závěr
+
+§ 32 prodlužuje a podmiňuje úschovu nad rámec § 31: záznamy použité pro trestní, AML, správní, soudní, daňové, archivní, pojistné či autorskoprávní účely se po uplynutí základních lhůt nelikvidují; doklady k zárukám a reklamacím se drží po dobu jejich běhu; doklady k nezaplaceným pohledávkám a nesplněným závazkům do konce prvního období po vypořádání; historické písemnosti z doby před 1. 1. 1949 a privatizační závěrky lze vyřadit jen se souhlasem ministerstva. Skartace je proto vždy vícekrokovým testem, nikoli mechanickým uplynutím pěti či deseti let.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplynula základní lhůta § 31 odst. 2 a současně neexistuje žádný účel podle § 32 odst. 1 (trestní řízení, AML, správní, soudní či daňové řízení, skartační/archivní výběr, sociální zabezpečení, zdravotní pojištění, autorská práva)?
+- [ ] Neběží k transakci záruční lhůta ani reklamační řízení (odst. 3)?
+- [ ] Je pohledávka zaplacena / závazek splněn a uplynulo první následující účetní období (odst. 3)?
+- [ ] Mzdové listy a daňové doklady uschovány podle své funkce a zvláštních předpisů (DPH 10 let, důchodové pojištění až 45 let)?
+- [ ] Nejde o písemnosti z doby před 1. 1. 1949 nebo závěrky k privatizačním převodům vyžadující souhlas ministerstva (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** skartační řád, skartační návrhy a protokoly, smlouvy se záručními ujednáními, saldokonto neuhrazených pohledávek a závazků, přehled běžících a hrozících řízení, souhlas Ministerstva financí podle odst. 4.
 
 ---
 

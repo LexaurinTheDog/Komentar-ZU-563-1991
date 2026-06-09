@@ -101,6 +101,43 @@ Zákon zavádí zvláštní kategorii **vybraných účetních jednotek** (dále
 
 Odstavec 5 zakládá fiktivní rovnost: státy Evropského hospodářského prostoru (Island, Lichtenštejnsko, Norsko) se pro účely ZoÚ považují za členské státy EU. To má praktický dopad zejména pro uznávání zahraničních účetních standardů a pro vymezení subjektů veřejného zájmu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan Novák, fyzická osoba podnikající na základě živnostenského oprávnění (velkoobchod s elektroinstalačním materiálem), nezapsaný v obchodním rejstříku, vede daňovou evidenci podle § 7b ZDP. Za kalendářní rok 2024 dosáhl jeho obrat ve smyslu zákona o DPH (včetně plnění osvobozených od daně, jež nejsou součástí obratu) částky 27 400 000 Kč; v předchozích letech se pohyboval kolem 20 mil. Kč. Pan Novák ani jeho účetní si překročení hranice nevšimli a v letech 2025 i 2026 pokračovali v daňové evidenci. Při daňové kontrole v roce 2026 správce daně překročení zjistil. Důkazně je třeba obstarat: evidenci a přiznání k DPH za rok 2024, daňovou evidenci a přehled uskutečněných plnění včetně plnění osvobozených.
+
+**2. Právní otázka.** Stal se pan Novák účetní jednotkou podle § 1 odst. 2 písm. e) ZoÚ a od kterého okamžiku byl povinen vést (podvojné) účetnictví namísto daňové evidence?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 2 písm. e) ZoÚ — FO-podnikatel se stává účetní jednotkou překročením obratu 25 000 000 Kč za bezprostředně předcházející kalendářní rok, a to od prvního dne kalendářního roku.
+- *Související ustanovení téhož zákona:* § 4 odst. 3 (povinnost vést účetnictví od prvního dne účetního období následujícího po roce, v němž se osoba stala ÚJ); § 4 odst. 7 (zákaz ukončit vedení účetnictví dříve než po 5 obdobích); § 37 a § 37a (přestupky).
+- *Související předpisy:* § 4a zákona č. 235/2004 Sb. (vymezení obratu); § 7b ZDP (daňová evidence); příloha č. 3 ZDP a vyhláška č. 500/2002 Sb. (přechod z daňové evidence na účetnictví).
+- *Judikatura:* ustálená praxe NSS — povinnost vést účetnictví vzniká ex lege bez ohledu na vědomost podnikatele; nevedení účetnictví vede k důkazní nouzi daňového subjektu v daňovém řízení.
+
+**4. Subsumpce.** Pan Novák je „ostatní fyzickou osobou, která je podnikatelem" (není zapsán v OR, nejde tedy o písm. d)). Obrat 27,4 mil. Kč za rok 2024 přesáhl hranici 25 mil. Kč; do obratu se počítají i osvobozená plnění, jež nejsou součástí obratu. Účetní jednotkou se proto stal od 1. 1. 2025. Povinnost vést účetnictví mu však podle § 4 odst. 3 ZoÚ vznikla až od 1. 1. 2026 (první den účetního období následujícího po roce, v němž se stal ÚJ). Sporné může být přesné vyčíslení obratu (zahrnutí příjmů z nájmu, prodeje majetku) — to je nutno doložit evidencí DPH.
+
+**5. Řešení.** Za rok 2025 byl postup správný (daňová evidence postačovala), za rok 2026 však pan Novák porušuje povinnost vést účetnictví. Správný postup: k 1. 1. 2026 sestavit zahajovací rozvahu, provést přechod z daňové evidence na účetnictví podle přílohy č. 3 ZDP (dodanění zásob a pohledávek) a zpětně rekonstruovat účetnictví roku 2026. Hrozí pokuta podle § 37a ZoÚ (za nevedení účetnictví až do 6 % hodnoty aktiv celkem) a stanovení daně podle pomůcek.
+
+**6. Varianty.** (i) Kdyby se pan Novák nechal v roce 2024 zapsat do obchodního rejstříku, byl by účetní jednotkou podle písm. d) a účetnictví by vedl již ode dne zápisu — obratová hranice by byla bez významu. (ii) Kdyby hranice 25 mil. Kč byla přesažena jen díky jednorázovému prodeji dlouhodobého majetku, který do obratu dle § 4a ZDPH nevstupuje, nebyla by překročena a postavení ÚJ by nevzniklo.
+
+#### G. Protiargumenty a rizika
+
+- *„Obrat pro DPH nezahrnuje osvobozená plnění, hranice tedy nebyla překročena."* Neobstojí: § 1 odst. 2 písm. e) výslovně přikazuje zahrnout i plnění osvobozená od daně, jež nejsou součástí obratu; mimo zůstávají jen položky, které do obratu nevstupují vůbec (např. úplata z prodeje dlouhodobého majetku).
+- *„Povinnost vést účetnictví vznikla už od 1. 1. 2025."* Tento výklad zaměňuje okamžik vzniku postavení účetní jednotky (1. 1. 2025) a okamžik vzniku povinnosti vést účetnictví (1. 1. 2026 dle § 4 odst. 3). Dvoufázová konstrukce dává podnikateli rok na přípravu.
+- Riziko: taxativní výčet odst. 2 nelze rozšiřovat analogií — postavení účetní jednotky nelze dovodit u subjektů ve výčtu neuvedených. Slabým místem argumentace bývá nedostatečné doložení struktury obratu (břemeno tvrzení a důkazní nese daňový subjekt).
+
+#### H. Praktický závěr
+
+§ 1 vymezuje okruh povinných subjektů taxativně. U fyzických osob je klíčové průběžné sledování obratu dle ZDPH (hranice 25 mil. Kč) a důsledné rozlišování okamžiku vzniku postavení účetní jednotky od okamžiku vzniku povinnosti vést účetnictví (§ 4). Nesmí být opomenuty zahraniční osoby ani bezsubjektní útvary (svěřenské, penzijní a investiční fondy).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá subjekt pod některé písmeno taxativního výčtu § 1 odst. 2 (sídlo, zápis v OR, obrat, společnost, zvláštní zákon)?
+- [ ] U FO: přesáhl obrat dle ZDPH (vč. osvobozených plnění) za předcházející kalendářní rok 25 mil. Kč?
+- [ ] Určen správně okamžik vzniku postavení ÚJ (1. 1. následujícího roku) a okamžik povinnosti vést účetnictví (§ 4 odst. 3)?
+- [ ] U zahraniční osoby: je dle domovského práva ÚJ či povinna vést účetnictví a podniká na území ČR?
+- [ ] U vybraných účetních jednotek: prověřena povinnost předávat záznamy do CSÚIS?
+
+**Typicky rozhodné důkazy / podklady:** evidence a přiznání k DPH, daňová evidence, výpis z obchodního rejstříku, živnostenské oprávnění, smlouva o společnosti (§ 2716 OZ), statut svěřenského fondu.
+
 ---
 
 ### § 1a — Subjekty veřejného zájmu
@@ -151,6 +188,42 @@ Klíčové důsledky statutu SVZ v ZoÚ:
 > **Souvislost s § 1b:** Všechny SVZ jsou automaticky **velkou účetní jednotkou** bez ohledu na splnění bilanční kritérií (§ 1b odst. 5). Viz níže výklad k § 1b.
 
 > **Souvislost s auditem a zprávou o udržitelnosti:** Povinnosti SVZ v oblasti auditu jsou podrobněji rozvedeny v [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md); povinnost zprávy o udržitelnosti v [07-cast8-zprava-o-udrzitelnosti.md](07-cast8-zprava-o-udrzitelnosti.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Akciová společnost ENERGO a.s. se sídlem v Praze (aktiva 90 mil. Kč, čistý obrat 150 mil. Kč, 35 zaměstnanců — bilančně malá účetní jednotka) emitovala v roce 2024 dluhopisy v objemu 50 mil. Kč, které byly přijaty k obchodování na regulovaném trhu Burzy cenných papírů Praha. Představenstvo sestavilo za rok 2025 účetní závěrku ve zkráceném rozsahu bez auditu s argumentem, že společnost splňuje kritéria malé účetní jednotky. Důkazy: rozhodnutí burzy o přijetí dluhopisů k obchodování, emisní podmínky, účetní závěrka, propočet kategorizačních kritérií.
+
+**2. Právní otázka.** Je emitent dluhopisů přijatých k obchodování na regulovaném trhu subjektem veřejného zájmu podle § 1a písm. a) ZoÚ se všemi důsledky (velká účetní jednotka, povinný audit, výbor pro audit), přestože bilančně nedosahuje ani kritérií střední účetní jednotky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1a písm. a) ZoÚ ve spojení s § 19a odst. 1 ZoÚ — SVZ je účetní jednotka se sídlem v ČR, jejíž investiční cenné papíry byly přijaty k obchodování na evropském regulovaném trhu.
+- *Související ustanovení téhož zákona:* § 1b odst. 5 písm. a) (SVZ je vždy velkou ÚJ); § 19a (účtování dle IFRS); § 20 (povinný audit); § 21a (zveřejňování).
+- *Související předpisy:* Nařízení (EU) č. 537/2014 (rotace auditora, zákaz neauditních služeb); zákon č. 93/2009 Sb., o auditorech (§ 44 a násl. — výbor pro audit); zákon č. 256/2004 Sb. (vymezení regulovaného trhu).
+- *Judikatura:* specifická judikatura k § 1a je sporá; dohledová praxe (ČNB, Rada pro veřejný dohled nad auditem) se shoduje, že status SVZ nastupuje ex lege okamžikem přijetí cenného papíru k obchodování, nikoli rozhodnutím účetní jednotky.
+
+**4. Subsumpce.** ENERGO a.s. má sídlo v ČR; dluhopis je investiční cenný papír; byl přijat k obchodování na regulovaném trhu (BCPP). Znaky § 1a písm. a) ve spojení s § 19a odst. 1 jsou naplněny. Bilanční velikost je právně bezvýznamná — § 1b odst. 5 písm. a) kategorizuje SVZ vždy jako velkou účetní jednotku. Sporným bývá v praxi jen okamžik vzniku či zániku statusu (přijetí k obchodování v průběhu období, delisting).
+
+**5. Řešení.** Závěrka ve zkráceném rozsahu bez auditu je vadná. Společnost musí sestavit závěrku v plném rozsahu jako velká ÚJ, nechat ji ověřit auditorem při dodržení nařízení č. 537/2014, zřídit výbor pro audit a plnit povinnosti dle § 19a (závěrka dle IFRS). Hrozí pokuta dle § 37a ZoÚ, opatření ČNB jako orgánu dohledu nad emitenty a odpovědnost členů představenstva za škodu.
+
+**6. Varianty.** (i) Kdyby dluhopisy byly obchodovány pouze v mnohostranném obchodním systému (např. trh START), nešlo by o regulovaný trh — společnost by SVZ nebyla a zůstala by malou ÚJ. (ii) Kdyby společnost byla bankou nebo pojišťovnou, byla by SVZ podle písm. b), resp. c) bez ohledu na jakoukoli emisi cenných papírů.
+
+#### G. Protiargumenty a rizika
+
+- *„Kategorizace dle § 1b má přednost; malá společnost nemůže nést břemeno velké ÚJ."* Neobstojí — § 1b odst. 5 je lex specialis, který bilanční kritéria u SVZ výslovně vylučuje; proporcionalitu zvážil již unijní zákonodárce (ochrana investorů na regulovaném trhu).
+- *„Dluhopisy drží jediný kvalifikovaný investor, veřejný zájem není dotčen."* Právně bezvýznamné: zákon váže status SVZ na formální znak přijetí k obchodování na regulovaném trhu, nikoli na skutečnou strukturu investorů.
+- Riziko: záměna regulovaného trhu s mnohostranným obchodním systémem (START, Free Market) vede k chybnému určení statusu oběma směry. U skupin pozor: status SVZ konsolidující či konsolidované jednotky vylučuje osvobození malé skupiny od konsolidace (§ 22a).
+
+#### H. Praktický závěr
+
+Status SVZ vzniká ex lege naplněním některého písmene § 1a a přepíná účetní jednotku do nejpřísnějšího režimu: vždy velká ÚJ, plná závěrka, povinný audit dle nařízení č. 537/2014, výbor pro audit, výhledově zpráva o udržitelnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má jednotka sídlo v ČR a naplňuje některé z písmen a)–f) (emitent na regulovaném trhu, banka či záložna, pojišťovna, penzijní společnost, zdravotní pojišťovna, systémově významný obchodník)?
+- [ ] Jde skutečně o regulovaný trh, nikoli o mnohostranný obchodní systém?
+- [ ] Vyvozeny důsledky: kategorie velká ÚJ, povinný audit, výbor pro audit, IFRS dle § 19a, zpráva o udržitelnosti?
+- [ ] Ověřen okamžik vzniku/zániku statusu (přijetí k obchodování, delisting, odnětí licence)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí organizátora regulovaného trhu o přijetí cenného papíru, emisní podmínky či prospekt, bankovní nebo pojišťovací licence, výpisy ze seznamů ČNB, účetní závěrka.
 
 ---
 
@@ -221,6 +294,43 @@ Zákon záměrně nevyžaduje překročení všech tří hranic — postačí ja
 
 > **Pozor:** Kritéria se posuzují k rozvahovému dni, nikoliv průměrně za rok (s výjimkou průměrného počtu zaměstnanců, který je definičně průměrný). Aktiva celkem jsou definována v § 1d jako úhrn aktiv z rozvahy — tzn. aktivní strana rozvahy před odečtením závazků (brutto aktiva).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost STAVMONT s.r.o. vykazuje k 31. 12. 2025 (rozvahový den): aktiva celkem 130 mil. Kč, roční úhrn čistého obratu 200 mil. Kč, průměrný přepočtený počet zaměstnanců 45. Obdobné hodnoty vykazovala i k 31. 12. 2024. Jednatel se domnívá, že překročením aktiv 120 mil. Kč se společnost stala střední účetní jednotkou s povinností plné závěrky a auditu; účetní naopak tvrdí, že jde stále o malou ÚJ bez auditu.
+
+**2. Právní otázka.** Do které kategorie podle § 1b společnost patří, překračuje-li k rozvahovému dni pouze jedno ze tří kritérií vyšší kategorie, a jaký je vztah kategorizace k povinnosti auditu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1b odst. 2 a 3 ZoÚ — princip „alespoň 2 ze 3" hraničních hodnot; kaskádová (residuální) konstrukce kategorií.
+- *Související ustanovení téhož zákona:* § 1d (definice aktiv celkem, čistého obratu a průměrného počtu zaměstnanců); § 1e odst. 2 (změna kategorie až po dvou po sobě jdoucích rozvahových dnech); § 20 (povinnost auditu — samostatná kritéria); § 21a (zveřejňování).
+- *Související předpisy:* čl. 3 směrnice 2013/34/EU; § 3a vyhlášky č. 500/2002 Sb. (zkrácený rozsah výkazů).
+- *Judikatura:* k mechanice „2 ze 3" se soudy vyjadřují zřídka; nosné je východisko, že kategorizační veličiny se zjišťují k rozvahovému dni z řádné závěrky (srov. přiměřeně NS 29 NSCR 100/2019, cit. u § 1d, k práci s ročním úhrnem čistého obratu).
+
+**4. Subsumpce.** Mikro ÚJ společnost není — překračuje aktiva 11 mil. i obrat 22 mil. Kč (dvě hodnoty). Malou ÚJ je ta, která nepřekračuje alespoň 2 z hodnot 120/240/50: společnost překračuje pouze aktiva (130 > 120), obrat (200 ≤ 240) ani zaměstnance (45 ≤ 50) nikoli — nepřekračuje tedy alespoň dvě hodnoty a zůstává malou ÚJ. Pro audit dle § 20 (u s.r.o. kritéria aktiva > 40 mil., obrat > 80 mil., zaměstnanci > 50, dvě ze tří ve dvou obdobích): aktiva i obrat jsou překročeny v obou obdobích — audit je povinný.
+
+**5. Řešení.** Společnost je malou účetní jednotkou, avšak podléhá povinnému auditu podle § 20 ZoÚ — kategorizace a audit jsou dvě nezávislé sady kritérií. Jako auditovaná ÚJ sestavuje rozvahu a výkaz zisku a ztráty v plném rozsahu, nesmí vést účetnictví ve zjednodušeném rozsahu a zveřejňuje závěrku včetně VZZ spolu s výroční zprávou. Praktický krok: včasné uzavření smlouvy s auditorem.
+
+**6. Varianty.** (i) Kdyby k 31. 12. 2025 vzrostl i obrat na 250 mil. Kč, byla by překročena dvě kritéria (aktiva, obrat); při zopakování k 31. 12. 2026 by se společnost od 1. 1. 2027 stala střední ÚJ (§ 1e odst. 2). (ii) Kdyby společnost byla subjektem veřejného zájmu nebo vybranou účetní jednotkou, byla by velkou ÚJ vždy (odst. 5) bez ohledu na bilanční hodnoty.
+
+#### G. Protiargumenty a rizika
+
+- *„Překročení byť jediného kritéria vyšší kategorie znamená přeřazení."* Mylné — zákon vyžaduje překročení (resp. nepřekročení) alespoň dvou hodnot; jediné kritérium kategorii nemění. Vyvrací se prostým textem odst. 2–4 a smyslem testu „2 ze 3" (různé bilanční struktury podniků).
+- *„Malá ÚJ nikdy nepodléhá auditu."* Záměna kategorizace s § 20: auditní kritéria (40/80/50) jsou nižší a samostatná; i malá ÚJ audit mít může (a a.s. dokonce při jediném kritériu).
+- Riziko: nesprávné zjištění veličin — aktiva celkem se berou jako úhrn aktiv z rozvahy (dle převažujícího výkladu v hodnotě netto po korekci o oprávky a opravné položky, srov. § 1d a § 26 odst. 3), čistý obrat nelze zaměnit s celkovými výnosy a zaměstnanci se počítají přepočtem dle metodiky ČSÚ.
+
+#### H. Praktický závěr
+
+Kategorii určujte každoročně k rozvahovému dni testem „2 ze 3" na veličinách dle § 1d; změna kategorie se řídí § 1e. Souběžně a nezávisle testujte povinnost auditu dle § 20 — malá ÚJ s auditem je běžná kombinace.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zjištěny hodnoty: aktiva celkem, roční úhrn čistého obratu, průměrný přepočtený počet zaměstnanců (§ 1d)?
+- [ ] Proveden test „alespoň 2 ze 3" kaskádově od mikro kategorie výše?
+- [ ] Není jednotka SVZ nebo VÚJ (pak vždy velká, odst. 5)?
+- [ ] Samostatně ověřena kritéria povinného auditu dle § 20 za dvě po sobě jdoucí období?
+- [ ] Odvozen správný rozsah závěrky, zveřejňování a případně zpráva o udržitelnosti?
+
+**Typicky rozhodné důkazy / podklady:** rozvaha a výkaz zisku a ztráty k rozvahovému dni (běžné i minulé období), mzdová evidence pro přepočtený stav zaměstnanců dle metodiky ČSÚ, kategorizační propočet, doklad o případném statusu SVZ/VÚJ.
+
 ---
 
 ### § 1c — Kategorie skupin účetních jednotek
@@ -258,6 +368,42 @@ Hodnocení probíhá na **konsolidovaném základě** — tzn. parametry se posu
 Prahové hodnoty skupin jsou shodné s hodnotami pro malé a střední individuální ÚJ — záměrný legislativní design, který zajišťuje koherenci mezi individuálním a konsolidovaným výkaznictvím.
 
 > **Vztah k § 22 a 22a ZoÚ:** Pravidla pro sestavení konsolidované účetní závěrky, okruh konsolidačního celku a metody konsolidace jsou upraveny v části třetí ZoÚ. Viz [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** HOLDING ALFA s.r.o. vlastní 100% podíly ve dvou dceřiných společnostech. Na konsolidovaném základě (po eliminaci vzájemných plnění) skupina k 31. 12. 2025 vykazuje: aktiva 110 mil. Kč, čistý obrat 230 mil. Kč, 48 zaměstnanců; obdobně k 31. 12. 2024. Mateřská společnost řeší, zda musí sestavit konsolidovanou účetní závěrku; jedna z dcer současně zvažuje emisi dluhopisů na regulovaném trhu.
+
+**2. Právní otázka.** Je skupina malou skupinou účetních jednotek podle § 1c odst. 1, a je tedy konsolidující jednotka osvobozena od povinnosti sestavit konsolidovanou účetní závěrku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1c odst. 1 ZoÚ — malá skupina: na konsolidovaném základě nepřekračuje alespoň 2 z hodnot 120 mil. / 240 mil. Kč / 50 zaměstnanců.
+- *Související ustanovení téhož zákona:* § 22–22b (povinnost konsolidace, konsolidační celek), § 22a odst. 1 (osvobození malé skupiny, výjimka pro SVZ), § 1a (SVZ), § 1d (definice veličin), § 1e (změna kategorie skupiny).
+- *Související předpisy:* čl. 3 odst. 5–7 směrnice 2013/34/EU; vyhláška č. 500/2002 Sb. a ČÚS č. 020 (metody konsolidace).
+- *Judikatura:* k § 1c není publikována nosná judikatura; vodítkem je unijní původ úpravy a povinnost eurokonformního výkladu se směrnicí 2013/34/EU.
+
+**4. Subsumpce.** Skupina sestává z konsolidující (mateřské) a konsolidovaných (dceřiných) jednotek. Na konsolidovaném základě nepřekračuje žádnou z hraničních hodnot (110 ≤ 120, 230 ≤ 240, 48 ≤ 50) — tím spíše nepřekračuje alespoň dvě. Jde o malou skupinu; žádná jednotka skupiny není SVZ.
+
+**5. Řešení.** Konsolidující jednotka je osvobozena od sestavení konsolidované závěrky (§ 22a odst. 1). Doporučený postup: každoročně doložitelně dokumentovat propočet na konsolidovaném základě (eliminace vzájemných pohledávek, závazků a výnosů), sledovat vývoj k hranicím a status SVZ ve skupině.
+
+**6. Varianty.** (i) Pokud dceřiná společnost emituje dluhopisy přijaté k obchodování na regulovaném trhu, stane se SVZ — osvobození malé skupiny se neuplatní a konsolidovaná závěrka bude povinná bez ohledu na velikost skupiny. (ii) Překročí-li skupina k 31. 12. 2025 i k 31. 12. 2026 dvě hodnoty (např. obrat a zaměstnance), stane se od 1. 1. 2027 střední skupinou (§ 1e odst. 2) s povinností konsolidace.
+
+#### G. Protiargumenty a rizika
+
+- *„Kritéria lze posoudit prostým součtem individuálních závěrek."* Zákon výslovně vyžaduje konsolidovaný základ; prostý agregát nadhodnocuje skupinu o vnitroskupinové transakce. Směrnice 2013/34/EU sice členským státům umožňuje připustit i agregovaný test s prahy zvýšenými o 20 %, český zákonodárce však tuto opci do § 1c nepřevzal.
+- *„Osvobození malé skupiny platí absolutně."* Neplatí — prolomeno je u skupin, v nichž je některá jednotka SVZ; konsolidaci mohou nezávisle vyžadovat i zvláštní předpisy (banky, ZISIF).
+- Riziko: chybné vymezení konsolidačního celku — rozhodné je ovládání ve smyslu § 22 ZoÚ, nikoli jen výše podílu; opomíjí se též zahraniční konsolidující osoby a vícestupňové struktury.
+
+#### H. Praktický závěr
+
+Kategorii skupiny posuzujte na konsolidovaném základě testem „2 ze 3" se shodnými prahy jako u individuálních malých a středních ÚJ; malá skupina bez SVZ konsolidovanou závěrku nesestavuje, propočet ale musí být kdykoli doložitelný.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Správně vymezen konsolidační celek (konsolidující + konsolidované ÚJ dle § 22)?
+- [ ] Proveden propočet na konsolidovaném základě (eliminace vzájemných vztahů)?
+- [ ] Ověřeno, že žádná jednotka skupiny není subjektem veřejného zájmu?
+- [ ] Sledována změna kategorie skupiny podle § 1e odst. 2?
+
+**Typicky rozhodné důkazy / podklady:** individuální závěrky členů skupiny, konsolidační propočet s eliminacemi, přehled vlastnické a ovládací struktury, doklady o (ne)existenci SVZ ve skupině.
 
 ---
 
@@ -309,6 +455,42 @@ Zákon rozlišuje **čistý obrat** pro různé typy účetních jednotek:
 
 Počet zaměstnanců se zjišťuje metodikou Českého statistického úřadu jako průměrný **přepočtený** (tj. na plný pracovní úvazek) evidenční stav. Zahrnuje všechny zaměstnance v pracovním poměru; nezahrnuje osoby pracující na základě dohod o pracích konaných mimo pracovní poměr (DPČ, DPP), statutární orgány bez pracovní smlouvy ani osoby přidělené agenturami práce.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní společnost v úpadku podala dlužnický insolvenční návrh spojený s návrhem na povolení reorganizace. Její poslední účetní období před podáním návrhu trvalo — v důsledku přechodu na hospodářský rok — 18 měsíců a čistý obrat (výnosy z prodeje výrobků, zboží a služeb) za toto období činil 72 mil. Kč. Insolvenční soud zkoumá přípustnost reorganizace, která je dle § 316 odst. 4 IZ vázána na roční úhrn čistého obratu alespoň 50 mil. Kč (nebo alespoň 50 zaměstnanců). Věřitel tvrdí, že obrat 72 mil. Kč hranici splňuje; dlužník má 30 zaměstnanců.
+
+**2. Právní otázka.** Jak se pro účely jiného právního předpisu (zde § 316 odst. 4 IZ) určí „roční úhrn čistého obratu", bylo-li poslední účetní období dlužníka delší než 12 měsíců?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1d odst. 2 ZoÚ — čistý obrat (výnosy z prodeje výrobků a zboží a z poskytování služeb) a jeho anualizace: vydělení počtem započatých měsíců období a vynásobení dvanácti.
+- *Související ustanovení téhož zákona:* § 3 odst. 2 (kratší/delší přechodové účetní období), § 1b–1c (kategorizace navázaná na obrat), § 1d odst. 3–5 (odchylky pro banky, pojišťovny a neziskové ÚJ), odst. 6 (zaměstnanci dle metodiky ČSÚ).
+- *Související předpisy:* § 316 odst. 4 a 5 zákona č. 182/2006 Sb., insolvenční zákon; vyhlášky č. 501/2002 Sb. a 502/2002 Sb. (obrat finančních institucí).
+- *Judikatura:* NS 29 NSCR 100/2019 (cit. výše) — zvláštním předpisem dle § 316 odst. 4 IZ je ZoÚ; u účetního období delšího 1 roku soud určí roční úhrn čistého obratu postupem dle § 1d odst. 2 ZoÚ.
+
+**4. Subsumpce.** Posledním účetním obdobím je 18měsíční přechodové období (§ 3 odst. 2 věta poslední). Čistý obrat 72 mil. Kč je úhrnem výnosů z prodeje výrobků, zboží a služeb za toto období. Roční úhrn = 72 / 18 × 12 = 48 mil. Kč — hraniční hodnota 50 mil. Kč dle § 316 odst. 4 IZ není dosažena; kritérium 50 zaměstnanců rovněž ne (30). Sporné by mohlo být zahrnutí jiných výnosů (prodej majetku, finanční výnosy) — ty do čistého obratu podnikatele nepatří.
+
+**5. Řešení.** Reorganizace není bez dalšího přípustná; dlužníku zbývá tzv. předjednaná reorganizace se souhlasem kvalifikované většiny věřitelů (§ 316 odst. 5 IZ). Z účetního hlediska platí: není-li období dvanáctiměsíční, anualizace dle § 1d odst. 2 se provádí vždy, a to z počtu započatých (nikoli dokončených) měsíců; týž mechanismus se použije při kategorizaci dle § 1b a § 1c.
+
+**6. Varianty.** (i) Kdyby dlužníkem byla banka, čistý obrat by se určil součtem výnosových položek dle přílohy č. 2 vyhlášky č. 501/2002 Sb. (odst. 3 písm. a)) — výsledek by byl podstatně jiný. (ii) Kdyby šlo o jednotku, jejímž hlavním předmětem činnosti není podnikání (spolek), čistým obratem by byly veškeré výnosy včetně dotací (odst. 5) — hranice by mohla být dosažena snáze.
+
+#### G. Protiargumenty a rizika
+
+- *„Pro insolvenční účely se vezme obrat z výkazů bez přepočtu."* Vyvráceno rozhodnutím NS 29 NSCR 100/2019 — bez anualizace by délka období dlužníka vedla k nahodilým výsledkům; § 1d odst. 2 je obecné definiční pravidlo pro celý právní řád, odkazuje-li na ZoÚ.
+- *„Do čistého obratu patří všechny výnosy."* U podnikatelů nikoli — jen výnosy z prodeje výrobků, zboží a poskytování služeb; širší pojetí platí pouze pro neziskové ÚJ (odst. 5). Pozor na časovou působnost: do 31. 12. 2023 byla definice širší (výnosy snížené o prodejní slevy), starší závěrky a judikatura s ní mohou pracovat.
+- Riziko: záměna započatých a dokončených měsíců při anualizaci; použití evidenčního namísto přepočteného počtu zaměstnanců (odst. 6) a zahrnutí osob na DPP/DPČ.
+
+#### H. Praktický závěr
+
+§ 1d je definiční normou s dosahem i mimo účetnictví (kategorizace, audit, insolvence). Veličiny počítejte vždy z řádné závěrky: aktiva celkem jako úhrn aktiv z rozvahy, čistý obrat jako provozní výnosy z prodeje s anualizací přes započaté měsíce, zaměstnance přepočtem dle metodiky ČSÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikován typ jednotky (podnikatel / banka / pojišťovna / nezisková) a tomu odpovídající definice čistého obratu (odst. 2–5)?
+- [ ] Trvalo účetní období 12 měsíců? Pokud ne, provedena anualizace přes započaté měsíce × 12?
+- [ ] Aktiva celkem převzata z rozvahy jako úhrn aktiv?
+- [ ] Průměrný počet zaměstnanců zjištěn jako přepočtený dle metodiky ČSÚ (bez DPP/DPČ a agenturních pracovníků)?
+
+**Typicky rozhodné důkazy / podklady:** výkaz zisku a ztráty, rozvaha, doklad o délce účetního období (oznámení změny správci daně), mzdové podklady pro přepočtený stav zaměstnanců.
+
 ---
 
 ### § 1e — Pravidla pro přechod mezi kategoriemi
@@ -333,6 +515,42 @@ Změna kategorie nastává až tehdy, kdy jsou hraniční hodnoty překročeny (
 2. **Včasné plánování** — účetní jednotka má celé bezprostředně následující účetní období na přípravu (nastavení vnitřních procesů, případné uzavření smlouvy s auditorem, rozšíření závěrky).
 
 > **Příklad:** Účetní jednotka byla v kategorii „malá" a překročí hraniční hodnoty poprvé k 31. 12. 2024 (rozvahový den). Pokud je překročí i k 31. 12. 2025, změní se na „střední" od 1. 1. 2026. Pokud je k 31. 12. 2025 nepřekročí, zůstává „malou".
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní s.r.o. byla od vzniku malou účetní jednotkou. K 31. 12. 2024 poprvé překročila dvě hraniční hodnoty malé kategorie (aktiva 150 mil. Kč > 120 mil., obrat 260 mil. Kč > 240 mil.) a stejně tomu bylo i k 31. 12. 2025. Externí účetní trvá na tom, že již závěrka za rok 2025 musí být sestavena v režimu střední účetní jednotky (plný rozsah, přehled o peněžních tocích); jednatel chce změnu odložit.
+
+**2. Právní otázka.** Od kterého účetního období je účetní jednotka povinna postupovat podle právní úpravy vyšší kategorie, překročila-li hraniční hodnoty ve dvou po sobě jdoucích rozvahových dnech řádných závěrek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1e odst. 2 ZoÚ — změna kategorie od počátku účetního období bezprostředně následujícího po druhém rozvahovém dni s překročením (či poklesem) dvou hodnot.
+- *Související ustanovení téhož zákona:* § 1b a § 1c (hraniční hodnoty), § 1d (veličiny), § 18 a § 21a (rozsah závěrky a zveřejňování dle kategorie), § 20 (audit — nezávislý test).
+- *Související předpisy:* čl. 3 odst. 10 směrnice 2013/34/EU (pravidlo dvou po sobě jdoucích rozvahových dní); § 3a vyhlášky č. 500/2002 Sb.
+- *Judikatura:* publikovaná judikatura chybí; pravidlo je výkladově nesporné a odpovídá unijní předloze.
+
+**4. Subsumpce.** První překročení: rozvahový den 31. 12. 2024. Druhé po sobě jdoucí: 31. 12. 2025. Hypotéza odst. 2 je naplněna druhým rozvahovým dnem; dispozice — změna kategorie — však nastává až od počátku bezprostředně následujícího účetního období, tj. od 1. 1. 2026. Závěrka sestavovaná k 31. 12. 2025 se proto ještě řídí režimem malé ÚJ.
+
+**5. Řešení.** Závěrku za rok 2025 sestavit v režimu malé ÚJ; od 1. 1. 2026 přejít do režimu střední ÚJ (plný rozsah závěrky včetně přehledu o peněžních tocích a o změnách vlastního kapitálu, výroční zpráva, povinný audit, plné zveřejnění). Rok 2025/2026 využít k přípravě: výběr auditora, úprava softwaru a vnitřních směrnic. Pozor: povinnost auditu podle § 20 (prahy 40/80/50) zde vznikla nezávisle již dříve.
+
+**6. Varianty.** (i) Kdyby k 31. 12. 2025 jednotka překročila jen jednu hodnotu, kategorie se nemění — jednorázový výkyv (mimořádná zakázka, prodej majetku) k přeřazení nevede. (ii) U nově vzniklé jednotky se kategorie v prvním období určí kvalifikovaným odhadem (odst. 1) — start-up důvodně předpokládající překročení středních prahů postupuje od počátku jako střední ÚJ.
+
+#### G. Protiargumenty a rizika
+
+- *„Kategorie se mění okamžitě druhým překročením, tedy už pro závěrku za druhé období."* Neobstojí — text odst. 2 váže změnu výslovně na počátek bezprostředně následujícího období; opačný výklad by popřel funkci přípravného času i smysl ochrany před oscilací.
+- *„Chybný odhad při vzniku (odst. 1) je sankcionovatelný."* Zákon žádá jen důvodný předpoklad; ex post zjištěná odchylka sama o sobě porušením není. Riziko vzniká až při zjevně účelovém podhodnocení směřujícím k obejití auditu či plného výkaznictví.
+- Riziko: zaměňování testu kategorie (§ 1b/§ 1e) s testem auditu (§ 20) — obě pravidla „dvou období" běží nezávisle; u skupin je nutno souběžně sledovat § 1c.
+
+#### H. Praktický závěr
+
+Kategorii ověřujte při každé řádné závěrce; ke změně přistupte až od období následujícího po druhém po sobě jdoucím rozvahovém dni, k němuž byly dvě hraniční hodnoty překročeny (nebo přestaly být překračovány). Změnu plánujte s předstihem (audit, rozsah výkazů, software, směrnice).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Porovnány veličiny § 1d s prahy § 1b/§ 1c za dva po sobě jdoucí rozvahové dny řádných závěrek?
+- [ ] Změna kategorie aplikována až od bezprostředně následujícího účetního období?
+- [ ] U nově vzniklé jednotky doložen důvodný předpoklad (podnikatelský plán, rozpočet)?
+- [ ] Souběžně ověřen test povinného auditu dle § 20?
+
+**Typicky rozhodné důkazy / podklady:** řádné účetní závěrky za dvě po sobě jdoucí období, kategorizační propočty, podnikatelský plán u nové jednotky, interní směrnice k závěrce.
 
 ---
 
@@ -399,6 +617,43 @@ Přestane-li účetní jednotka splňovat podmínky, musí přejít na podvojné
 
 Způsob přechodu upravuje vyhláška č. 325/2015 Sb., kterou se provádějí některá ustanovení zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, pro účetní jednotky, které vedou jednoduché účetnictví.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Tělovýchovný spolek (fotbalový klub) vede od roku 2016 jednoduché účetnictví. V roce 2025 obdržel provozní dotaci od města 1,2 mil. Kč a na členských příspěvcích a vstupném vybral 2,1 mil. Kč; mimoto prodal starý traktor na údržbu hřiště za 150 000 Kč. Hodnota majetku k rozvahovému dni činí 2,4 mil. Kč, plátcem DPH spolek není. Výbor spolku řeší, zda smí v jednoduchém účetnictví pokračovat.
+
+**2. Právní otázka.** Přestal spolek splňovat podmínky § 1f odst. 1 (limit celkových příjmů 3 mil. Kč), a pokud ano, od kdy a v jakém rozsahu musí vést podvojné účetnictví a kdy se smí k jednoduchému účetnictví vrátit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1f odst. 1 písm. b), odst. 3 a 4 ZoÚ — kumulativní podmínky, definice celkových příjmů, povinný přechod a pětiletá blokace návratu.
+- *Související ustanovení téhož zákona:* § 13a (zjednodušený rozsah), § 2 odst. 2 (předmět jednoduchého účetnictví), § 4 odst. 8 písm. h) (metody přechodu).
+- *Související předpisy:* vyhláška č. 325/2015 Sb. (jednoduché účetnictví, přehledy); vyhláška č. 504/2002 Sb. (podvojné účetnictví neziskových ÚJ); § 6 a násl. zákona č. 235/2004 Sb. (plátcovství DPH).
+- *Judikatura:* k § 1f není nosná judikatura; výkladová praxe se shoduje, že pravidelná provozní dotace na hlavní činnost není příjmem nahodilým ani mimořádným ve smyslu odst. 4.
+
+**4. Subsumpce.** Spolek je osobou dle odst. 1 písm. d) bodu 1; není plátcem DPH (podmínka a) splněna); hodnota majetku 2,4 mil. ≤ 3 mil. Kč (podmínka c) splněna). Celkové příjmy: dotace 1,2 mil. + příspěvky a vstupné 2,1 mil. = 3,3 mil. Kč; příjem z prodeje traktoru (dlouhodobý majetek) se dle odst. 4 nezahrnuje. Limit 3 mil. Kč (podmínka b)) je překročen — podmínky přestaly být plněny kumulativně.
+
+**5. Řešení.** Spolek povede od 1. 1. 2026 (první den účetního období následujícího po období, v němž skutečnost zjistil) podvojné účetnictví — v plném, nebo ve zjednodušeném rozsahu dle § 13a; pro malý spolek je praktický zjednodušený rozsah dle vyhlášky č. 504/2002 Sb. Přechod provede podle vyhlášky č. 325/2015 Sb. (soupis majetku a závazků, zahajovací rozvaha). K jednoduchému účetnictví se smí vrátit nejdříve po 5 po sobě jdoucích účetních obdobích podvojného účetnictví (odst. 3).
+
+**6. Varianty.** (i) Kdyby místo provozní dotace šlo o jednorázový mimořádný dar z dědictví (příjem nahodilý a mimořádný), do úhrnu příjmů by se nezahrnul a limit by překročen nebyl. (ii) Kdyby se spolek stal plátcem DPH, pozbyl by podmínku písm. a) bez ohledu na výši příjmů — důsledek je týž: povinný přechod na podvojné účetnictví od následujícího období.
+
+#### G. Protiargumenty a rizika
+
+- *„Dotace je nahodilý příjem, do limitu se nepočítá."* Slabý argument: nahodilost se posuzuje vztahem k běžné činnosti; pravidelná provozní dotace na hlavní činnost je příjmem řádným. Výjimky odst. 4 je nutno vykládat restriktivně, jinak by limit ztratil smysl.
+- *„Přechod je nutný okamžitě v průběhu roku 2025."* Nikoli — odst. 3 odkládá přechod na počátek následujícího účetního období; běžící období se v jednoduchém účetnictví dokončí.
+- Riziko: opomenutí pětileté blokace návratu (odst. 3 věta druhá); častá záměna jednoduchého účetnictví s daňovou evidencí dle § 7b ZDP — fyzické osoby jednoduché účetnictví vést nesmí a spolky naopak nesmí vést daňovou evidenci.
+
+#### H. Praktický závěr
+
+Jednoduché účetnictví je výsadou úzkého okruhu neziskových právnických osob při kumulativním splnění čtyř podmínek (forma, neplátcovství DPH, příjmy i majetek do 3 mil. Kč). Jejich trvání kontrolujte každoročně k rozvahovému dni; při ztrátě kterékoli podmínky plánujte přechod na podvojné účetnictví od následujícího období.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je jednotka formou uvedenou v odst. 1 písm. d) (spolek, odborová organizace, organizace zaměstnavatelů, církev, honební společenstvo)?
+- [ ] Není plátcem DPH?
+- [ ] Celkové příjmy (bez prodeje dlouhodobého majetku a příjmů nahodilých/mimořádných) ≤ 3 mil. Kč?
+- [ ] Hodnota majetku (bez pohledávek z prodeje dlouhodobého majetku a nahodilých) ≤ 3 mil. Kč?
+- [ ] Při ztrátě podmínek: přechod dle vyhlášky č. 325/2015 Sb. od následujícího období a hlídání pětileté blokace návratu?
+
+**Typicky rozhodné důkazy / podklady:** přehled o příjmech a výdajích, přehled o majetku a závazcích, dotační smlouvy a rozhodnutí, výpis z registru plátců DPH, stanovy a výpis ze spolkového rejstříku.
+
 ---
 
 ### § 2 — Předmět účetnictví
@@ -424,6 +679,42 @@ Zákon rozlišuje **plný rozsah** a **zjednodušený rozsah** vedení účetnic
 #### Jednoduché účetnictví — předmět (odst. 2)
 
 Předmětem jednoduchého účetnictví jsou jen **výdaje a příjmy** (hotovostní báze) a **majetek a závazky** (statická složka). Nezachycuje se časové rozlišení; výsledek hospodaření se nesleduje přímo — je to rozdíl příjmů a výdajů. Tato zjednodušená systematika odráží potřeby malých neziskových právnických osob, u nichž je klíčová průhlednost peněžních toků, a nikoli akruální výsledek hospodaření.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní s.r.o. přijala v prosinci 2025 poradenské služby; dodavatel fakturoval až v únoru 2026. Účetní o závazku v roce 2025 neúčtovala vůbec („nebyl doklad") a náklad zachytila až v roce 2026. Současně společnost eviduje část drobného vybavení jen v operativní tabulce mimo účetnictví. Při daňové kontrole správce daně i auditor zkoumají úplnost předmětu účetnictví roku 2025.
+
+**2. Právní otázka.** Patří nevyfakturované přijaté plnění (dohadná položka pasivní) a veškerý majetek společnosti do předmětu účetnictví podle § 2 odst. 1, tj. musely být v roce 2025 zachyceny podvojným zápisem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 ZoÚ — předmět podvojného účetnictví: stav a pohyb majetku a jiných aktiv, závazky včetně dluhů a jiná pasiva, náklady, výnosy a výsledek hospodaření.
+- *Související ustanovení téhož zákona:* § 3 odst. 1 (akruální princip), § 6 odst. 1 (dokladovost), § 8 odst. 3 (úplnost), § 13 a § 13a (rozsah vedení účetnictví).
+- *Související předpisy:* vyhláška č. 500/2002 Sb. (dohadné položky, časové rozlišení); ČÚS č. 017 a č. 019.
+- *Judikatura:* judikatura NSS k daňové účinnosti nákladů setrvale zdůrazňuje zachycení nákladů do období, s nímž věcně a časově souvisejí; absence faktury nezbavuje povinnosti účtovat dohadnou položku na základě interního dokladu.
+
+**4. Subsumpce.** Přijaté, dosud nevyfakturované plnění je závazkem („jiným pasivem" — dohadnou položkou pasivní) a nákladem roku 2025: spadá pod „závazky včetně dluhů a jiná pasiva" i „náklady" dle odst. 1. Drobné vybavení je „majetkem". Obojí je tedy předmětem účetnictví; neexistence faktury není právní překážkou — dokladem je vnitřní účetní doklad s kvalifikovaným odhadem výše plnění.
+
+**5. Řešení.** Společnost porušila § 2 odst. 1 ve spojení s § 3 odst. 1 a § 8 odst. 3 (úplnost). Náprava: zaúčtování dohadné položky do období 2025, je-li ještě otevřené, jinak oprava chyby minulých období, a úprava základu daně. Operativní evidence mohou účetnictví pouze doplňovat, nikoli nahrazovat zachycení majetku v účetních knihách.
+
+**6. Varianty.** (i) Kdyby šlo o spolek vedoucí jednoduché účetnictví, předmětem by byly jen příjmy, výdaje, majetek a závazky (odst. 2) — náklad by se zachytil až úhradou a dohadné položky by se netvořily. (ii) Kdyby výše plnění nebyla ani kvalifikovaně odhadnutelná, šlo by o podmíněný závazek popsaný v příloze závěrky, nikoli o dohadnou položku.
+
+#### G. Protiargumenty a rizika
+
+- *„Bez faktury nelze účtovat (§ 6 odst. 1)."* Zaměňuje doklad s fakturou — účetním dokladem může být i vnitřní doklad s náležitostmi § 11 ZoÚ; dokladovost nemůže vyprázdnit akruální princip.
+- *„Drobný majetek účtovaný do nákladů není předmětem účetnictví."* Nepřesné — volba účetní metody (jednorázový odpis do nákladů) nemění rozsah předmětu účetnictví; i takový majetek podléhá evidenci a inventarizaci.
+- Riziko: u jednotek vedoucích jednoduché účetnictví hrozí naopak nesprávné přenášení akruálních konstrukcí (odpisy, dohadné položky, časové rozlišení) — odst. 2 je systematicky vylučuje.
+
+#### H. Praktický závěr
+
+§ 2 vymezuje, „o čem" se účtuje: v podvojném účetnictví o veškerých aktivech, pasivech, nákladech a výnosech na akruální bázi; v jednoduchém účetnictví jen o příjmech, výdajích, majetku a závazcích. Nic z předmětu účetnictví nesmí zůstat mimo účetní knihy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zachyceny všechny složky majetku, závazků, nákladů a výnosů včetně dohadných položek a časového rozlišení?
+- [ ] Nejsou vedeny „paralelní" evidence nahrazující účetní zachycení?
+- [ ] Výsledek hospodaření odvozen z řádně zaúčtovaných nákladů a výnosů?
+- [ ] U jednoduchého účetnictví: účtováno hotovostně, bez akruálních konstrukcí?
+
+**Typicky rozhodné důkazy / podklady:** hlavní kniha a deník, inventurní soupisy, smlouvy a objednávky k nevyfakturovaným plněním, vnitřní účetní doklady, operativní evidence majetku.
 
 ---
 
@@ -491,6 +782,43 @@ Zákon stanoví jako základní délku účetního období **12 nepřetržitě p
 - **Přeměny** (odst. 3): účetní období se přizpůsobuje rozhodným dnům přeměny — zákon č. 125/2008 Sb. o přeměnách obchodních společností a družstev umožňuje, aby rozhodný den předcházel zápisu přeměny do rejstříku, takže výsledky zanikající společnosti „plynou" nástupci od rozhodného dne.
 
 > **Vazba na daňové právo:** Délka účetního (= zdaňovacího) období je klíčová pro podání daňového přiznání k dani z příjmů (§ 38m ZDP — lhůta 3 měsíce od skončení zdaňovacího období). Oznámení záměru změnit účetní období se podává správci daně z příjmů (finančnímu úřadu), nikoli správci daně z přidané hodnoty.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká dceřiná s.r.o. německého koncernu (matka účtuje k 31. 3.) se rozhodla přejít z kalendářního roku na hospodářský rok začínající 1. 4. 2026. Oznámení záměru podala místně příslušnému správci daně z příjmů 20. 1. 2026, tedy méně než 3 měsíce před plánovanou změnou. Souběžně účtárna v lednu 2026 doúčtovává do roku 2025 náklady na služby přijaté v prosinci 2025 a fakturované v lednu 2026.
+
+**2. Právní otázka.** Je změna účetního období na hospodářský rok účinná, bylo-li oznámení správci daně podáno méně než 3 měsíce před plánovanou změnou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 5 ZoÚ — oznámení nejméně 3 měsíce před plánovanou změnou nebo před koncem běžného účetního období (rozhodný je dřívější termín), jinak účetní období zůstává nezměněno.
+- *Související ustanovení téhož zákona:* § 3 odst. 1 (akruální princip), odst. 2 (přechodové období kratší či delší 12 měsíců), odst. 3, 4 a 6 (přeměny, zvláštní případy, nové jednotky); § 7 odst. 4 (srovnatelnost).
+- *Související předpisy:* § 17a a § 38m zákona č. 586/1992 Sb. (zdaňovací období, přiznání); zákon č. 125/2008 Sb. (rozhodný den přeměny).
+- *Judikatura:* NS 29 NSCR 2/2022 (cit. výše) — pojem účetní období se i pro účely jiných předpisů (odměna insolvenčního správce při reorganizaci) vykládá podle ZoÚ; rozhodné je období, v němž dlužník účtoval podle ZoÚ.
+
+**4. Subsumpce.** Rozhodným termínem je dřívější z obou: plánovaná změna (1. 4. 2026) nastává dříve než konec běžného účetního období (31. 12. 2026); lhůta proto uplynula 31. 12. 2025. Oznámení z 20. 1. 2026 je opožděné — nastupuje zákonný následek „jinak účetní období zůstává nezměněno". Doúčtování prosincových služeb do roku 2025 odpovídá akruálnímu principu (odst. 1): rozhoduje věcná a časová souvislost, nikoli datum faktury.
+
+**5. Řešení.** Účetní období zůstává kalendářním rokem; „závěrka" sestavená k 31. 3. 2026 by neměla účinky řádné účetní závěrky. Správný postup: podat oznámení znovu nejpozději do 31. 12. 2026 pro přechod od 1. 4. 2027; přechodové období 1. 1. – 31. 3. 2027 bude kratším účetním obdobím s řádnou závěrkou a samostatným daňovým přiznáním. V příloze závěrky popsat nesrovnatelnost období (§ 7 odst. 4).
+
+**6. Varianty.** (i) Nově založená společnost může hospodářský rok uplatnit oznámením do 30 dnů ode dne vzniku (odst. 6 písm. a)) — tříměsíční lhůta se neuplatní. (ii) Při fúzi začíná nezanikající (nástupnické) jednotce účetní období rozhodným dnem a končí posledním dnem období, v němž nastaly právní účinky přeměny (odst. 3 písm. a)) — délka období se přizpůsobí přeměně bez oznamovací procedury.
+
+#### G. Protiargumenty a rizika
+
+- *„Lhůta pro oznámení je jen pořádková."* Neobstojí — zákon výslovně spojuje zmeškání s následkem zachování dosavadního období; jde o lhůtu propadnou, správce daně nemá diskreci ji prominout.
+- *„Akruální princip lze prolomit u nevýznamných položek."* Výjimka odst. 1 stojí jen na objektivní nemožnosti (pozdní doložení dokladů); materialita může odůvodnit zjednodušení v rámci účetních metod, nikoli svévolné přesouvání nákladů mezi obdobími (riziko porušení § 8 odst. 3 a daňového doměrku).
+- Riziko: opomenutí daňových důsledků přechodového období (samostatné zdaňovací období, lhůty pro přiznání a zálohy) a omezení, že změnu účetního období lze v běžném období provést jen jednou (odst. 5 věta třetí).
+
+#### H. Praktický závěr
+
+Účetní období je dvanáctiměsíční rámec účetnictví (kalendářní, nebo hospodářský rok); jeho změna vyžaduje včasné oznámení správci daně (3 měsíce před dřívějším z rozhodných termínů) a zvládnutí přechodového období. Akruální princip aplikujte důsledně — rozhoduje věcná a časová souvislost, ne datum faktury či platby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt oprávněn uplatnit hospodářský rok (není organizační složkou státu, ÚSC ani jednotkou zřízenou zvláštním zákonem)?
+- [ ] Oznámení podáno správci daně z příjmů nejméně 3 měsíce před dřívějším z termínů (plánovaná změna / konec běžného období)?
+- [ ] Přechodové období správně vymezeno, doprovázeno řádnou závěrkou a daňovým přiznáním?
+- [ ] Náklady a výnosy účtovány do období věcné a časové souvislosti (dohadné položky, časové rozlišení)?
+- [ ] U přeměn navázáno účetní období na rozhodný den dle odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** oznámení správci daně s dokladem o doručení, projekt přeměny s rozhodným dnem, účetní závěrky za přechodové období, vnitřní doklady časového rozlišení a dohadných položek.
 
 ---
 
@@ -633,6 +961,43 @@ Zákon ukládá použít účetní metody ve znění platném **na počátku** �
 
 > **Vazba na ostatní kapitoly:** Konkrétní obsah účetních knih (odst. 9) viz [02-cast2-rozsah-doklady-zapisy-knihy.md](02-cast2-rozsah-doklady-zapisy-knihy.md); oceňovací metody (odst. 8 písm. g)) viz [04-cast4-zpusoby-ocenovani.md](04-cast4-zpusoby-ocenovani.md); inventarizace (odst. 8 písm. u)) viz [05-cast5-6-inventarizace-uschova.md](05-cast5-6-inventarizace-uschova.md).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba — podnikatel v autodopravě — se v roce 2023 nechala dobrovolně zapsat do obchodního rejstříku (kvůli důvěryhodnosti u zahraničních partnerů) a od data zápisu vede účetnictví (§ 1 odst. 2 písm. d), § 4 odst. 2). V roce 2025, po necelých třech účetních obdobích, dosáhne výmazu z obchodního rejstříku a hodlá od 1. 1. 2026 vést opět jen daňovou evidenci; obrat 25 mil. Kč nepřekračuje a v podnikání pokračuje.
+
+**2. Právní otázka.** Může fyzická osoba po výmazu z obchodního rejstříku ukončit vedení účetnictví, ačkoli od jeho zahájení neuplynulo 5 po sobě jdoucích účetních období (§ 4 odst. 7)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 2 ZoÚ (povinnost od zápisu do výmazu z OR) a odst. 7 (ukončení vedení účetnictví nejdříve po 5 po sobě jdoucích účetních obdobích, s výjimkou ukončení činnosti).
+- *Související ustanovení téhož zákona:* § 1 odst. 2 písm. d)–h); § 4 odst. 8 písm. h) (metody přechodu na daňovou evidenci); § 4 odst. 9–13 (jednota účetnictví, záznamy, měna, jazyk); § 37a (přestupek).
+- *Související předpisy:* § 7b a příloha č. 3 zákona č. 586/1992 Sb. (přechod z účetnictví na daňovou evidenci a úpravy základu daně); § 42 a násl. zákona č. 304/2013 Sb. (dobrovolný zápis FO do obchodního rejstříku).
+- *Judikatura:* nosná judikatura k odst. 7 chybí; správní praxe Finanční správy i komentářová literatura dovozují, že pětileté stabilizační pravidlo dopadá na všechny účetní jednotky dle § 1 odst. 2 písm. d)–h), tedy i na případy, kdy odpadl titul (výmaz z OR), nepřestala-li osoba podnikat.
+
+**4. Subsumpce.** Titul povinnosti (zápis v OR) výmazem zanikl; osoba však v podnikání pokračuje, takže výjimka „ukončení činnosti" v odst. 7 nedopadá. Účetnictví vedla pouze tři účetní období (2023–2025), tedy méně než pět. Sporné je, zda odst. 7 váže i toho, komu odpadl titul dle písm. d); převažující výklad odpovídá smyslu normy — zabránit účelovému střídání účetnictví a daňové evidence.
+
+**5. Řešení.** Bezpečný postup: pokračovat ve vedení účetnictví (materiálně jako ÚJ dle § 1 odst. 2 písm. f)) do uplynutí pěti účetních období, tj. ukončit je nejdříve k 31. 12. 2027 a od 1. 1. 2028 přejít na daňovou evidenci postupem dle přílohy č. 3 ZDP (úprava základu daně o zásoby, pohledávky a závazky). Předčasné ukončení by zakládalo přestupek dle § 37a ZoÚ a riziko doměrku.
+
+**6. Varianty.** (i) Ukončí-li osoba podnikání zcela (zrušení živnostenského oprávnění), smí účetnictví uzavřít ihned — výjimka v odst. 7. (ii) Překročí-li v mezidobí obrat 25 mil. Kč, vznikne nový titul dle písm. e) s vlastním časovým režimem (§ 4 odst. 3) a návrat k daňové evidenci se dále odsune.
+
+#### G. Protiargumenty a rizika
+
+- *„Odst. 7 míří jen na dobrovolné vedení dle písm. f); výmazem z OR povinnost bez dalšího končí."* Textace odst. 7 je však obecná („účetní jednotky podle § 1 odst. 2 písm. d) až h)") a účel — stabilita, srovnatelnost dat, zamezení daňové optimalizaci střídáním systémů — svědčí širšímu dopadu. Opačný výklad je obhajitelný, ale rizikový; chybí judikatura, která by jej aprobovala.
+- *„Pětiletá lhůta se počítá kalendářně."* Nepřesné — počítá se na účetní období, v nichž bylo účetnictví vedeno; při hospodářském roce nebo přechodovém období se konec posouvá.
+- Riziko: opomenutí daňových dopadů přechodu (jednorázové dodanění pohledávek a zásob), porušení odst. 12 a 13 (souběžná evidence cizí měny, český jazyk) a odst. 15 (účetní metody ve znění k počátku období) při změně softwaru v průběhu roku.
+
+#### H. Praktický závěr
+
+§ 4 určuje „od kdy, do kdy a jak" se účetnictví vede: počátek a konec povinnosti odvozujte od konkrétního písmene § 1 odst. 2, respektujte pětileté stabilizační pravidlo (odst. 7), veďte jediné účetnictví za jednotku jako celek, v měně účetnictví a v českém jazyce, a účetní metody měňte jen k počátku účetního období.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikován titul povinnosti (písm. a)–l)) a správně určen počátek a konec dle odst. 1–6?
+- [ ] U FO: uplynulo 5 po sobě jdoucích účetních období před ukončením vedení účetnictví (nejde-li o ukončení činnosti)?
+- [ ] Přechod na daňovou evidenci proveden dle prováděcího předpisu a přílohy č. 3 ZDP?
+- [ ] Dodržena jednota účetnictví (odst. 9), souběžná evidence cizí měny (odst. 12) a český jazyk (odst. 13)?
+- [ ] Účetní metody použity ve znění platném k počátku období (odst. 15)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z obchodního rejstříku (zápis, výmaz), výpis ze živnostenského rejstříku, účetní závěrky za jednotlivá období, převodový můstek na daňovou evidenci, daňová přiznání.
+
 ---
 
 ### § 4a — Odpovědnost za vedení účetnictví bezsubjektních útvarů
@@ -663,6 +1028,42 @@ Zákon č. 89/2012 Sb. (OZ) a zákon č. 240/2013 Sb. (ZISIF) zavedl nové formy
 
 > **Vazba na § 5:** § 4a upravuje odpovědnost za vedení účetnictví u bezsubjektních útvarů; § 5 odst. 2 pak obecně stanoví, že odpovědnost za vedení účetnictví nelze přenést ani na třetí osobu, které je účetnictví pověřeno. Oba principy se doplňují.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rodinný svěřenský fond (vyčleněny nemovitosti k zajištění potomků zakladatele) má dva správce pověřené společnou správou: rodinného přítele (fyzickou osobu) a advokátní kancelář. Fond od zřízení v roce 2023 nevede účetnictví a nesestavil žádnou účetní závěrku; správci se hájí tím, že „fond nic nevydělává" a že účetnictví měl podle vnitřní dohody zajišťovat druhý z nich. Finanční úřad zahajuje řízení o přestupku.
+
+**2. Právní otázka.** Kdo odpovídá za nevedení účetnictví svěřenského fondu a komu lze uložit pokutu — fondu, jednomu ze správců, nebo oběma?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4a odst. 1 ZoÚ — za vedení účetnictví svěřenského fondu odpovídá správce; při společné správě více správců společně a nerozdílně.
+- *Související ustanovení téhož zákona:* § 1 odst. 2 písm. i) (svěřenský fond je ÚJ), § 4 odst. 1 (povinnost ode dne vzniku), § 37a (přestupky — výslovně dopadá i na osoby odpovědné dle § 4a), § 5 (nepřenositelnost odpovědnosti).
+- *Související předpisy:* § 1448 a násl. OZ (svěřenský fond, povinnosti správce, evidence svěřenských fondů); § 1411 OZ (péče řádného hospodáře správce cizího majetku); zákon č. 240/2013 Sb. (ZISIF) pro fondy investiční povahy.
+- *Judikatura:* publikovaná judikatura k § 4a dosud chybí; oporou jsou obecné závěry o solidární odpovědnosti — vnitřní dohoda odpovědných osob o dělbě úkolů nemá účinky vůči třetím osobám ani orgánům veřejné moci a má jen regresní význam.
+
+**4. Subsumpce.** Svěřenský fond je účetní jednotkou od svého vzniku (zápisu do evidence svěřenských fondů) a povinnost vést účetnictví běží dle § 4 odst. 1. Fond nemá právní osobnost — adresáty odpovědnosti jsou dle § 4a odst. 1 oba správci se společnou správou, a to solidárně. „Neziskovost" či nečinnost fondu je bez významu (zákon de minimis výjimku nezná); vnitřní ujednání správců je vůči finančnímu úřadu neúčinné.
+
+**5. Řešení.** Pokutu za přestupek (nevedení účetnictví, nesestavení závěrky) lze uložit kterémukoli ze správců — každý odpovídá za celé splnění povinností; zaplativší správce má regres podle vnitřního poměru. Prakticky: neprodleně rekonstruovat účetnictví od vzniku fondu, sestavit chybějící závěrky, splnit ukládací povinnosti do sbírky listin evidence svěřenských fondů a smluvně zajistit běžné vedení účetnictví (pověření třetí osoby dle § 5 však odpovědnosti nezbavuje).
+
+**6. Varianty.** (i) Kdyby byl svěřenský fond investičním fondem dle ZISIF, odpovídali by solidárně správce a obhospodařovatel (odst. 1 věta druhá) — okruh odpovědných by se rozšířil o licencovanou osobu. (ii) U podfondu SICAV či jiného investičního fondu bez právní osobnosti by odpovědnost nesli administrátor a obhospodařovatel (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *„Odpovídá jen ten správce, který měl účetnictví na starosti podle dohody správců."* Neobstojí — solidarita dle § 4a odst. 1 je kogentní; vnitřní dělba má pouze regresní význam, jinak by bylo možné odpovědnost vyprázdnit.
+- *„Pokuta měla být uložena fondu jako účetní jednotce."* Diskutabilní místo úpravy: účetní jednotkou je fond, avšak § 4a (ve spojení s § 37a) adresuje plnění povinností i sankční odpovědnost osobám odpovědným za vedení účetnictví. V řízení je třeba pečlivě vymezit obviněného — vady označení adresáta jsou častým důvodem procesního neúspěchu správního orgánu.
+- Riziko: přehlédnutí, že i „spící" fond má účetní povinnosti od vzniku; u zahraničních obdob trustů je nutno zkoumat § 1 odst. 2 písm. b) a kolizní otázky.
+
+#### H. Praktický závěr
+
+U bezsubjektních útvarů (svěřenské, penzijní a investiční fondy) zákon adresuje účetní povinnosti konkrétním osobám — správci, obhospodařovateli, administrátorovi — vždy solidárně, je-li jich více. Kdo takovou roli přijímá, přijímá i plnou účetní odpovědnost včetně sankční.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určen typ útvaru (svěřenský fond / investiční fond / jiná ÚJ bez právní osobnosti) a tomu odpovídající okruh odpovědných osob (odst. 1–3)?
+- [ ] Vede se účetnictví od vzniku útvaru a sestavují se závěrky?
+- [ ] Smluvně zajištěn výkon účetnictví a vnitřní regresní mechanismus mezi odpovědnými osobami?
+- [ ] Plněny ukládací a zveřejňovací povinnosti dle zvláštních předpisů?
+
+**Typicky rozhodné důkazy / podklady:** statut svěřenského fondu, výpis z evidence svěřenských fondů, smlouvy o výkonu správy/obhospodařování/administrace, účetní závěrky fondu, korespondence správců o dělbě úkolů.
+
 ---
 
 ### § 5 — Pověření vedením účetnictví a odpovědnost
@@ -688,6 +1089,43 @@ Pověřit lze **jakoukoliv** fyzickou nebo právnickou osobu — zákon nevyžad
 3. **Odpovědnost statutárního orgánu:** Za vedení účetnictví odpovídají v konečném důsledku členové statutárního orgánu obchodní korporace (§ 51 a násl. ZOK — povinnost jednat s péčí řádného hospodáře), a to bez možnosti se této odpovědnosti smluvně zprostit.
 
 > **Srovnání s § 4a:** § 4a řeší odpovědnost u bezsubjektních útvarů (kdo nese odpovědnost, protože ÚJ nemá svůj vlastní orgán); § 5 řeší odpovědnost u standardních ÚJ, které svěřují vedení třetí osobě. Společným jmenovatelem je princip **nepřenositelnosti odpovědnosti** na třetí osobu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost GASTRO s.r.o. svěřila kompletní vedení účetnictví externí účetní kanceláři (smlouva příkazního typu, měsíční paušál). Kancelář dlouhodobě neúčtovala dohadné položky, ztratila část předaných dokladů a závěrku sestavila s vadami; finanční úřad společnosti doměřil daň s penále a uložil jí pokutu za neprůkazné účetnictví dle § 37a ZoÚ. Jednatel odmítá odpovědnost („od toho jsme měli účetní firmu") a řeší, kdo škodu ponese.
+
+**2. Právní otázka.** Zbavuje pověření externí osoby vedením účetnictví účetní jednotku (a jejího jednatele) veřejnoprávní odpovědnosti za vady účetnictví a kdo v konečném důsledku nese vzniklou újmu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 ZoÚ (možnost pověřit třetí osobu) a odst. 2 (pověřením se účetní jednotka odpovědnosti nezbavuje).
+- *Související ustanovení téhož zákona:* § 37a (přestupky ÚJ), § 8 (kvalitativní požadavky), § 33a (průkaznost záznamů), § 4a (paralelní princip u bezsubjektních útvarů).
+- *Související předpisy:* § 159 odst. 1 OZ a § 51 a násl. ZOK (péče řádného hospodáře člena voleného orgánu); § 2913 OZ (smluvní náhrada škody); § 2950 OZ (škoda způsobená odbornou radou); § 257 odst. 2 zákoníku práce (limit regresu u zaměstnance).
+- *Judikatura:* Nejvyšší soud ustáleně dovozuje, že člen statutárního orgánu se zajištěním odborné činnosti třetí osobou nezbavuje péče řádného hospodáře — odpovídá za pečlivý výběr, vytvoření podmínek a kontrolu (delegace s povinností dohledu). NSS obdobně: za plnění účetních a daňových povinností odpovídá daňový subjekt, nikoli jeho smluvní účetní.
+
+**4. Subsumpce.** Pověření dle odst. 1 bylo platné; vady (neúplnost, neprůkaznost) jsou objektivně vadami účetnictví společnosti. Podle odst. 2 odpovědnost za vedení účetnictví zůstala na společnosti — pokuta i doměrek jí byly uloženy po právu. Jednatel se vyviní, jen prokáže-li pečlivý výběr a průběžnou kontrolu kanceláře; paušální spoléhání bez jakéhokoli dohledu nepostačuje. Nárok na náhradu škody vůči kanceláři (§ 2913 OZ) je dán v rozsahu příčinné souvislosti.
+
+**5. Řešení.** Společnost pokutu a doměrek uhradí a regresně vymáhá po účetní kanceláři penále, pokutu a náklady rekonstrukce účetnictví; samotná doměřená daň zpravidla škodou není (byla by dlužna tak jako tak). Prověřit pojištění profesní odpovědnosti kanceláře. Do budoucna: smluvně vymezit rozsah služeb, součinnost, odpovědnost a pojištění; nastavit vnitřní kontrolu (měsíční reporty, přístup k datům, namátkové kontroly, dohled nad závěrkou).
+
+**6. Varianty.** (i) Kdyby vady způsobilo zatajení dokladů samotným jednatelem (kancelář účtovala řádně z předaného), kauzální odpovědnost kanceláře odpadá a plná tíže zůstává na společnosti a jednateli. (ii) Kdyby účetnictví vedl zaměstnanec, regres by byl limitován 4,5násobkem průměrného výdělku (§ 257 odst. 2 ZP) — outsourcing tak paradoxně umožňuje širší regres než interní řešení.
+
+#### G. Protiargumenty a rizika
+
+- *„Odpovědnost přešla smlouvou na účetní kancelář."* Veřejnoprávní odpovědnost je dle odst. 2 nepřenosná (kogentní pravidlo); smluvní ujednání působí jen inter partes (regres) a vůči finančnímu úřadu je bez účinků.
+- *„Jednatel jednal s péčí řádného hospodáře už tím, že najal odborníka."* Neúplné — judikatura vyžaduje výběr, zadání a kontrolu; mnohaletá absence dohledu zakládá osobní odpovědnost jednatele za škodu způsobenou společnosti (§ 159 OZ, § 51 a násl. ZOK).
+- Slabé místo praxe: výkon účetní profese není svěřen stavovské komoře s povinným pojištěním; bonitu, kvalifikaci a pojištění poskytovatele je nutné prověřit a ošetřit smluvně — vymahatelnost regresu bývá limitována insolvencí malých kanceláří.
+
+#### H. Praktický závěr
+
+Outsourcing účetnictví je legální a běžný, nikdy však nepřenáší odpovědnost: pokuty a doměrky stíhají účetní jednotku a v rovině péče řádného hospodáře její statutární orgán. Ochranou je kvalitní smlouva, pojištění poskytovatele a doložitelná průběžná kontrola.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Písemná smlouva s vymezením rozsahu služeb, lhůt, součinnosti a odpovědnosti?
+- [ ] Ověřeno oprávnění a pojištění profesní odpovědnosti poskytovatele?
+- [ ] Nastaven kontrolní mechanismus účetní jednotky (reporty, přístup k datům, inventarizace, schvalování závěrky)?
+- [ ] Upraveno předávání a archivace dokladů (kdo drží originály účetních záznamů)?
+- [ ] Statutární orgán schopen doložit výběr poskytovatele a dohled (péče řádného hospodáře)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o vedení účetnictví, předávací protokoly dokladů, korespondence a reporty, pojistná smlouva poskytovatele, platební výměry a rozhodnutí o pokutě, posudek o vadách účetnictví.
 
 ---
 
@@ -724,6 +1162,43 @@ Pověřit lze **jakoukoliv** fyzickou nebo právnickou osobu — zákon nevyžad
 **Povinnost předávání do CSÚIS (odst. 5):** Specifická povinnost VÚJ (a dalších osob určených zákonem) předávat účetní záznamy do Centrálního systému účetních informací státu. Technické podmínky předávání jsou ve vyhlášce č. 383/2009 Sb.
 
 **Povinnost součinnosti při schvalování závěrky VÚJ (odst. 6):** U vybraných účetních jednotek, jejichž závěrku schvaluje zřizovatel nebo nadřízená ÚJ (např. u příspěvkových organizací), má VÚJ povinnost aktivně poskytovat součinnost při tomto procesu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební s.r.o. uplatnila v roce 2024 náklady na subdodávky 12 mil. Kč. Při daňové kontrole předloží pouze přijaté faktury a výpisy o platbách; smlouvy, stavební deníky, předávací protokoly ani rozpisy prací nemá. Zásoby a nedokončená výroba nebyly k 31. 12. 2024 inventarizovány. Správce daně zpochybní faktické uskutečnění subdodávek; hrozí doměrek daně a pokuta.
+
+**2. Právní otázka.** Splnila účetní jednotka povinnosti dle § 6 odst. 1–3 (dokladovost, zápisy na základě průkazných záznamů, inventarizace) a jaké důsledky má jejich nesplnění v daňovém řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 (účetní případy se zachycují účetními doklady), odst. 2 (zápisy jen na základě průkazných záznamů), odst. 3 (inventarizace dle § 29 a 30), odst. 4 (účetní závěrka).
+- *Související ustanovení téhož zákona:* § 11 (náležitosti účetního dokladu), § 8 odst. 4 (průkaznost účetnictví), § 29–30 (inventarizace), § 33a (průkaznost záznamu), § 37a (přestupky).
+- *Související předpisy:* § 92 odst. 3 a 4 a § 98 daňového řádu (důkazní břemeno, pomůcky); § 24 odst. 1 ZDP (prokázání daňových nákladů).
+- *Judikatura:* ustálená judikatura NSS — formálně bezvadný doklad sám o sobě neprokazuje, že se plnění uskutečnilo tak, jak deklaruje; daňový subjekt musí prokázat faktické uskutečnění. Účetnictví bez provedené inventarizace není průkazné (srov. § 8 odst. 4).
+
+**4. Subsumpce.** Povinnost odst. 1 je formálně splněna (faktury existují), avšak průkaznost zápisů (odst. 2 ve spojení s § 33a) předpokládá, že doklad odpovídá skutečnosti — to správce daně důvodně zpochybnil (chybí jakákoli stopa reálného plnění). Povinnost inventarizace (odst. 3) nebyla splněna vůbec — účetnictví proto není průkazné (§ 8 odst. 4) a závěrka z něj sestavená (odst. 4) je vadná.
+
+**5. Řešení.** Společnost nese důkazní břemeno: faktické provedení subdodávek musí doložit jinými důkazy (svědci, stavební deník, fotodokumentace, korespondence, evidence vstupů na stavbu). Nepodaří-li se to, budou náklady vyloučeny, případně daň stanovena podle pomůcek; vedle toho hrozí pokuta dle § 37a (neprůkazné účetnictví, neprovedení inventarizace). Preventivně: dokladový standard (smlouva + předávací protokol + rozpis prací) a každoroční doložená inventarizace.
+
+**6. Varianty.** (i) Existují-li předávací protokoly a stavební deník, je faktické uskutečnění zpravidla prokazatelné — vada se redukuje na chybějící inventarizaci (pokuta, nikoli ztráta nákladů). (ii) U vybrané účetní jednotky (příspěvková organizace) by přistoupila povinnost předávat záznamy do CSÚIS (odst. 5) a poskytovat součinnost při schvalování závěrky zřizovatelem (odst. 6) — jejich porušení je samostatným deliktem.
+
+#### G. Protiargumenty a rizika
+
+- *„Faktura a její zaplacení postačují k prokázání nákladu."* Dlouhodobě vyvráceno judikaturou NSS — platba prokazuje tok peněz, nikoli uskutečnění plnění; bez podpůrných důkazů jde o neunesené důkazní břemeno.
+- *„Inventarizace je formalita bez hmotněprávních důsledků."* Naopak: bez inventarizace není účetnictví průkazné jako celek (§ 8 odst. 4), což otevírá cestu k pomůckám a zvyšuje sankční riziko.
+- Riziko na straně státu: přepjatý formalismus (požadavek důkazů, které povaha a doba plnění neumožňují) soudy korigují — obrana subjektu však uspěje jen s uceleným řetězcem alespoň nepřímých důkazů.
+
+#### H. Praktický závěr
+
+§ 6 je procesní páteří účetnictví: doklad → zápis → inventarizace → závěrka. Každý článek musí být doložitelný; slabina v jednom (typicky inventarizace) diskvalifikuje celek a přenáší se do daňového řízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Každý účetní případ kryt účetním dokladem s náležitostmi § 11?
+- [ ] Zápisy v knihách provedeny jen na základě průkazných záznamů?
+- [ ] Provedena inventarizace veškerého majetku a závazků (vč. dokladové) s archivovanými soupisy?
+- [ ] Sestavena řádná (případně mimořádná či mezitímní) závěrka; posouzena povinnost konsolidace?
+- [ ] U vybraných účetních jednotek: plněno předávání do CSÚIS a součinnost při schvalování závěrky?
+
+**Typicky rozhodné důkazy / podklady:** účetní doklady a knihy, inventurní soupisy s podpisy, smlouvy a předávací protokoly, stavební či provozní deníky, bankovní výpisy, fotodokumentace plnění.
 
 ---
 
@@ -786,6 +1261,43 @@ Zákon ukládá zachycovat aktiva, pasiva, náklady a výnosy **samostatně bez 
 Brutto princip zajišťuje, že závěrka nevykazuje jen čistou pozici, ale celkový rozsah majetku a závazků. To je klíčové pro věřitele i pro posouzení likvidity.
 
 > **Vazba na prováděcí předpisy:** Konkrétní obsah přílohy, povinné zveřejnění účetních metod a výjimky z brutto principu jsou upraveny v § 39 a násl. vyhlášky č. 500/2002 Sb. (pro podnikatele). Viz [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní a.s. eviduje pohledávku 40 mil. Kč za odběratelem, na jehož majetek byl v říjnu 2025 prohlášen konkurs; dle insolvenčního správce lze očekávat uspokojení do 5 %. V závěrce k 31. 12. 2025 představenstvo opravnou položku nevytvořilo („je daňově neúčinná, tedy zbytečná"), pohledávku vykázalo v plné hodnotě a vlastní kapitál tak zůstal kladný. Na základě této závěrky banka prodloužila úvěrový rámec. V roce 2026 společnost skončí v úpadku; banka a insolvenční správce zkoumají závěrku za rok 2025.
+
+**2. Právní otázka.** Porušila společnost § 7 odst. 1 a 2 ZoÚ tím, že navzdory známé faktické nedobytnosti pohledávky nevytvořila účetní opravnou položku, a jaké důsledky z toho plynou pro statutární orgán?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1 (věrný a poctivý obraz jako generální klauzule) a odst. 2 (povinnost zvolit metodu nezastírající skutečný stav; override clause).
+- *Související ustanovení téhož zákona:* § 25 odst. 3 (zásada opatrnosti — zohlednění rizik a ztrát známých k rozvahovému dni), § 26 odst. 3 (opravné položky), § 19 odst. 5 a 6 (události mezi rozvahovým dnem a sestavením závěrky), § 7 odst. 3 (going concern), § 8 odst. 2 (správnost).
+- *Související předpisy:* čl. 4 odst. 3 a 4 směrnice 2013/34/EU; § 55 vyhlášky č. 500/2002 Sb. (tvorba opravných položek dle skutečného rizika); zákon č. 593/1992 Sb. (zákonné OP — daňový režim, nikoli strop účetní povinnosti); § 254 trestního zákoníku (zkreslování údajů o stavu hospodaření a jmění); § 159 OZ, § 51 a násl. ZOK.
+- *Judikatura:* Nejvyšší soud v trestní agendě k § 254 TZ setrvale dovozuje, že vědomé vykazování nadhodnocených aktiv způsobilé ohrozit majetková práva jiných (věřitelů, úvěrující banky) naplňuje znaky zkreslování údajů o stavu hospodaření; civilní judikatura dovozuje odpovědnost členů orgánů za škodu z nevěrné závěrky.
+
+**4. Subsumpce.** Skutečný stav: pohledávka s očekávanou dobytností cca 5 %. Věrné zobrazení vyžaduje korekci ocenění opravnou položkou cca 95 % (§ 25 odst. 3, § 26 odst. 3); daňová neúčinnost je irelevantní — účetní opravná položka se tvoří podle skutečného rizika. Vykázáním plné hodnoty závěrka zastírá skutečný stav, čímž je porušen odst. 1 i 2. Override clause nedopadá (nejde o konflikt prováděcí metody se zásadou, ale o nepoužití metody). Současně bylo nutno posoudit going concern (odst. 3) — ztráta 95 % pohledávky mohla ohrozit pokračování činnosti — a vše popsat v příloze.
+
+**5. Řešení.** Závěrka za rok 2025 je vadná. Hrozí: pokuta dle § 37a ZoÚ (závěrka nepodávající věrný a poctivý obraz), odpovědnost členů představenstva za škodu vůči společnosti i bance spoléhající na závěrku a trestní odpovědnost dle § 254 TZ (u úvěru i § 211 TZ — úvěrový podvod). Správný postup: vytvořit opravnou položku k 31. 12. 2025, popsat událost, metody a posouzení going concern v příloze, informovat banku; není-li předpoklad trvání udržitelný, přejít na ocenění tomu odpovídající.
+
+**6. Varianty.** (i) Kdyby byl konkurs odběratele prohlášen až v lednu 2026 (po rozvahovém dni, před sestavením závěrky), muselo by se k události přihlédnout podle její povahy — existoval-li stav již k rozvahovému dni, korekcí ocenění, jinak popisem v příloze; mlčení by bylo opět vadou. (ii) Kdyby společnost vytvořila opravnou položku jen ve výši daňově účinné (např. 10 %), porušení trvá — výše účetní OP se řídí skutečným rizikem, nikoli zákonem o rezervách.
+
+#### G. Protiargumenty a rizika
+
+- *„Postupovali jsme přesně podle vyhlášky a ČÚS, víc zákon nežádá."* Neobstojí — § 7 odst. 1 je generální klauzule nadřazená metodice; formální soulad s prováděcím předpisem nekryje zastření skutečného stavu (odst. 2 věta třetí). Override clause naopak ukládá se od metodiky odchýlit, vede-li k nevěrnému obrazu.
+- *„Tvorba opravné položky je právem, nikoli povinností; daňová neúčinnost ji vylučuje."* Záměna účetní a daňové roviny: zásada opatrnosti a § 26 odst. 3 činí z korekce ocenění povinnost; daňový režim je zcela samostatný.
+- Riziko nadužití override clause: odchylka od prováděcího předpisu je výjimečná a musí být v příloze zdůvodněna a kvantifikována — jinak sama zakládá vadu. Slabé místo: výše „skutečného rizika" je odhad; obranou je dokumentace podkladů odhadu (zprávy insolvenčního správce, stárnutí pohledávek, stanoviska poradců).
+
+#### H. Praktický závěr
+
+Věrný a poctivý obraz je nejvyšší korektiv účetnictví: každou volbu metody i každé významné riziko poměřujte tím, zda závěrka umožní uživateli správné ekonomické rozhodnutí. Opravné položky a rezervy tvořte podle skutečného rizika, going concern výslovně posuzujte a změny metod i odchylky zdůvodňujte v příloze.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zohledněna všechna rizika a ztráty známé k rozvahovému dni (opravné položky, rezervy, odpisy)?
+- [ ] Posouzen předpoklad nepřetržitého trvání; případná změna metod popsána v příloze (odst. 3)?
+- [ ] Volby v rámci metod nezastírají skutečný stav; případná odchylka od vyhlášky zdůvodněna a vyčíslena (odst. 2)?
+- [ ] Zachována meziroční srovnatelnost, změny řádně zdůvodněny (odst. 4)?
+- [ ] Dodržen zákaz vzájemného zúčtování (odst. 6) a úplnost informací o metodách v příloze (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** podklady k ocenění rizikových položek (insolvenční rejstřík, zprávy správce, analýza stáří pohledávek), příloha účetní závěrky, zápisy orgánů o sestavení a schválení závěrky, auditorská dokumentace, úvěrová dokumentace banky.
 
 ---
 
@@ -856,3 +1368,40 @@ Srozumitelnost je definována funkcionálně: účetnictví musí **umožnit jed
 Trvalost se posuzuje z hlediska schopnosti **úschovy a zpracování** po celou zákonnou dobu. Zákon č. 563/1991 Sb. § 31 stanoví lhůty pro úschovu (zpravidla 5–10 let). Trvalost je ohrožena zejména při používání zastaralých datových formátů nebo zničení datových nosičů. Zákon nevylučuje výhradně elektronické záznamy, ale elektronické záznamy musí splňovat podmínky § 33 ZoÚ (autenticita, integrita, čitelnost po celou dobu úschovy).
 
 > **Vazba na správní delikty:** Nesplnění kteréhokoli z atributů § 8 odst. 1 zakládá správní delikt dle § 37 ZoÚ. Sankce jsou diferencovány: za nejzávažnější porušení (průkaznost, správnost) může Finanční správa uložit pokutu až do výše 3 % hodnoty aktiv ÚJ. Viz [09-cast10-spolecna-prechodna-zaverecna.md](09-cast10-spolecna-prechodna-zaverecna.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** E-shopová s.r.o. vede účetnictví v cloudové aplikaci. Při daňové kontrole za roky 2023–2024 vyjde najevo: část přijatých faktur existuje jen v nečitelných skenech, u zboží nebyla nikdy provedena fyzická inventura skladu, účetní software byl v roce 2024 vyměněn a stará data nejsou exportovatelná, a část dokladů od asijských dodavatelů je pouze v čínštině bez zajištění srozumitelnosti. Správce daně označí účetnictví za neprůkazné a přistoupí ke stanovení daně podle pomůcek; finanční úřad současně zahájí řízení o pokutě.
+
+**2. Právní otázka.** Je účetnictví společnosti „průkazné, srozumitelné a vedené způsobem zaručujícím trvalost záznamů" ve smyslu § 8 odst. 1 a 4–6, a byl správce daně oprávněn přejít na pomůcky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 (šest kumulativních atributů), odst. 4 (průkaznost = průkazné záznamy + inventarizace), odst. 5 (srozumitelnost), odst. 6 (trvalost záznamů).
+- *Související ustanovení téhož zákona:* § 33a (průkaznost záznamu), § 29–30 (inventarizace), § 31–32 (úschova záznamů), § 33 (formy záznamů, konverze), § 4 odst. 13 (cizojazyčné doklady jen při srozumitelnosti), § 37 a § 37a (pokuty do 3 %, resp. 6 % hodnoty aktiv).
+- *Související předpisy:* § 92 a § 98 daňového řádu (důkazní břemeno, stanovení daně podle pomůcek); vyhláška č. 500/2002 Sb.
+- *Judikatura:* NSS konstantně judikuje, že na pomůcky lze přejít jen při zpochybnění tak podstatné části účetnictví, že daň nelze stanovit dokazováním; dílčí vady jednotlivých dokladů nestačí. Zároveň platí, že účetnictví bez provedené inventarizace není průkazné jako celek.
+
+**4. Subsumpce.** Neprovedení fyzické inventury zásob je přímým porušením § 8 odst. 4 (chybí druhá složka průkaznosti) — u obchodníka se zbožím jde o podstatnou část účetnictví. Nečitelné skeny porušují § 33a a požadavek trvalosti (odst. 6 — záznamy musí zůstat čitelné po celou úschovní dobu); nemožnost exportu starých dat rovněž. Čínské doklady bez zajištění srozumitelnosti porušují § 4 odst. 13 ve spojení s odst. 5. Kumulace vad zasahuje podstatnou část účetnictví — podmínky pomůcek jsou zpravidla naplněny.
+
+**5. Řešení.** Obrana společnosti je obtížná: musí buď obnovit průkaznost (čitelné originály, překlady, rekonstrukce dat; dodatečná inventura má jen omezenou zpětnou vypovídací hodnotu), nebo prokázat, že vady nezasahují podstatnou část účetnictví a daň lze stanovit dokazováním. Vedle doměrku hrozí pokuta dle § 37a až do 3 % hodnoty aktiv celkem. Prevence: archivační řád (formáty, konverze a migrace dat při výměně softwaru s ověřením integrity), průkazné skenování, každoroční inventury se soupisy, překladové sumáře cizojazyčných dokladů.
+
+**6. Varianty.** (i) Kdyby společnost doložila řádné inventury a čitelné doklady a vada spočívala jen v několika cizojazyčných fakturách, šlo by o dílčí nedostatek — pomůcky by neobstály a pokuta by se pohybovala při dolní hranici. (ii) Kdyby data ze starého softwaru byla zničena před uplynutím úschovních lhůt (§ 31), šlo by o samostatné porušení povinnosti úschovy — trvalost (odst. 6) je nutno zajistit technologicky neutrálně migrací či konverzí dle § 33.
+
+#### G. Protiargumenty a rizika
+
+- *„Účetnictví je formálně bezvadné (zápisy navazují, bilance sedí), tedy je průkazné."* Formální konzistence není průkaznost — § 8 odst. 4 vyžaduje průkaznost každého záznamu (§ 33a) a provedenou inventarizaci; matematická bezrozpornost systému nevypovídá nic o vztahu k realitě.
+- *„Pomůcky jsou nepřípustné, dokud lze část dokladů použít."* Platí jen, lze-li daň jako celek stanovit dokazováním; judikatura chrání subjekt před ukvapeným přechodem na pomůcky, nikoli při rozpadu podstatné části evidence — hranice je skutková, což je rizikem obou stran.
+- *„Cizojazyčný doklad je vadou sám o sobě."* Nikoli — zákon žádá srozumitelnost (§ 4 odst. 13, § 8 odst. 5), tj. možnost jednoznačně určit obsah; běžně přeložitelné doklady obstojí a přepjatý jazykový formalismus správce daně lze napadnout.
+
+#### H. Praktický závěr
+
+Šest atributů § 8 tvoří kumulativní standard kvality účetnictví: správnost, úplnost, průkaznost, srozumitelnost, přehlednost a trvalost. Praktickou prioritou je inventarizace a dokladová průkaznost (nejčastější zdroj doměrků) a technologická kontinuita dat (výměny softwaru, formáty, úschovní lhůty).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vedeno účetnictví v souladu s předpisy a bez obcházení jejich účelu (odst. 2)?
+- [ ] Zaúčtovány všechny případy období; sestavena a zveřejněna závěrka za období předcházející (odst. 3)?
+- [ ] Každý záznam průkazný (§ 33a) a inventarizace provedena a doložena (odst. 4)?
+- [ ] Lze jednoznačně určit obsah případů, záznamů a vazby souhrnných a dílčích záznamů (odst. 5)? Jsou cizojazyčné doklady srozumitelné?
+- [ ] Zajištěna čitelnost a zpracovatelnost záznamů po celou úschovní dobu, včetně migrace při změně softwaru (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** inventurní soupisy a inventarizační zápisy, vzorek účetních dokladů s ověřením čitelnosti, archivační a skartační řád, dokumentace migrace dat, překlady cizojazyčných dokladů, protokol o daňové kontrole.

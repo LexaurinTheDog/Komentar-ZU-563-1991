@@ -50,6 +50,44 @@ Zpráva o udržitelnosti **musí být povinně ověřena auditorem**; obsah ově
 
 Dobrovolně sestavit dokument označený jako „zpráva o udržitelnosti" je přípustné i bez zákonné povinnosti, ale pouze za podmínek odst. 4 — dokument musí být sestaven buď **dle § 32h** (tj. podle ESRS standardů), nebo dle jiných **mezinárodně uznávaných standardů** (GRI, SASB, TCFD aj.). Takový dokument je pak ověřitelný auditorem dle § 20 ZoÚ. Zákon tak brání dezinformačnímu „greenwashingu" — libovolný dokument nelze titulovat jako zprávu o udržitelnosti bez naplnění standardizovaného obsahu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ENERGOTRADE, a.s., je emitentem dluhopisů přijatých k obchodování na regulovaném trhu (Burza cenných papírů Praha), tedy subjektem veřejného zájmu dle § 1a odst. 2 ZoÚ. Bilanční suma činí 8 mld. Kč, čistý obrat 15 mld. Kč (velká ÚJ dle § 1b odst. 4). Průměrný počet kmenových zaměstnanců za účetní období činil 980; vedle toho společnost dlouhodobě využívá cca 150 agenturních pracovníků. Představenstvo řeší, zda za dané účetní období vznikla povinnost vyhotovit zprávu o udržitelnosti; odborová organizace se současně domáhá projednání informací o udržitelnosti. Důkazy: rozhodnutí o přijetí dluhopisů k obchodování, účetní závěrka, mzdová a personální evidence pro výpočet průměrného počtu zaměstnanců, smlouvy s agenturami práce.
+
+**2. Právní otázka.** Překročila účetní jednotka k rozvahovému dni kritérium průměrného počtu 1 000 zaměstnanců za účetní období ve smyslu § 32f odst. 1 písm. c) ZoÚ, započítávají-li se agenturní pracovníci, a vznikla jí tedy povinnost vyhotovit zprávu o udržitelnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32f ZoÚ — povinnost zprávy o udržitelnosti při kumulativním splnění tří podmínek (právní forma + subjekt veřejného zájmu, velká ÚJ, ≥ 1 000 zaměstnanců); odst. 2 konzultace se zástupci zaměstnanců; odst. 3 povinné ověření auditorem; odst. 4 limity dobrovolné zprávy.
+- *Související ustanovení téhož zákona:* § 1a odst. 2 (subjekt veřejného zájmu), § 1b odst. 4 (velká ÚJ), § 32g (výjimky), § 32h (obsah a forma), § 20 a § 21 (audit, výroční zpráva).
+- *Související předpisy:* čl. 19a směrnice 2013/34/EU ve znění CSRD (2022/2464/EU); zákon č. 262/2006 Sb., zákoník práce (informování a projednání); zákon č. 93/2009 Sb., o auditorech (předmět ověření).
+- *Judikatura:* k § 32f dosud publikovaná tuzemská judikatura chybí; uplatní se povinnost eurokonformního výkladu transpozičních ustanovení ve světle znění a účelu směrnice (ustálená doktrína SDEU o nepřímém účinku) a dosavadní výkladová praxe k průměrnému přepočtenému počtu zaměstnanců pro kategorizaci ÚJ dle § 1b ZoÚ.
+
+**4. Subsumpce.** Podmínka písm. a) je splněna — emitent investičních cenných papírů na evropském regulovaném trhu je subjektem veřejného zájmu. Podmínka písm. b) je splněna — překročeny dvě ze tří hranic § 1b odst. 4. Sporná je podmínka písm. c): kmenových zaměstnanců je 980 (< 1 000); agenturní pracovníci jsou v pracovním poměru k agentuře práce, nikoli k uživateli, do průměrného počtu zaměstnanců ÚJ se proto zásadně nezapočítávají. Kumulativnost podmínek znamená, že nenaplnění jediné z nich povinnost vylučuje.
+
+**5. Řešení.** Povinnost dle § 32f odst. 1 nevznikla. Společnost může dobrovolně vyhotovit udržitelnostní dokument, avšak označit jej „zprávou o udržitelnosti" smí dle odst. 4 jen tehdy, je-li sestaven dle § 32h (ESRS) nebo dle mezinárodně uznávaných standardů; pak podléhá ověření auditorem dle § 20. Prakticky: písemně zdokumentovat výpočet průměrného počtu zaměstnanců, nastavit monitoring kritérií pro další období a s předstihem budovat datovou infrastrukturu pro případný vznik povinnosti. Riziko spočívá v odlišném posouzení započítávaných osob (např. zaměstnanci na dohody) — hraniční hodnoty je třeba doložit průkazně.
+
+**6. Varianty.** (i) Při průměrném počtu 1 050 kmenových zaměstnanců povinnost vzniká: společnost musí informovat zástupce zaměstnanců, projednat s nimi informace o udržitelnosti, zajistit předání jejich stanoviska orgánům ÚJ (odst. 2) a ověření zprávy auditorem (odst. 3). (ii) Byla-li by společnost nekotovanou 100% dceřinou společností mateřské osoby z EU, jejíž konsolidovaná zpráva o udržitelnosti ji pokrývá, uplatnila by se při splnění oznamovacích náležitostí výjimka dle § 32g odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že kritérium 1 000 zaměstnanců je třeba vykládat ekonomicky a zahrnout i agenturní pracovníky fakticky začleněné do provozu. Neutralizace: zákon váže kritérium na „průměrný počet zaměstnanců" účetní jednotky; agenturní pracovníci jsou zaměstnanci agentury práce, extenzivní výklad by šel contra legem a proti zásadě právní jistoty u sankcionovatelné povinnosti.
+- Námitka, že dobrovolný ESG dokument lze nazvat zprávou o udržitelnosti bez vazby na standardy. Neutralizace: odst. 4 takové označení výslovně podmiňuje sestavením dle § 32h nebo mezinárodně uznávaných standardů; porušení může naplnit i znaky klamavé obchodní praktiky či nekalé soutěže (greenwashing).
+- Slabé místo: chybí ustálená správní i soudní praxe k metodice výpočtu průměrného počtu zaměstnanců právě pro účely § 32f a unijní diskuse o balíčku Omnibus může prahové hodnoty změnit — argumentaci je nutné opřít o znění zákona účinné pro dané účetní období.
+
+#### H. Praktický závěr
+
+Povinnost zprávy o udržitelnosti stíhá jen obchodní společnosti, spořitelní a úvěrní družstva a pojišťovny, které jsou současně subjektem veřejného zájmu, velkou ÚJ a překračují 1 000 zaměstnanců; všechna kritéria je třeba každoročně testovat k rozvahovému dni a výsledek průkazně dokumentovat. Součástí compliance je konzultace se zástupci zaměstnanců a povinné ověření zprávy auditorem.
+
+**Checklist (advokát / statutární orgán / auditor):**
+- [ ] Ověřit právní formu ÚJ a status subjektu veřejného zájmu (§ 1a odst. 2).
+- [ ] Ověřit splnění kritérií velké ÚJ dle § 1b odst. 4 k rozvahovému dni.
+- [ ] Průkazně vypočíst průměrný počet zaměstnanců za účetní období (hranice 1 000).
+- [ ] Prověřit výjimky dle § 32g (per se výjimky, skupinové krytí, vlastní konsolidovaná zpráva).
+- [ ] Informovat zástupce zaměstnanců, projednat informace o udržitelnosti a předat jejich stanovisko orgánům ÚJ (odst. 2).
+- [ ] Zajistit ověření zprávy auditorem (odst. 3) a u dobrovolné zprávy dodržet podmínky odst. 4.
+
+**Typicky rozhodné důkazy / podklady:** účetní závěrka a výpočty kritérií § 1b odst. 4, personální a mzdová evidence, doklad o přijetí cenných papírů k obchodování, zápisy z informování a projednání se zástupci zaměstnanců, smlouva s auditorem o ověření zprávy.
+
 ---
 
 ### § 32g — Výjimky z povinnosti vyhotovovat zprávu o udržitelnosti
@@ -146,6 +184,44 @@ Přísnější podmínky oproti odst. 2, protože zpráva není vydána v rámci
 #### Výjimka konsolidující ÚJ (odst. 4)
 
 Konsolidující ÚJ, která v souladu se zákonem vyhotovila **konsolidovanou zprávu o udržitelnosti** (viz § 32i–32k), nemusí zvlášť vyhotovovat individuální zprávu o udržitelnosti. Informace o samotné konsolidující ÚJ jsou totiž součástí konsolidované zprávy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká úvěrová banka, a.s., je bankou (subjektem veřejného zájmu dle § 1a odst. 2 ZoÚ), velkou ÚJ s průměrně 1 200 zaměstnanci — splňuje tedy všechny podmínky § 32f odst. 1. Je 100% dceřinou společností francouzské bankovní skupiny; konsolidovaná zpráva vedení francouzské matky sestavená podle francouzské transpozice CSRD obsahuje konsolidovanou zprávu o udržitelnosti pokrývající českou banku i její dceřiné společnosti (leasingovou a faktoringovou). Banka není emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu. Compliance oddělení zvažuje uplatnění výjimky. Důkazy: konsolidovaná zpráva vedení matky včetně oddílu udržitelnosti a zprávy o jejím ověření, doklad o vymezení konsolidačního celku, návrh výroční zprávy banky s náležitostmi § 32g odst. 2 písm. c).
+
+**2. Právní otázka.** Splňuje nekotovaná dceřiná banka kumulativní podmínky § 32g odst. 2 ZoÚ pro osvobození od povinnosti vyhotovit zprávu o udržitelnosti, je-li kryta konsolidovanou zprávou o udržitelnosti mateřské osoby z EU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32g ZoÚ — čtyři skupiny výjimek: per se (odst. 1 — SNCI, kaptivní pojišťovny/zajišťovny, investiční fondy), skupinové krytí z EU (odst. 2), skupinové krytí ze třetí země (odst. 3), absorpce vlastní konsolidovanou zprávou (odst. 4).
+- *Související ustanovení téhož zákona:* § 32f odst. 1 (vznik povinnosti), § 21 (výroční zpráva — nosič povinných prohlášení dle odst. 2 písm. c)), § 32j odst. 2 a 3 (paralelní výjimky u konsolidované zprávy), § 32k odst. 6 (seznam osvobozených ÚJ).
+- *Související předpisy:* čl. 19a odst. 9 směrnice 2013/34/EU ve znění CSRD; nařízení (EU) č. 575/2013 (CRR — pojem malé a nepříliš složité instituce); zákon č. 277/2009 Sb., o pojišťovnictví (kaptivní pojišťovny a zajišťovny); zákon č. 240/2013 Sb. (investiční fondy); nařízení (EU) 2020/852 a 2019/815 (podmínky odst. 3).
+- *Judikatura:* dosud chybí; nosný je obecný princip, že výjimky z informačních (transparentnostních) povinností se vykládají restriktivně, a požadavek eurokonformního výkladu skupinové výjimky dle účelu CSRD.
+
+**4. Subsumpce.** Písm. a): banka není emitentem ICP na evropském regulovaném trhu — splněno. Písm. b): konsolidovaná zpráva vedení matky obsahuje informace o bance a o všech jejích konsolidovaných ÚJ a je vyhotovena podle práva členského státu EU (Francie) — splněno, nutno doložit rozsah konsolidace (kritické je pokrytí celé české subskupiny, nikoli jen banky samotné). Písm. c): výroční zpráva banky musí obsahovat název a sídlo matky, odkaz na internetové stránky se skupinovou zprávou a zprávou o jejím ověření a výslovnou informaci o osvobození — formální, v praxi často opomíjené náležitosti.
+
+**5. Řešení.** Při kumulativním splnění všech podmínek banka zprávu o udržitelnosti nevyhotovuje; výjimku je však nutno „aktivovat" každé účetní období znovu a její podmínky průběžně ověřovat. Prakticky: smluvně a procesně zajistit od matky včasné poskytnutí skupinové zprávy a funkčního odkazu, zkontrolovat pokrytí všech konsolidovaných ÚJ banky a vložit trojici náležitostí do výroční zprávy. Nesplnění kterékoli podmínky (např. chybějící prohlášení) znamená trvání povinnosti dle § 32f se sankčními důsledky nezveřejnění.
+
+**6. Varianty.** (i) Banka emituje dluhopisy přijaté k obchodování na pražské burze → jako emitent ICP nesplní písm. a) a výjimka odst. 2 je vyloučena; vlastní zpráva je povinná. (ii) Mateřská skupina sídlí ve Švýcarsku → použije se přísnější odst. 3: skupinová zpráva musí být sestavena dle standardů čl. 29b směrnice 2013/34/EU nebo způsobem rovnocenným, ve formátu XHTML se značkováním, ověřena a spolu se zprávou o ověření zveřejněna v českém veřejném rejstříku ve lhůtě pro zveřejnění výroční zprávy; navíc musí pokrýt taxonomické informace.
+
+#### G. Protiargumenty a rizika
+
+- Námitka extenzivního výkladu výjimek (snižování administrativní zátěže jako účel CSRD). Neutralizace: podmínky odst. 2 a 3 jsou kumulativní a formálně určité; extenze by popřela transparentnostní účel úpravy, výjimky je nutno vykládat restriktivně.
+- Námitka, že náležitosti výroční zprávy dle písm. c) jsou pouhou formalitou bez vlivu na osvobození. Neutralizace: jde o zákonné podmínky výjimky — bez nich povinnost trvá; hrozí přestupek dle § 37 a násl. ZoÚ a výhrady auditora.
+- Slabé místo: u odst. 3 závisí splnitelnost na existenci prováděcího aktu o rovnocennosti standardů třetí země; do jeho přijetí panuje nejistota, zda zpráva matky ze třetí země podmínku odst. 3 písm. b) bodu 2 naplní — obezřetné je připravit záložní variantu v podobě vlastní zprávy.
+
+#### H. Praktický závěr
+
+Výjimky z § 32f je třeba testovat v pořadí: per se výjimky (odst. 1) → skupinové krytí z EU (odst. 2) → skupinové krytí ze třetí země (odst. 3) → vlastní konsolidovaná zpráva (odst. 4). Osvobození není automatické — vyžaduje každoroční doložení všech kumulativních podmínek a publikaci předepsaných informací ve výroční zprávě.
+
+**Checklist (advokát / compliance / auditor):**
+- [ ] Ověřit, zda ÚJ nespadá pod per se výjimku (SNCI, kaptivní pojišťovna/zajišťovna, investiční fond).
+- [ ] Ověřit nekotovanost ÚJ (odst. 2 a 3 písm. a)).
+- [ ] Doložit, že skupinová zpráva pokrývá ÚJ i všechny její konsolidované ÚJ a splňuje právo státu matky (EU), resp. standardy či rovnocennost (třetí země).
+- [ ] U třetí země ověřit formát XHTML se značkováním, ověření zprávy a její zveřejnění v českém veřejném rejstříku ve lhůtě.
+- [ ] Vložit do výroční zprávy identifikaci matky, odkaz na internetové stránky a prohlášení o osvobození.
+- [ ] Nastavit každoroční přezkum trvání podmínek výjimky.
+
+**Typicky rozhodné důkazy / podklady:** konsolidovaná výroční zpráva / zpráva vedení mateřské osoby se zprávou o ověření, vymezení konsolidačního celku, výroční zpráva ÚJ s náležitostmi písm. c), doklad o zveřejnění ve sbírce listin, u třetích zemí doklad o použitých standardech a jejich rovnocennosti.
 
 ---
 
@@ -289,6 +365,44 @@ Zpráva se sestavuje dle **standardů ESRS** (*European Sustainability Reporting
 
 Zpráva musí být **značkována** v souladu s nařízením Komise o jednotném elektronickém formátu pro podávání zpráv (ESEF — *European Single Electronic Format*, nařízení Komise v přenesené pravomoci (EU) 2019/815 ve znění pozdějších změn). Jedná se o formát XHTML se vloženým značkováním XBRL/iXBRL. Tím je zpráva strojově čitelná a kompatibilní se systémem ESAP (European Single Access Point).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** CHEMPETROL, a.s., povinná ÚJ dle § 32f (subjekt veřejného zájmu, velká ÚJ, 3 000 zaměstnanců), podniká v petrochemii. Při přípravě první zprávy o udržitelnosti provádí analýzu dvojí významnosti. Představenstvo chce s odkazem na § 32h odst. 8 vynechat informace o důvěrně projednávaném projektu konverze rafinerie (citlivém vůči konkurenci) a současně požaduje od drobných smluvních dopravců (rodinná s.r.o. bez reportovací povinnosti) rozsáhlé údaje o emisích pro vykázání hodnotového řetězce dle odst. 6. Důkazy: dokumentovaná analýza dvojí významnosti, písemné odůvodněné rozhodnutí představenstva o vynechání informací, korespondence s dodavateli, mapa hodnotového řetězce, datové podklady ukazatelů.
+
+**2. Právní otázka.** Za jakých podmínek smí účetní jednotka dle § 32h odst. 8 vynechat ze zprávy o udržitelnosti informace o právě projednávané záležitosti a jaký nejvyšší rozsah informací smí dle odst. 6 požadovat od podniků ve svém hodnotovém řetězci, které samy reportovací povinnost nemají?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32h ZoÚ — vymezení zprávy: oddíl výroční zprávy (odst. 1), účel a dvojí významnost (odst. 2), desetibodový obsah (odst. 3), ukazatele a metodologie (odst. 4), časové horizonty (odst. 5), hodnotový řetězec s ochranou malých podniků (odst. 6), křížové odkazy (odst. 7), ochranná klauzule obchodního postavení (odst. 8), taxonomie (odst. 9), ESRS (odst. 10), ESEF značkování (odst. 11).
+- *Související ustanovení téhož zákona:* § 21 a § 21a (výroční zpráva a způsob zveřejnění), § 32f odst. 3 (ověření auditorem), § 19a (významnost — analogické vodítko), § 32k odst. 3 (obdobné použití pro konsolidovanou zprávu).
+- *Související předpisy:* nařízení Komise (EU) 2023/2772 (ESRS), nařízení (EU) 2020/852 (taxonomie), nařízení (EU) 2019/815 (ESEF), čl. 19a odst. 3 směrnice 2013/34/EU; dobrovolné standardy VSME vydané EFRAG 17. 12. 2024.
+- *Judikatura:* k novému institutu dosud chybí; podpůrně principy ochrany obchodního tajemství (§ 504 OZ), zásada restriktivního výkladu výjimek z informačních povinností a výkladová vodítka EFRAG a Komise k ESRS.
+
+**4. Subsumpce.** Vynechání dle odst. 8 vyžaduje kumulativně: výjimečný případ, odůvodněné rozhodnutí příslušných orgánů, hrozbu výrazného poškození obchodního postavení a současně zachování účelu zprávy. Projednávaný konverzní projekt první tři podmínky naplnit může; sporná je čtvrtá — tvoří-li projekt jádro plánu přechodu dle odst. 3 písm. a) bodu 3 (slučitelnost s cílem 1,5 °C a klimatickou neutralitou 2050), jeho úplné zamlčení by účel zprávy zmařilo. U dodavatelů platí limit odst. 6: od podniků bez reportovací povinnosti lze žádat jen informace v rozsahu standardů VSME, ledaže jde o informace v odvětví obvykle sdílené; uvedení tohoto rozsahu se považuje za splnění požadavků na hodnotový řetězec.
+
+**5. Řešení.** Správný postup: vynechat pouze konkrétní citlivé parametry projektu (cenové údaje, stav vyjednávání), nikoli existenci a rámcový směr transformační strategie; rozhodnutí orgánů písemně odůvodnit a archivovat pro auditora. Požadavky na drobné dopravce omezit na rozsah VSME (nad rámec jen dobrovolně smluvně, bez odkazu na zákonnou povinnost). Zprávu sestavit dle ESRS, doplnit taxonomické informace, provázat křížovými odkazy s účetní závěrkou a značkovat dle ESEF. Riziko: nedůvodné vynechání či nadměrné požadavky na dodavatele může auditor vyhodnotit jako nesprávnost; navenek hrozí výtka greenwashingu.
+
+**6. Varianty.** (i) Je-li vynechávaná informace již veřejně známa (např. oznámena trhu v rámci plnění informačních povinností emitenta), ochranná klauzule odst. 8 se neuplatní — chybí způsobilost výrazně poškodit obchodní postavení. (ii) Je-li dodavatelem kotovaná společnost s vlastní reportovací povinností, limit odst. 6 věty druhé nedopadá a lze žádat údaje v rozsahu ESRS.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že odst. 8 představuje obecnou klauzuli důvěrnosti umožňující vynechat vše obchodně citlivé. Neutralizace: zákon vyžaduje výjimečnost, odůvodněné rozhodnutí příslušných orgánů a zachování účelu zprávy; plošné vynechávání je porušením § 32h a předmětem výhrad auditora.
+- Námitka, že limit odst. 6 znemožňuje naplnit požadavky ESRS na data z hodnotového řetězce. Neutralizace: zákon výslovně prohlašuje rozsah VSME za splnění požadavků na informace o hodnotovém řetězci; standardy počítají s odhady, sektorovými průměry a zástupnými daty.
+- Slabé místo: dynamický odkaz na unijní standardy (odst. 10 a 11) znamená proměnlivost obsahu povinnosti bez novelizace ZoÚ; v době zpracování probíhá unijní revize (Omnibus) — vždy je nutno ověřit znění ESRS/ESEF účinné pro dané účetní období.
+
+#### H. Praktický závěr
+
+Zpráva o udržitelnosti je standardizovaný oddíl výroční zprávy: obsah určují odst. 2–9 a standardy ESRS, formu značkování dle ESEF. Klíčem je dokumentovaná analýza dvojí významnosti, disciplína při využívání ochranné klauzule odst. 8 a respektování limitu požadavků vůči malým podnikům v hodnotovém řetězci.
+
+**Checklist (statutární orgán / ESG tým / auditor):**
+- [ ] Provést a zdokumentovat analýzu dvojí významnosti (dopadová i finanční perspektiva, odst. 2).
+- [ ] Pokrýt všech deset obsahových okruhů odst. 3 včetně ukazatelů (odst. 4) a časových horizontů (odst. 5).
+- [ ] Zmapovat hodnotový řetězec; od podniků bez povinnosti žádat nejvýše rozsah VSME (odst. 6).
+- [ ] Provázat zprávu s účetní závěrkou a ostatními částmi výroční zprávy (odst. 7).
+- [ ] Každé vynechání informace podložit odůvodněným rozhodnutím orgánů a testem zachování účelu (odst. 8).
+- [ ] Zahrnout taxonomické informace (odst. 9), sestavit dle ESRS (odst. 10) a značkovat dle ESEF (odst. 11).
+
+**Typicky rozhodné důkazy / podklady:** analýza dvojí významnosti, metodika a zdrojová data ukazatelů, písemná rozhodnutí orgánů dle odst. 8, mapa hodnotového řetězce a komunikace s dodavateli, XHTML soubor se značkováním, zpráva auditora o ověření.
+
 ---
 
 ### § 32i — Povinnost vyhotovovat konsolidovanou zprávu o udržitelnosti
@@ -335,6 +449,44 @@ Analogie s § 32f odst. 3 — konsolidovaná zpráva podléhá **povinnému audi
 #### Dobrovolná konsolidovaná zpráva (odst. 4)
 
 Paralelní úprava k § 32f odst. 4 — dobrovolný dokument může být označen jako konsolidovaná zpráva o udržitelnosti pouze tehdy, byl-li sestaven dle § 32k nebo dle mezinárodně uznávaných standardů. Ochrana před greenwashingem na skupinové úrovni.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** HOLDING ČESKÁ ENERGIE, a.s., je mateřskou společností skupiny dvanácti společností v energetice a sama je emitentem akcií na pražské burze (subjekt veřejného zájmu dle § 1a odst. 2 ZoÚ). Holding má jako správní centrála jen 150 zaměstnanců; skupina jako celek je velkou skupinou účetních jednotek a na konsolidovaném základě vykazuje průměrně 4 500 zaměstnanců. Finanční ředitel řeší, zda holding musí sestavit konsolidovanou zprávu o udržitelnosti, a zda vedle ní musí sestavovat i individuální zprávu. Důkazy: konsolidovaná účetní závěrka, vymezení konsolidačního celku, výpočet konsolidovaných kritérií a konsolidovaného počtu zaměstnanců.
+
+**2. Právní otázka.** Vzniká konsolidující účetní jednotce povinnost vyhotovit konsolidovanou zprávu o udržitelnosti dle § 32i odst. 1 ZoÚ, splňuje-li kritérium 1 000 zaměstnanců pouze na konsolidovaném základě, a zprošťuje ji to individuální povinnosti dle § 32f?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32i ZoÚ — dvě kumulativní podmínky (subjekt veřejného zájmu + konsolidující ÚJ velké skupiny s překročeným kritériem 1 000 zaměstnanců na konsolidovaném základě); obdobná konzultační povinnost (odst. 2), povinné ověření auditorem (odst. 3), limity dobrovolné konsolidované zprávy (odst. 4).
+- *Související ustanovení téhož zákona:* § 32f (individuální povinnost a konzultace dle odst. 2), § 32g odst. 4 (absorpce individuální povinnosti konsolidovanou zprávou), § 32j (výjimky), § 32k (obsah a forma), § 1c (kategorie skupin ÚJ), § 22 a násl. (konsolidovaná účetní závěrka a konsolidační celek).
+- *Související předpisy:* čl. 29a směrnice 2013/34/EU ve znění CSRD; zákon č. 93/2009 Sb., o auditorech; zákon č. 262/2006 Sb., zákoník práce (projednání se zástupci zaměstnanců).
+- *Judikatura:* k § 32i dosud chybí; podpůrně praxe a výklad ke konsolidačním povinnostem dle § 22 ZoÚ (vymezení konsolidačního celku, kritéria skupin).
+
+**4. Subsumpce.** Podmínka písm. a): holding je emitentem akcií na regulovaném trhu, tedy subjektem veřejného zájmu — splněno. Podmínka písm. b): holding je konsolidující ÚJ velké skupiny a skupina na konsolidovaném základě překračuje 1 000 zaměstnanců (4 500) — splněno; počet zaměstnanců samotné mateřské ÚJ (150) je nerozhodný, kritérium se posuzuje výhradně skupinově. Individuální povinnost dle § 32f holdingu nevzniká již pro nesplnění § 32f odst. 1 písm. c); i kdyby vznikla, byla by vyhotovením konsolidované zprávy absorbována (§ 32g odst. 4).
+
+**5. Řešení.** Holding vyhotoví konsolidovanou zprávu o udržitelnosti jako samostatný oddíl konsolidované výroční zprávy (§ 32k odst. 1), informuje zástupce zaměstnanců a projedná s nimi informace o udržitelnosti (odst. 2 ve spojení s § 32f odst. 2) a zajistí ověření auditorem (odst. 3). Prakticky to vyžaduje skupinový sběr ESG dat ze všech dvanácti společností podle jednotné metodiky, harmonogram navázaný na konsolidovanou závěrku a smluvní zajištění auditu. Individuální zprávu holding nesestavuje.
+
+**6. Varianty.** (i) Nebyl-li by holding subjektem veřejného zájmu (nekotovaná rodinná skupina bez bankovní či pojišťovací licence), povinnost dle § 32i nevznikne bez ohledu na velikost skupiny. (ii) Vykazovala-li by skupina konsolidovaně jen 900 zaměstnanců, podmínka písm. b) by nebyla naplněna ani při překročení majetkových a obratových kritérií velké skupiny — povinnost nevzniká, podmínky jsou kumulativní.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že kritérium 1 000 zaměstnanců je třeba zkoumat na úrovni samotné konsolidující ÚJ. Neutralizace: § 32i odst. 1 písm. b) výslovně stanoví posouzení „na konsolidovaném základě"; opačný výklad odporuje doslovnému znění i čl. 29a směrnice.
+- Námitka hrozící duplicity individuální a konsolidované zprávy na úrovni matky. Neutralizace: § 32g odst. 4 konsolidující ÚJ individuální povinnosti výslovně zprošťuje; informace o matce jsou obsaženy v konsolidované zprávě.
+- Slabé místo: zákon výslovně nestanoví metodiku výpočtu konsolidovaného průměrného počtu zaměstnanců (zacházení s poměrně konsolidovanými či přidruženými subjekty) — vhodné je vycházet z okruhu konsolidace dle § 22 a násl. a zvolenou metodiku písemně zdokumentovat pro auditora.
+
+#### H. Praktický závěr
+
+Konsolidovanou zprávu o udržitelnosti sestavuje konsolidující ÚJ, která je subjektem veřejného zájmu v čele velké skupiny s více než 1 000 zaměstnanci na konsolidovaném základě. Test povinnosti se provádí skupinově, nikoli na úrovni matky; sestavení konsolidované zprávy současně ruší individuální povinnost konsolidující ÚJ.
+
+**Checklist (CFO / statutární orgán / auditor):**
+- [ ] Ověřit status subjektu veřejného zájmu konsolidující ÚJ (§ 1a odst. 2).
+- [ ] Ověřit kategorii velké skupiny (§ 1c) a konsolidovaný průměrný počet zaměstnanců (hranice 1 000).
+- [ ] Prověřit výjimky dle § 32j (investiční fond, krytí nadřazenou skupinou z EU či ze třetí země).
+- [ ] Informovat a projednat informace o udržitelnosti se zástupci zaměstnanců a předat jejich stanovisko orgánům (odst. 2).
+- [ ] Zajistit ověření konsolidované zprávy auditorem (odst. 3).
+- [ ] Uplatnit absorpci individuální povinnosti (§ 32g odst. 4) a u dobrovolné zprávy dodržet podmínky odst. 4.
+
+**Typicky rozhodné důkazy / podklady:** konsolidovaná účetní závěrka, vymezení konsolidačního celku, výpočty skupinových kritérií a konsolidovaného počtu zaměstnanců, zápisy z projednání se zástupci zaměstnanců, smlouva s auditorem.
 
 ---
 
@@ -414,6 +566,44 @@ Podmínky jsou strukturálně shodné s § 32g odst. 2, avšak pravidlo nekotova
 
 Šestice podmínek pro skupinovou zprávu (písm. b) + trojice podmínek pro výroční zprávu (písm. c) odst. 3) navazují na § 32g odst. 3. Zvláštní prvek: bod 3 písm. b) i bod 4 písm. c) zajišťují, že **taxonomické informace** o dceřiných ÚJ osvobozených dle § 32g odst. 3 jsou zahrnuty buď ve skupinové zprávě třetí země, nebo přímo ve výroční zprávě subkonsolidující ÚJ — žádná mezera v taxonomickém reportingu nesmí nastat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** CZECH INSURANCE GROUP, a.s., je pojišťovnou (subjektem veřejného zájmu) a konsolidující ÚJ velké skupiny (dceřiné pojišťovny v ČR a na Slovensku) s 2 500 zaměstnanci na konsolidovaném základě — splňuje tedy podmínky § 32i odst. 1. Sama je 100% dceřinou společností nizozemské pojišťovací skupiny; konsolidovaná zpráva vedení nizozemské matky sestavená dle nizozemského práva obsahuje konsolidovanou zprávu o udržitelnosti pokrývající českou subskupinu včetně všech jejích konsolidovaných ÚJ. Česká pojišťovna není emitentem investičních cenných papírů. Důkazy: skupinová zpráva nizozemské matky se zprávou o ověření, doklad o rozsahu konsolidace, návrh konsolidované výroční zprávy pojišťovny s náležitostmi § 32j odst. 2 písm. c).
+
+**2. Právní otázka.** Může se subkonsolidující pojišťovna dle § 32j odst. 2 ZoÚ zprostit povinnosti vyhotovit konsolidovanou zprávu o udržitelnosti, je-li zahrnuta do konsolidované zprávy o udržitelnosti nadřazené mateřské osoby z EU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32j ZoÚ — absolutní výjimka pro investiční fondy (odst. 1), výjimka pro subkonsolidující ÚJ kryté skupinou z EU (odst. 2) a ze třetí země (odst. 3, včetně taxonomických pojistek v bodě 3 písm. b) a bodě 4 písm. c)).
+- *Související ustanovení téhož zákona:* § 32i odst. 1 a 2 (vznik povinnosti, konzultace), § 32g odst. 2 a 3 (paralelní výjimky u individuální zprávy), § 32k odst. 6 (seznam osvobozených ÚJ ve skupinové zprávě), § 21 (výroční zpráva).
+- *Související předpisy:* čl. 29a odst. 8 směrnice 2013/34/EU ve znění CSRD; nařízení (EU) 2020/852 (taxonomie); nařízení (EU) 2019/815 (ESEF — XHTML formát dle odst. 3); zákon č. 240/2013 Sb. (investiční fondy).
+- *Judikatura:* dosud chybí; uplatní se restriktivní výklad výjimek z transparentnostních povinností a eurokonformní výklad dle účelu CSRD.
+
+**4. Subsumpce.** Písm. a): výjimka je vyloučena jen u ÚJ, která je současně velkou ÚJ a emitentem ICP na evropském regulovaném trhu; pojišťovna není emitentem vůbec — splněno (formulace je užší než v § 32g odst. 2 písm. a), kde diskvalifikuje jakékoli emitentství). Písm. b): nizozemská skupinová zpráva pokrývá pojišťovnu i všechny její konsolidované ÚJ a je sestavena dle práva členského státu — splněno, rozsah konsolidace je nutno doložit. Písm. c): konsolidovaná výroční zpráva pojišťovny musí obsahovat identifikaci nizozemské matky, odkaz na internetové stránky se skupinovou zprávou a zprávou o jejím ověření a prohlášení o osvobození.
+
+**5. Řešení.** Při kumulativním splnění podmínek pojišťovna konsolidovanou zprávu nevyhotovuje; obdobnou výjimku pro individuální zprávu jí poskytuje § 32g odst. 2. Podmínky je nutné ověřovat každé účetní období a koordinovat s nizozemskou matkou obsah i včasnost skupinové zprávy. Pozor: výslovná výjimka z konzultační povinnosti dle § 32i odst. 2 svědčí jen ÚJ podle § 32j odst. 1 (investiční fond); u ÚJ osvobozené dle odst. 2 je obezřetné zástupce zaměstnanců informovat a projednat s nimi alespoň údaje předávané do skupinové zprávy matky.
+
+**6. Varianty.** (i) Stane-li se pojišťovna velkou ÚJ-emitentem dluhopisů na regulovaném trhu, výjimka odst. 2 padá (písm. a)) a konsolidovaná zpráva je povinná. (ii) Sídlí-li nadřazená matka ve Spojeném království (třetí země), použije se odst. 3: skupinová zpráva musí odpovídat standardům dle čl. 29b směrnice nebo být rovnocenná, mít formát XHTML se značkováním, být ověřena, zveřejněna spolu se zprávou o ověření v českém veřejném rejstříku ve lhůtě pro zveřejnění výroční zprávy a musí být zajištěny taxonomické informace za osvobozené dcery.
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že písm. a) je třeba číst shodně s § 32g odst. 2 (každé emitentství výjimku vylučuje). Neutralizace: zákonodárce v § 32j záměrně použil užší formulaci „velká účetní jednotka, která je emitentem"; rozdíl odpovídá směrnici a nelze jej výkladem stírat v neprospěch účetní jednotky.
+- Námitka, že faktické pokrytí skupinovou zprávou postačuje i bez formálních náležitostí písm. c). Neutralizace: podmínky jsou kumulativní; bez předepsaných údajů ve výroční zprávě povinnost trvá a hrozí přestupkové důsledky dle § 37 a násl. ZoÚ.
+- Slabé místo: u odst. 3 panuje nejistota ohledně rovnocennosti standardů třetích zemí (chybějící či pozdní prováděcí akty Komise) a riziko mezery v taxonomickém reportingu — bod 3 písm. b) a bod 4 písm. c) vyžadují pečlivé zmapování, kde budou taxonomické údaje za osvobozené dcery vykázány.
+
+#### H. Praktický závěr
+
+Výjimky z konsolidované zprávy kopírují logiku § 32g: absolutně jsou vyňaty investiční fondy, podmíněně subkonsolidující ÚJ kryté zprávou nadřazené skupiny z EU či ze třetí země. Užší vymezení nekotovanosti (velká ÚJ + emitent) oproti individuální rovině rozšiřuje okruh ÚJ způsobilých k výjimce; formální náležitosti výroční zprávy jsou však nepominutelné.
+
+**Checklist (compliance skupiny / advokát / auditor):**
+- [ ] Určit aplikovatelnou výjimku (odst. 1 investiční fond / odst. 2 EU skupina / odst. 3 třetí země).
+- [ ] Ověřit, že ÚJ není současně velkou ÚJ a emitentem ICP (písm. a)).
+- [ ] Doložit pokrytí subkonsolidující ÚJ a všech jejích konsolidovaných ÚJ skupinovou zprávou.
+- [ ] U třetí země ověřit standardy či rovnocennost, formát XHTML, ověření, zveřejnění v rejstříku a taxonomické údaje za osvobozené dcery.
+- [ ] Vložit do (konsolidované) výroční zprávy identifikaci matky, odkaz a prohlášení o osvobození.
+- [ ] Vyhodnotit konzultační povinnost vůči zástupcům zaměstnanců (§ 32i odst. 2) a podmínky každoročně přezkoumávat.
+
+**Typicky rozhodné důkazy / podklady:** konsolidovaná zpráva nadřazené matky se zprávou o ověření, struktura a rozsah konsolidačního celku, (konsolidovaná) výroční zpráva subkonsolidující ÚJ, doklady o zveřejnění, dokumentace taxonomických informací.
+
 ---
 
 ### § 32k — Vymezení konsolidované zprávy o udržitelnosti
@@ -463,6 +653,44 @@ Konsolidovaná zpráva musí obsahovat **explicitní seznam** konsolidovaných �
 #### Vymezení skupiny (odst. 7)
 
 Zákonná definice skupiny pro účely konsolidované zprávy odpovídá standardnímu konsolidačnímu okruhu dle § 22 a násl. ZoÚ (povinná konsolidace). Odkaz na definici skupiny v ZoÚ zamezuje autonomní interpretaci a zajišťuje soulad s pravidly konsolidované účetní závěrky — skupina pro ESG reporting je totožná se skupinou pro finanční konsolidaci.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** AGRO BOHEMIA HOLDING, a.s., konsolidující ÚJ povinná dle § 32i (subjekt veřejného zájmu, velká skupina, 3 200 zaměstnanců konsolidovaně), stojí v čele skupiny deseti společností: zemědělská prvovýroba, potravinářské závody a jedna chemická továrna — dceřiná CHEMAGRA s.r.o., u níž Česká inspekce životního prostředí eviduje kontaminaci podzemních vod a vysoké emise, tedy nepříznivé dopady výrazně vybočující ze skupinového profilu. Dvě dceřiné ÚJ využily osvobození od individuální zprávy dle § 32g odst. 2, neboť jsou kryty touto konsolidovanou zprávou. Důkazy: skupinová analýza dvojí významnosti, environmentální data a správní rozhodnutí týkající se CHEMAGRA, vymezení konsolidačního celku, seznam osvobozených dceřiných ÚJ.
+
+**2. Právní otázka.** Je konsolidující ÚJ povinna v konsolidované zprávě o udržitelnosti samostatně vykázat nepříznivé dopady a rizika dceřiné CHEMAGRA dle § 32k odst. 4 a 5, liší-li se významně od dopadů a rizik skupiny, a uvést seznam osvobozených konsolidovaných ÚJ dle odst. 6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32k ZoÚ — konsolidovaná zpráva jako oddíl konsolidované výroční zprávy (odst. 1), skupinový účel (odst. 2), obdobné použití § 32h odst. 3–11 (odst. 3), rozkrytí významně odlišných dopadů a rizik jednotlivých ÚJ (odst. 4 a 5), seznam osvobozených ÚJ (odst. 6), definice skupiny (odst. 7).
+- *Související ustanovení téhož zákona:* § 32h odst. 3 písm. g) a j) (nepříznivé dopady, rizika), § 19a (významnost — analogické vodítko), § 22 a násl. (konsolidační celek), § 21a (způsob zveřejnění), § 32g odst. 2 a 3 a § 32j odst. 2 a 3 (výjimky zakládající položky seznamu dle odst. 6), § 32i odst. 3 (ověření auditorem).
+- *Související předpisy:* nařízení Komise (EU) 2023/2772 (ESRS, zejm. ESRS 1 k úrovni konsolidace a významnosti), čl. 29a směrnice 2013/34/EU ve znění CSRD, nařízení (EU) 2019/815 (ESEF), nařízení (EU) 2020/852 (taxonomie).
+- *Judikatura:* dosud chybí; podpůrně zásada věrného a poctivého obrazu (§ 7 ZoÚ) — informační povinnost nesmí být vyprázdněna agregací významných skutečností.
+
+**4. Subsumpce.** Dopady CHEMAGRA (kontaminace vod, emise) se druhem i závažností významně liší od dopadů zemědělsko-potravinářského zbytku skupiny — podmínka „významných rozdílů" dle odst. 4 je naplněna; obdobně rizika (sanační náklady, správní sankce, ztráta povolení) odůvodňují samostatné vykázání dle odst. 5. Skupinou se rozumí konsolidující ÚJ a všechny konsolidované ÚJ (odst. 7), tedy včetně CHEMAGRA. Obě osvobozené dcery patří do výčtu dle odst. 6.
+
+**5. Řešení.** Konsolidovaná zpráva vykáže nepříznivé dopady a rizika CHEMAGRA samostatně, nikoli pouze ve skupinovém agregátu; posouzení významnosti se opře o analogii s § 19a ZoÚ a o ESRS 1 a písemně se zdokumentuje. Zpráva dále uvede jmenovitý seznam osvobozených dceřiných ÚJ, bude sestavena dle ESRS, doplněna taxonomickými údaji a značkována dle ESEF (odst. 3 ve spojení s § 32h odst. 9–11) a ověřena auditorem (§ 32i odst. 3). Opomenutí samostatného vykázání hrozí kvalifikací jako významná nesprávnost zprávy s dopadem na závěr auditora i reputaci skupiny.
+
+**6. Varianty.** (i) Kdyby provoz CHEMAGRA probíhal standardně bez excesů a její dopady i rizika odpovídaly profilu skupiny, povinnost samostatného vykázání dle odst. 4 a 5 by nevznikla — postačily by agregované skupinové údaje. (ii) Kdyby holding konsolidovanou výroční zprávu nevyhotovoval, musel by konsolidovanou zprávu o udržitelnosti zveřejnit samostatně spolu se zprávou auditora způsobem dle § 21a (odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- Námitka, že konsolidační logika připouští vždy jen agregované skupinové vykázání. Neutralizace: odst. 4 a 5 výslovně přikazují rozkrýt významné odchylky jednotlivých konsolidovaných ÚJ; účelem je zabránit zastření lokálně závažných dopadů skupinovými průměry.
+- Námitka neurčitosti pojmu „významné rozdíly" a z ní dovozované volnosti rozkrytí neprovést. Neutralizace: významnost se posuzuje objektivně z pohledu uživatele zprávy (analogie § 19a ZoÚ, ESRS 1); dokumentované posouzení je nezbytným podkladem pro ověření auditorem.
+- Slabé místo: chybí prováděcí metodika srovnání profilu skupiny a jednotlivé ÚJ i tuzemská judikatura; posouzení stojí na odborném úsudku — riziko odlišného názoru auditora (či ČNB u dohlížených subjektů) je vhodné řídit včasnou konzultací a dokumentací.
+
+#### H. Praktický závěr
+
+Konsolidovaná zpráva o udržitelnosti přebírá obsahový i formální režim individuální zprávy (§ 32h odst. 3–11 obdobně), avšak ve skupinové perspektivě: skupinou je konsolidační celek dle § 22 a násl. ZoÚ. Specifické skupinové povinnosti tvoří samostatné vykázání významně odlišných dopadů a rizik jednotlivých ÚJ (odst. 4 a 5) a transparentní seznam osvobozených dceřiných společností (odst. 6).
+
+**Checklist (konsolidující ÚJ / ESG tým / auditor):**
+- [ ] Zařadit zprávu jako samostatný oddíl konsolidované výroční zprávy, jinak ji samostatně zveřejnit dle § 21a (odst. 1).
+- [ ] Aplikovat obdobně § 32h odst. 3–11 (obsah, ukazatele, taxonomie, ESRS, ESEF).
+- [ ] Porovnat dopady a rizika skupiny s jednotlivými konsolidovanými ÚJ a významné rozdíly vykázat samostatně (odst. 4 a 5).
+- [ ] Sestavit seznam konsolidovaných ÚJ osvobozených dle § 32g odst. 2/3 a § 32j odst. 2/3 (odst. 6).
+- [ ] Vymezit skupinu shodně s konsolidačním celkem (odst. 7, § 22 a násl.) a doložit konzistenci s konsolidovanou závěrkou.
+- [ ] Zajistit ověření auditorem (§ 32i odst. 3).
+
+**Typicky rozhodné důkazy / podklady:** vymezení konsolidačního celku, skupinová analýza dvojí významnosti včetně posouzení jednotlivých ÚJ, environmentální a sociální data dceřiných společností, dokumentace posouzení významných rozdílů, seznam osvobozených ÚJ, XHTML výstup a zpráva auditora.
 
 ---
 

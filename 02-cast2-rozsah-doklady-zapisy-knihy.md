@@ -96,6 +96,43 @@ V obou případech platí **zásada účetního období**: změnu lze provést *
 
 **Vazba na prováděcí předpisy:** Zjednodušení v rozsahu se promítají do povinností při sestavování účetní závěrky dle prováděcí vyhlášky (např. vyhláška č. 504/2002 Sb. pro neziskové subjekty dovoluje rozsah výkazů v zjednodušené formě). Viz [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost Gastro Servis s.r.o. je mikro účetní jednotkou podle § 1b ZoÚ (aktiva 5 mil. Kč, roční úhrn čistého obratu 12 mil. Kč, 6 zaměstnanců) a nemá povinnost auditu dle § 20 ZoÚ. Na doporučení externí účetní přešla od 1. 1. na zjednodušený rozsah: sestavila účtový rozvrh pouze na úrovni účtových skupin a spojila účtování v deníku s hlavní knihou. Při daňové kontrole správce daně namítne, že obchodní společnost takto účtovat nesmí, a zpochybní správnost účetnictví. K posouzení je třeba obstarat: výpis z obchodního rejstříku (právní forma), účetní závěrky za předchozí období (hodnoty kritérií § 1b), účtový rozvrh a vnitřní směrnici o rozsahu vedení účetnictví.
+
+**2. Právní otázka.** Může společnost s ručením omezeným, která je mikro účetní jednotkou bez povinnosti mít účetní závěrku ověřenou auditorem, vést účetnictví ve zjednodušeném rozsahu podle § 9 odst. 3 písm. b) ZoÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 ZoÚ — plný rozsah jako pravidlo (odst. 1), podmínky zjednodušeného rozsahu (odst. 3) a taxativní výčet způsobilých právnických osob (odst. 4).
+- *Související ustanovení téhož zákona:* § 1b a § 1e (kategorizace účetních jednotek), § 5 (pověření třetí osoby bez přenosu odpovědnosti), § 8 odst. 2 (správnost účetnictví), § 13a (obsah zjednodušeného rozsahu), § 20 (povinnost auditu), § 37a (přestupky).
+- *Související předpisy:* vyhláška č. 500/2002 Sb. (účetní závěrka podnikatelů); zákon č. 93/2009 Sb., o auditorech.
+- *Judikatura:* Specifická judikatura k § 9 prakticky chybí; uplatní se obecné závěry správních soudů (NSS), že kogentní pravidla rozsahu a způsobu vedení účetnictví nelze rozšiřovat výkladem ani analogií a že porušení povinností dle ZoÚ je objektivní odpovědností, u níž se nevyžaduje vznik škody.
+
+**4. Subsumpce.** Podmínky § 9 odst. 3 písm. b) jsou splněny (mikro účetní jednotka, bez povinného auditu). Společnost je však právnickou osobou podle § 1 odst. 2 písm. a) ZoÚ, pro kterou odst. 4 přístup ke zjednodušenému rozsahu dále zužuje taxativním výčtem právních forem — s.r.o. (ani jiná obchodní společnost) mezi nimi není. Skutkové okolnosti sporné nejsou; spor je čistě právní a vyznívá jednoznačně v neprospěch účetní jednotky.
+
+**5. Řešení.** S.r.o. zjednodušený rozsah vést nesmí; její účetnictví je vedeno v rozporu se zákonem, tedy nesprávně ve smyslu § 8 odst. 2 ZoÚ. Nejde o „změnu rozsahu" podle odst. 5 (ta předpokládá legální výchozí stav), nýbrž o protiprávní stav, který je třeba napravit bez odkladu v běžném účetním období: doplnit účtový rozvrh na syntetické účty, obnovit oddělené funkce deníku a hlavní knihy a doúčtovat metody plného rozsahu (opravné položky, rezervy, případné ocenění reálnou hodnotou dle § 25–27). Hrozí pokuta podle § 37a ZoÚ až do výše 3 % hodnoty aktiv celkem; její výše se moderuje podle závažnosti, délky trvání a následků. Vůči externí účetní připadá v úvahu smluvní regres, odpovědnosti vůči státu se však účetní jednotka nezbaví (§ 5 odst. 2 ZoÚ).
+
+**6. Varianty.** (i) Bylo-li by účetní jednotkou bytové družstvo se stejnými parametry, zjednodušený rozsah by byl přípustný — je ve výčtu odst. 4 písm. j). (ii) Vznikla-li by spolku vedoucímu zjednodušený rozsah povinnost auditu, musel by přejít na plný rozsah, a to k prvnímu dni účetního období následujícího po období, v němž tuto skutečnost zjistil (odst. 5); vnitroroční přechod je vyloučen. (iii) Příspěvková organizace bez rozhodnutí zřizovatele vede vždy plný rozsah (odst. 3 písm. a) — interní přání ředitele organizace rozhodnutí zřizovatele nenahradí.
+
+#### G. Protiargumenty a rizika
+
+- **Materiální námitka:** zjednodušený rozsah nezpůsobil žádnou informační újmu a závěrka podává věrný obraz. *Neutralizace:* § 9 odst. 4 je kogentní a taxativní; ochranná klauzule § 13a odst. 3 svědčí jen subjektům, které na zjednodušení mají zákonný nárok. Delikt je ohrožovací — vznik újmy se nevyžaduje.
+- **Námitka legitimního očekávání:** postup doporučila odborně způsobilá účetní. *Neutralizace:* odpovědnost za vedení účetnictví nese účetní jednotka i při pověření jiné osoby (§ 5 odst. 2 ZoÚ); dobrá víra může jen snížit výměru pokuty, nikoli založit liberaci.
+- **Slabé místo:** ZoÚ výslovně neupravuje proceduru nápravy protiprávně vedeného rozsahu v průběhu období (odst. 5 řeší jen legální změny k 1. dni období); povinnost okamžité rekonstrukce je dovozována výkladem, byť obecně přijímaným.
+
+#### H. Praktický závěr
+
+§ 9 staví plný rozsah jako pravidlo a zjednodušený rozsah jako dvoustupňovou výjimku: nejprve musí být splněny podmínky odst. 3 (rozhodnutí zřizovatele, resp. malá/mikro jednotka bez auditu), u právnických osob dle § 1 odst. 2 písm. a) a b) navíc právní forma z taxativního výčtu odst. 4. Obchodní společnosti jsou vyloučeny vždy. Nárok na zjednodušený rozsah prověřujte ke každému rozvahovému dni a změny rozsahu provádějte výhradně k prvnímu dni následujícího účetního období.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit kategorii účetní jednotky podle § 1b a § 1e k rozvahovému dni (aktiva, obrat, zaměstnanci).
+- [ ] Ověřit (ne)existenci povinnosti auditu podle § 20 ZoÚ a zvláštních zákonů.
+- [ ] U právnických osob dle § 1 odst. 2 písm. a) a b) porovnat právní formu s taxativním výčtem § 9 odst. 4.
+- [ ] U příspěvkové organizace doložit rozhodnutí zřizovatele o zjednodušeném rozsahu.
+- [ ] Změnu rozsahu provést jen k prvnímu dni následujícího účetního období a zdokumentovat ji vnitřní směrnicí.
+
+**Typicky rozhodné důkazy / podklady:** výpis z veřejného rejstříku (právní forma), účetní závěrky za poslední dvě období (hodnoty kritérií § 1b), rozhodnutí zřizovatele, zpráva auditora, vnitřní směrnice o rozsahu vedení účetnictví, účtový rozvrh.
+
 ---
 
 ### § 11 — Účetní doklady
@@ -170,6 +207,43 @@ Podmínka „aby bylo možno určit obsah každého jednotlivého účetního p�
 
 > **Poznámka k anomálii číslování:** § 10 ZoÚ neexistuje. Byl ze zákona vypuštěn a jeho číslo nebylo přiděleno žádnému jinému ustanovení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební společnost (objednatel) uplatnila daňové náklady a odpočet DPH z faktur subdodavatele za zemní práce v úhrnu 1,8 mil. Kč. Faktury obsahují pouze text „zemní práce dle ústní dohody" bez vymezení místa, rozsahu a období plnění; podpisové záznamy osoby odpovědné za účetní případ a osoby odpovědné za zaúčtování připojeny nebyly; smlouva o dílo, předávací protokoly ani stavební deník neexistují. Správce daně při kontrole vyzve k prokázání přijetí plnění. K obstarání: objednávky a e-mailová korespondence, stavební deník generálního dodavatele, fotodokumentace, výpisy z účtu, svědecké výpovědi stavbyvedoucího.
+
+**2. Právní otázka.** Jsou faktury postrádající náležitosti podle § 11 odst. 1 písm. b) a f) ZoÚ účetními doklady (průkaznými účetními záznamy) a jaké důsledky má jejich vada pro účetnictví a důkazní pozici účetní jednotky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 ZoÚ — povinné náležitosti účetního dokladu (odst. 1) a povinnost vyhotovení bez zbytečného odkladu (odst. 2).
+- *Související ustanovení téhož zákona:* § 8 odst. 4 a 5 (průkaznost a určitelnost obsahu účetního případu), § 33 a § 33a (účetní záznam, průkaznost, podpisový záznam včetně technické formy), § 12 (návaznost zápisů na doklady), § 31–32 (úschova), § 37a (přestupek neprůkazného účetnictví).
+- *Související předpisy:* § 26 a násl. zákona č. 235/2004 Sb. (daňový doklad — odlišný institut s částečným průnikem náležitostí; lhůta 15 dnů pro vystavení dle § 28), § 92 odst. 3 a 4 daňového řádu (důkazní břemeno daňového subjektu).
+- *Judikatura:* ustálená rozhodovací praxe NSS: formálně bezvadný doklad sám o sobě neprokazuje faktické uskutečnění plnění, a naopak formální vady dokladu nevylučují prokázání výdaje či odpočtu jinými důkazními prostředky; rozhodný je soulad dokladu se skutečným stavem.
+
+**4. Subsumpce.** Náležitosti písm. a), c) a d) (označení, částka, datum vyhotovení) jsou splněny. Písm. b) je splněno jen zčásti — účastníci jsou identifikováni, avšak popis „zemní práce dle ústní dohody" neumožňuje určit obsah účetního případu způsobem dle § 8 odst. 5. Písm. f) splněno není (chybí oba podpisové záznamy) a chybí i identifikátor vazby na jiné záznamy, které by náležitosti doplnily. Faktury proto nejsou průkaznými účetními záznamy dle § 33a a účetnictví je v rozsahu těchto případů neprůkazné (§ 8 odst. 4).
+
+**5. Řešení.** Účetně: doplnit průkaznost dodatečně — dohledat objednávky, připojit interní schvalovací (podpisové) záznamy a zavést identifikátor (číslo zakázky) propojující fakturu s podpůrnými záznamy; § 11 odst. 1 věty druhá až čtvrtá rozptyl náležitostí na více záznamů výslovně připouštějí. Daňově: unést důkazní břemeno jinými prostředky (stavební deník, svědci, platby); jinak hrozí neuznání nákladů i odpočtu. Správně-trestně: neprůkazné účetnictví je přestupkem dle § 37a ZoÚ (pokuta až 3 % hodnoty aktiv celkem). Pro futuro zavést směrnici oběhu účetních dokladů a podpisový řád.
+
+**6. Varianty.** (i) Byly-li by náležitosti rozptýleny mezi fakturu, smlouvu o dílo a elektronické schválení v ERP propojené číslem zakázky, byl by doklad bezvadný — zákon fyzickou jednotu listiny nevyžaduje. (ii) Byl-li by doklad formálně dokonalý, ale plnění by fakticky neproběhlo, průkaznost nezachrání nic — doklad se vždy poměřuje skutečným stavem; výsledek by byl pro účetní jednotku ještě horší (riziko podvodného jednání).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka oddělenosti institutů:** vady účetního dokladu nemají daňové důsledky, neboť účetní a daňový doklad jsou různé pojmy. *Neutralizace:* instituty jsou skutečně odlišné, avšak neprůkaznost dle ZoÚ je samostatným přestupkem a současně fakticky zhoršuje důkazní pozici dle § 92 daňového řádu; obě roviny běží paralelně a nezávisle.
+- **Námitka digitalizace:** elektronické workflow „podpisy" nezná. *Neutralizace:* § 33a odst. 4 ZoÚ připouští podpisový záznam i v technické formě (autentizovaný schvalovací krok v ERP); podmínkou je vnitřní úprava (podpisový řád) a zachovaná auditní stopa — pak je námitka bezpředmětná.
+- **Slabé místo:** „bez zbytečného odkladu" v odst. 2 je neurčitý právní pojem bez pevné judikaturní kvantifikace; opora o 15denní lhůtu pro daňový doklad dle ZDPH je pouze podpůrná analogie, nikoli závazné měřítko.
+
+#### H. Praktický závěr
+
+§ 11 je jádrem průkaznosti účetnictví: každý účetní případ musí být podložen dokladem se všemi náležitostmi písm. a)–f), případně soustavou více záznamů propojených nezaměnitelným identifikátorem. Popis případu formulujte tak určitě, aby z něj bylo zřejmé co, kdo, kdy a v jakém rozsahu plnil; doklady vyhotovujte neprodleně po zjištění rozhodných skutečností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje doklad (nebo propojená soustava záznamů) všech šest náležitostí dle § 11 odst. 1?
+- [ ] Je popis účetního případu dostatečně určitý pro postup dle § 8 odst. 5?
+- [ ] Jsou zavedeny oba podpisové záznamy (odpovědnost za případ + za zaúčtování), případně jejich technická forma dle § 33a odst. 4?
+- [ ] Existuje identifikátor vzájemné vazby při rozptylu náležitostí na více záznamů či při společném podpisu?
+- [ ] Jsou doklady vyhotovovány bez zbytečného odkladu (pokladní operace ihned, fakturace v řádu dnů)?
+
+**Typicky rozhodné důkazy / podklady:** faktury a pokladní doklady, smlouvy a objednávky, dodací listy a předávací protokoly, schvalovací záznamy z ERP s auditní stopou, podpisový řád, směrnice oběhu účetních dokladů.
+
 ---
 
 ### § 12 — Účetní zápisy
@@ -210,6 +284,43 @@ K záznamu (tj. k zaúčtování v účetní knize) se připojuje podpisový zá
 #### Zákaz zápisů mimo účetní knihy (odst. 3)
 
 Odstavec 3 zakazuje provádět účetní zápisy mimo zákonem stanovené účetní knihy. Jde o průmět zásady **úplnosti** (§ 8 odst. 4 písm. a ZoÚ) — nesmějí existovat „stínové knihy", soukromé evidence nebo záznamy o hospodářských operacích, které nejsou zachyceny v řádných účetních knihách. Porušení tohoto zákazu je kvalifikovanou formou nepřesnosti účetnictví a zpravidla zakládá správní delikt dle § 37 ZoÚ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jednatel obchodní s.r.o. (plátce DPH s měsíčním zdaňovacím obdobím) předává externí účetní doklady jednou ročně; účetnictví za celý rok je pořizováno jednorázově v lednu a únoru roku následujícího. Přiznání k DPH se v průběhu roku sestavují z excelové tabulky vedené mimo účetnictví; hotovostní tržby prodejny eviduje vedoucí v sešitě a do účetnictví vstupují jen souhrnnou měsíční částkou bez dokladové vazby. Finanční úřad při kontrole zjistí rozdíly mezi tabulkou, sešitem a deníkem.
+
+**2. Právní otázka.** Porušuje účetní jednotka povinnost provádět účetní zápisy průběžně (§ 12 odst. 2 ZoÚ) a zákaz provádět zápisy mimo účetní knihy (§ 12 odst. 3 ZoÚ), a jaké z toho plynou důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 ZoÚ — pojem účetního zápisu, průběžnost, podpisový záznam u zápisu, zákaz zápisů mimo knihy.
+- *Související ustanovení téhož zákona:* § 11 (sekvence skutečnost → doklad → zápis), § 13 (soustava účetních knih), § 8 odst. 4 (úplnost a průkaznost), § 35 (opravy účetních záznamů), § 37 a § 37a (přestupky).
+- *Související předpisy:* § 100 zákona č. 235/2004 Sb. (evidence pro účely DPH), § 92 a § 98 daňového řádu (důkazní břemeno, stanovení daně podle pomůcek), § 254 trestního zákoníku (zkreslování údajů o stavu hospodaření a jmění).
+- *Judikatura:* správní soudy konstantně dovozují, že účetnictví pořizované zpětně a hromadně ztrácí důkazní hodnotu průběžně vedené evidence; existence paralelní („stínové") evidence tržeb neodpovídající účetním knihám je typickým podkladem pro stanovení daně podle pomůcek a podle okolností i pro trestní odpovědnost dle § 254 TZ (Nejvyšší soud).
+
+**4. Subsumpce.** Průběžnost (odst. 2 věta první) je porušena — zápisy nejsou prováděny v účetním období, v němž nastaly zachycované skutečnosti, a zvolený způsob ohrožuje plnění povinností podle jiných předpisů (přiznání k DPH se sestavují mimo účetnictví, což odst. 2 výslovně zapovídá). Sešit tržeb materiálně plní funkci deníku tržeb, avšak stojí mimo účetní knihy — porušení odst. 3 i zásady úplnosti dle § 8 odst. 4. Chybí rovněž podpisové záznamy osob odpovědných za provedení zápisů (odst. 2 věta druhá).
+
+**5. Řešení.** Zavést měsíční cyklus předávání a účtování dokladů tak, aby zdrojem dat pro DPH bylo účetnictví; hotovostní tržby zachycovat denními pokladními doklady v pokladním deníku s jednotlivou dokladovou vazbou. Zpětně provést rekonstrukci a doúčtování s dokumentovanými opravami dle § 35. Sankčně hrozí pokuta dle § 37a (neúplné a neprůkazné účetnictví, až 3 % hodnoty aktiv celkem) a stanovení daně podle pomůcek; při úmyslném zatajování tržeb i trestní stíhání pro zkreslování údajů o stavu hospodaření a jmění.
+
+**6. Varianty.** (i) Malý spolek, neplátce DPH, účtující v měsíčních či čtvrtletních dávkách: požadavek průběžnosti je měkčí — postačí frekvence umožňující včasné splnění navazujících povinností; jednorázové roční zaúčtování by však nevyhovělo ani zde. (ii) Excelová evidence vedená vedle řádně a jednotlivě účtovaného deníku jako operativní pomůcka (sledování zakázek, plánování cash-flow) odst. 3 neporušuje — zakázána je evidence, která účetní knihy nahrazuje.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka neexistence zákonné frekvence:** zákon frekvenci zápisů nestanoví, takže „průběžně v účetním období" připouští i jednorázové zaúčtování ke konci období. *Neutralizace:* jazykový i teleologický výklad to vylučuje — odst. 2 váže způsob zápisů na neohrožení požadavků jiných právních předpisů (měsíční DPH, mzdová agenda); zápisy proto musí časově předcházet zákonným lhůtám navazujících povinností.
+- **Námitka pomocné evidence:** sešit tržeb je jen pomocná, nikoli účetní evidence. *Neutralizace:* rozhodující je funkce, nikoli označení — je-li sešit jediným záznamem o jednotlivých tržbách a do knih vstupuje až agregát bez dokladové vazby, jde materiálně o účetní zápisy mimo knihy.
+- **Slabé místo:** chybí judikatura kvantifikující minimální frekvenci zápisů; argumentace musí stavět na lhůtách navazujících povinností a na auditní stopě, což ponechává určitý prostor pro obhajobu účetní jednotky.
+
+#### H. Praktický závěr
+
+§ 12 vyžaduje zachování posloupnosti skutečnost → doklad → zápis, průběžné účtování v rytmu navazujících zákonných povinností a úplné soustředění všech zápisů do účetních knih. Každá evidence hospodářských operací, která knihy nahrazuje (nikoli doplňuje), je protiprávní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Stanovit vnitřní směrnicí harmonogram předávání dokladů a měsíčních účetních uzávěrek.
+- [ ] Přiznání k DPH a další výkazy generovat z účetnictví, nikoli z paralelních evidencí.
+- [ ] Hotovostní operace účtovat denně prostřednictvím pokladního deníku s jednotlivými doklady.
+- [ ] Zajistit podpisový záznam osoby odpovědné za provedení zápisu, liší-li se od osoby odpovědné za zaúčtování případu.
+- [ ] Otestovat, že žádná evidence nenahrazuje účetní knihy (vstupuje každý případ jednotlivě do deníku?).
+
+**Typicky rozhodné důkazy / podklady:** deník s auditní stopou ERP (časová razítka pořízení zápisů), předávací protokoly dokladů, pokladní deník, evidence pro účely DPH, vnitřní účetní směrnice.
 
 ---
 
@@ -290,6 +401,43 @@ Zákon explicitně říká, že podrozvahové zápisy se **neprovádějí** v de
 
 Analogicky k § 12 odst. 3 (zákaz zápisů mimo knihy) zakazuje odst. 3 zřizování účtů mimo účtový rozvrh a mimo zákonem stanovené účetní knihy. Tím je uzavřen systém — **účtový rozvrh** (§ 14) určuje, jaké účty existují; účetní knihy určují, kde se zapisují. Zakázány jsou tedy jakékoli „neoficiální" pomocné evidence vedené jako účty, aniž by byly součástí systému.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobní akciová společnost (střední účetní jednotka, plný rozsah, povinný audit) vede účetnictví v ERP systému. Auditor při předauditních pracích zjistí, že systém negeneruje deník — k dispozici je jen hlavní kniha a obratová předvaha, chronologickou sestavu lze údajně „dopočítat z databáze". Dále zjistí, že poskytnuté bankovní záruky za dceřinou společnost (12 mil. Kč) a stroje užívané na operativní leasing nejsou nikde zachyceny — knihy podrozvahových účtů zřízeny nebyly. Auditor zvažuje výrok s výhradou.
+
+**2. Právní otázka.** Plní účetní jednotka povinnost účtovat v deníku podle § 13 odst. 1 písm. a) ZoÚ, je-li chronologická sestava pouze teoreticky rekonstruovatelná z databáze, a je povinna vést knihy podrozvahových účtů o poskytnutých zárukách a najatém majetku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 ZoÚ — soustava účetních knih (odst. 1), minimální obsah hlavní knihy (odst. 2), zákaz účtů mimo účtový rozvrh a knihy (odst. 3).
+- *Související ustanovení téhož zákona:* § 7 odst. 1 a 2 (věrný obraz — podmíněné závazky), § 8 odst. 1 a 4 (správnost, úplnost, průkaznost), § 12 odst. 3, § 13a odst. 2 (výjimka pro zjednodušený rozsah), § 33 (technická forma záznamů a povinnost převodu do čitelné formy).
+- *Související předpisy:* vyhláška č. 500/2002 Sb. (mj. údaje přílohy o závazcích nevykázaných v rozvaze), Český účetní standard č. 001 (podrozvahové účty), pro vybrané účetní jednotky vyhláška č. 410/2009 Sb. (závazná podrozvaha).
+- *Judikatura:* správní soudy přiznávají deníku klíčovou roli důkazu úplnosti zaúčtování při daňové kontrole; není-li účetní jednotka schopna chronologickou evidenci předložit, oslabuje to její důkazní pozici a může to vést až ke stanovení daně podle pomůcek.
+
+**4. Subsumpce.** Deník: § 13 odst. 1 písm. a) požaduje, aby účetní jednotka deníkem *prokazovala* zaúčtování všech účetních případů — latentní existence dat v databázi nestačí; ve spojení s § 33 musí být jednotka schopna deník kdykoli vydat jako uspořádanou, člověku čitelnou chronologickou sestavu s vazbou na doklady. Podrozvaha: poskytnuté záruky a majetek na operativní leasing jsou typickým obsahem knih podrozvahových účtů; účetní jednotka v plném rozsahu je vést musí — výjimka § 13a odst. 2 na ni nedopadá. Zákaz odst. 3 porušen není; vadou je absence knih, nikoli existence účtů mimo systém.
+
+**5. Řešení.** Doplnit ERP o generování deníku (souvislé číselné řady, časová posloupnost, identifikátor vazby doklad–zápis), zřídit v účtovém rozvrhu podrozvahové účty (u podnikatelů skupiny 75x–79x dle ČÚS č. 001) a zachytit záruky, leasing i případné odepsané pohledávky; promítnout údaje do přílohy účetní závěrky. Po nápravě může auditor od výhrady upustit; bez ní hrozí modifikovaný výrok a přestupek neúplného účetnictví dle § 37a ZoÚ.
+
+**6. Varianty.** (i) Účetní jednotka ve zjednodušeném rozsahu by knihy analytických a podrozvahových účtů vést nemusela (§ 13a odst. 2) — informační deficit by ale musela pokrýt v příloze závěrky. (ii) Vedení více deníků (pokladní, bankovní, fakturační, mzdový) je výslovně přípustné, pokrývají-li v souhrnu všechny účetní případy bez mezer a duplicit. (iii) Vybraná účetní jednotka by musela v hlavní knize (nebo jiné knize) vykazovat souhrnné obraty denně (odst. 2 písm. b).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka technologické neutrality:** data v databázi „jsou" deníkem, samostatná sestava je formalismus. *Neutralizace:* forma je skutečně volná (§ 33), funkce nikoli — deník musí být na vyžádání předložitelný jako chronologická, průkazně s doklady provázaná sestava; jinak neplní prokazovací funkci dle odst. 1 písm. a). Pouhá teoretická rekonstruovatelnost nepostačuje.
+- **Námitka neurčitosti podrozvahy:** zákon obsah podrozvahových knih nevymezuje, sankcionovat lze jen to, co je v ČÚS, které nejsou právním předpisem. *Neutralizace:* povinnost vést knihy podrozvahových účtů plyne přímo z § 13 odst. 1 písm. d) ve spojení s § 7; ČÚS obsah jen konkretizují a § 36 ZoÚ jim přiznává normativní oporu; nezachycení podmíněných závazků navíc zkresluje věrný obraz.
+- **Slabé místo:** zákon na rozdíl od hlavní knihy (odst. 2) nevymezuje minimální obsah deníku — dovozuje se jen z jeho prokazovací funkce, což ponechává výkladový prostor o míře podrobnosti.
+
+#### H. Praktický závěr
+
+§ 13 vyžaduje čtyřprvkovou soustavu knih: deník (chronologie a důkaz úplnosti), hlavní knihu (systematika s minimálním obsahem dle odst. 2), analytiku (detail navázaný na syntetiku) a podrozvahu (mimobilanční skutečnosti). Soustava je uzavřená — žádné účty ani evidence mimo rozvrh a knihy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Generuje systém deník (chronologii) i hlavní knihu (systematiku) se vzájemnou vazbou přes doklady?
+- [ ] Obsahuje hlavní kniha počáteční zůstatky, souhrnné obraty MD/Dal alespoň za kalendářní měsíc (u vybraných jednotek denně) a konečné zůstatky?
+- [ ] Jsou knihy analytických účtů navázány na syntetické účty (kontrola shody dle § 16)?
+- [ ] Existuje podrozvahová evidence (záruky, zástavy, leasing, odepsané pohledávky) a vnitřní směrnice k ní?
+- [ ] Neexistují účty či evidence mimo účtový rozvrh a účetní knihy (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** sestavy deníku a hlavní knihy, obratová předvaha, účtový rozvrh, podrozvahové sestavy, smlouvy o zárukách a leasingu, příloha účetní závěrky, dokumentace ERP (auditní stopa).
+
 ---
 
 ### § 13a — Zjednodušený rozsah účetnictví
@@ -345,6 +493,43 @@ Tato klauzule je právně důležitá: bez ní by auditoři ani kontrolní orgá
 - Pro podnikatele (§ 1 odst. 2 písm. a a b): vyhláška č. 500/2002 Sb. — § 3a upravuje zjednodušený rozsah účetní závěrky;
 - Pro nevýdělečné organizace: vyhláška č. 504/2002 Sb. — § 4 a příloha;
 - České účetní standardy (pro podnikatele): ČÚS 001–024 — většinu standardů lze aplikovat i ve zjednodušeném rozsahu s přihlédnutím k odchylkám.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Společenství vlastníků jednotek (45 jednotek), mikro účetní jednotka bez povinného auditu, vede podle § 9 odst. 3 písm. b) a odst. 4 písm. i) ZoÚ účetnictví ve zjednodušeném rozsahu: účtový rozvrh na úrovni účtových skupin a „americký deník" (spojené účtování v deníku a hlavní knize). Výbor s odkazem na § 13a odst. 2 přestal vést knihy analytických účtů; předpisy záloh na správu a služby i dluhy jsou tak evidovány jen souhrnně. Vlastník jednotky dluží na zálohách 80 000 Kč; SVJ jej žaluje a soud požaduje vyčíslení dluhu po jednotlivých předpisech a platbách; revizor současně namítá, že bez analytiky nelze provést roční vyúčtování služeb.
+
+**2. Právní otázka.** Může SVJ vedoucí účetnictví ve zjednodušeném rozsahu zcela upustit od knih analytických účtů, jestliže zvláštní právní předpis (vyúčtování služeb) a vymáhání pohledávek vyžadují evidenci po jednotlivých vlastnících?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13a ZoÚ — katalog odchylek zjednodušeného rozsahu (odst. 1), právo nevést knihy analytických a podrozvahových účtů (odst. 2), fikce zachování věrného a poctivého obrazu (odst. 3).
+- *Související ustanovení téhož zákona:* § 9 odst. 3 a 4 (nárok na zjednodušený rozsah), § 13 odst. 1, § 16 (vede-li se analytika, musí souhlasit se syntetikou), § 8 odst. 4 (průkaznost).
+- *Související předpisy:* zákon č. 67/2013 Sb. (vyúčtování záloh na služby jednotlivým příjemcům do 4 měsíců od konce zúčtovacího období), § 1180 a násl. občanského zákoníku (příspěvky na správu domu), vyhláška č. 504/2002 Sb. (účetní závěrka), zákon č. 593/1992 Sb. (zákonné rezervy a opravné položky — výjimka v odst. 1 písm. d).
+- *Judikatura:* civilní soudy v řízeních o zaplacení požadují, aby SVJ doložilo předpisy a úhrady konkrétního vlastníka a aby vyúčtování bylo přezkoumatelné (řádné vyúčtování je podmínkou splatnosti nedoplatku); judikatura k § 13a samotnému se prakticky nevyskytuje.
+
+**4. Subsumpce.** Formálně je postup kryt § 13a odst. 2 — vypuštění analytiky je dovolené zjednodušení a podle odst. 3 není porušením § 7 odst. 1 a 2. Materiálně však SVJ stíhají povinnosti podle zvláštních předpisů (individuální vyúčtování služeb, průkazné vyčíslení dluhu), které bez evidence po vlastnících splnit nelze; odst. 1 písm. a) ostatně sám počítá s podrobnějším členěním, „vyžaduje-li zvláštní právní předpis". Zjednodušení je právo, nikoli povinnost — jeho využití nesmí zmařit plnění jiných právních povinností.
+
+**5. Řešení.** SVJ by mělo saldokonto vlastníků (analytickou evidenci předpisů a plateb) vést dobrovolně dál, nebo je nahradit jinou průkaznou evidencí provázanou s účetnictvím. V soudním řízení doloží předpis záloh (rozhodnutí shromáždění), jednotlivé platby a vyúčtování; bez toho žaloba pro neunesení břemene tvrzení a důkazního zpravidla neuspěje. Účetní opravné položky k dluhu vlastníka SVJ tvořit nemusí (§ 13a odst. 1 písm. d) — to odst. 3 výslovně kryje. Samotné vedení zjednodušeného rozsahu protiprávní není.
+
+**6. Varianty.** (i) Chtělo-li by SVJ investovat volné prostředky do cenných papírů oceňovaných reálnou hodnotou, § 13a odst. 1 písm. e) použití § 27 vylučuje — reálná hodnota je subjektům ve zjednodušeném rozsahu uzavřena. (ii) Vznikla-li by bytovému družstvu (jinému subjektu z výčtu § 9 odst. 4) povinnost auditu, ztrácí nárok na zjednodušený rozsah a přechází na plný rozsah k prvnímu dni následujícího účetního období (§ 9 odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka všeobjímající fikce:** odst. 3 legalizuje jakýkoli informační deficit zjednodušeného účetnictví. *Neutralizace:* fikce zachování věrného obrazu kryje výlučně postupy výslovně dovolené v odst. 1 a 2; nekryje chyby, neúplnost dokladů ani nesplnění povinností podle jiných předpisů (vyúčtování služeb se posuzuje podle zákona č. 67/2013 Sb., nikoli podle ZoÚ).
+- **Námitka ztráty chronologie:** spojením deníku a hlavní knihy (odst. 1 písm. b) zaniká chronologická průkaznost. *Neutralizace:* jde o spojení formy, nikoli o zánik obsahu — kombinovaná kniha musí nadále plnit obě funkce (časové i věcné hledisko); jinak by nešlo o dovolené zjednodušení, ale o neúplné účetnictví.
+- **Slabé místo:** napětí mezi dovoleným vypuštěním analytiky (odst. 2) a faktickými povinnostmi podle zvláštních předpisů zákon výslovně neřeší; závěr, že zjednodušení nesmí zmařit jiné povinnosti, je dovozován výkladem a v komentářové literatuře, nikoli textem zákona.
+
+#### H. Praktický závěr
+
+§ 13a je taxativní katalog úlev: rozvrh na skupiny, spojení deníku s hlavní knihou, vynechání účetních opravných položek a rezerv (mimo zákonných), zákaz reálné hodnoty, zjednodušená závěrka a možnost nevést analytiku a podrozvahu. Úlevy využívejte selektivně — co zvláštní předpis nebo provozní potřeba vyžaduje (evidence po vlastnících, dotační členění), veďte dobrovolně dál.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit trvání nároku na zjednodušený rozsah (§ 9 odst. 3 a 4) ke každému účetnímu období.
+- [ ] Vnitřní směrnicí vymezit, které odchylky dle § 13a odst. 1 a 2 jednotka skutečně využívá.
+- [ ] Zachovat odpisy (odst. 1 písm. c) a zákonné rezervy a opravné položky (odst. 1 písm. d).
+- [ ] Nepoužívat ocenění reálnou hodnotou dle § 27 (odst. 1 písm. e).
+- [ ] Zvážit dobrovolné vedení analytiky, vyžadují-li ji zvláštní předpisy či vymáhání pohledávek; vede-li se, musí souhlasit se syntetikou (§ 16).
+
+**Typicky rozhodné důkazy / podklady:** účtový rozvrh (úroveň skupin), kombinovaná kniha (americký deník), saldokonto či evidence předpisů a plateb vlastníků, vyúčtování služeb, vnitřní směrnice, doklady o kategorii účetní jednotky.
 
 ---
 
@@ -453,6 +638,43 @@ Detailní pravidla — obsahové vymezení knih, strukturu přehledů a účetn�
 > | Zákonné rezervy a OP | Povinné | Povinné | Nevyužívají se |
 > | Lhůta výstupu | Do 6 měs. od rozvahového dne | Do 6 měs. od rozvahového dne | Do 6 měs. od konce účetního období |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Myslivecký spolek (neplátce DPH) vede od roku 2016 jednoduché účetnictví; příjmy se dosud pohybovaly do 1 mil. Kč. V účetním období 2025 spolek rozšíří hospodářskou činnost (pronájem honitby, reklamní plnění) a jeho celkové příjmy zjištěné z přehledu o příjmech a výdajích dosáhnou 3,4 mil. Kč; vedle toho obdržel jednorázový dar 500 000 Kč na opravu střechy klubovny. Výbor řeší, zda a odkdy musí přejít na (podvojné) účetnictví a jaké výstupy sestavit za poslední období jednoduchého účetnictví.
+
+**2. Právní otázka.** Překročil spolek limit celkových příjmů pro jednoduché účetnictví a k jakému dni je povinen zahájit vedení účetnictví v plném či zjednodušeném rozsahu; jaké výstupy musí sestavit za poslední období jednoduchého účetnictví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13b ZoÚ — účetní knihy jednoduchého účetnictví (odst. 1), obsah peněžního deníku (odst. 2), přehledy a lhůta 6 měsíců (odst. 3), vyloučená ustanovení (odst. 4), prováděcí předpis (odst. 6).
+- *Související ustanovení téhož zákona:* § 1f (podmínky: neplátce DPH, příjmy a hodnota majetku do 3 mil. Kč, vyjmenované právní formy; odst. 4 — do úhrnu příjmů se nezahrnují průběžné položky, příjmy z prodeje dlouhodobého majetku a příjmy nahodilé a mimořádné; odst. 3 — okamžik ukončení a pětiletá blokace návratu), § 9 odst. 3 a 4 písm. a) (zjednodušený rozsah pro spolky), § 17 odst. 1 písm. b) (otevření knih), § 29 odst. 1 (inventarizace), § 31 (úschova).
+- *Související předpisy:* vyhláška č. 325/2015 Sb. (obsah knih, struktura přehledů, způsob přechodu mezi soustavami), zákon č. 304/2013 Sb. (uložení přehledu o majetku a závazcích do sbírky listin spolkového rejstříku).
+- *Judikatura:* k § 13b se judikatura dosud prakticky nevytvořila; vodítkem jsou obecné zásady průkaznosti účetnictví a metodika navázaná na vyhlášku č. 325/2015 Sb.
+
+**4. Subsumpce.** Pravidelné příjmy z hospodářské činnosti (3,4 mil. Kč) se do limitu zahrnují a hranici 3 mil. Kč překračují. Jednorázový účelový dar lze naopak hájit jako příjem nahodilý či mimořádný, který se podle § 1f odst. 4 do úhrnu nezapočítává — na výsledku to zde však nic nemění. Spolek přestal splňovat § 1f odst. 1 písm. b); podle § 1f odst. 3 vede účetnictví v plném nebo zjednodušeném rozsahu od prvního dne účetního období následujícího po období, v němž tuto skutečnost zjistil (zjistí-li ji průběžně v roce 2025, přechází od 1. 1. 2026; zjistí-li ji až při sestavování přehledů v roce 2026, od 1. 1. 2027). Jako spolek může zvolit zjednodušený rozsah (§ 9 odst. 4 písm. a).
+
+**5. Řešení.** Za poslední období jednoduchého účetnictví: dokončit peněžní deník (včetně průběžných položek), knihu pohledávek a knihu závazků i pomocné knihy, provést inventarizaci a do 6 měsíců sestavit přehled o majetku a závazcích a přehled o příjmech a výdajích (odst. 3); přehled o majetku a závazcích uložit do sbírky listin. K prvnímu dni nového režimu provést přechod podle vyhlášky č. 325/2015 Sb. (převodový můstek — stanovení počátečních zůstatků rozvahových účtů z knih JÚ), sestavit účtový rozvrh a otevřít účetní knihy (§ 17 odst. 1 písm. b). Pamatovat, že návrat k jednoduchému účetnictví je možný nejdříve po pěti po sobě jdoucích účetních obdobích (§ 1f odst. 3).
+
+**6. Varianty.** (i) Pokud by limit překročil pouze jednorázový příjem z prodeje staré chaty (dlouhodobého majetku), do úhrnu příjmů se dle § 1f odst. 4 nezahrnuje a spolek by v jednoduchém účetnictví pokračoval. (ii) Stane-li se spolek plátcem DPH, ztrácí jednoduché účetnictví bez ohledu na výši příjmů (§ 1f odst. 1 písm. a). (iii) Sestaví-li spolek přehledy po lhůtě 6 měsíců, porušuje § 13b odst. 3 — hrozí pokuta podle § 37 ZoÚ.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka hrubého úhrnu:** „celkovými příjmy" je nutno rozumět veškeré přítoky peněz včetně darů a prodejů majetku. *Neutralizace:* § 1f odst. 4 výslovně vylučuje průběžné položky, příjmy z prodeje dlouhodobého majetku a příjmy nahodilé a mimořádné; u opakovaných darů je však kvalifikace „nahodilosti" sporná — posuzovat individuálně a posouzení dokumentovat.
+- **Námitka, že přehledy jsou účetní závěrkou** se všemi navazujícími povinnostmi (audit, výroční zpráva). *Neutralizace:* přehledy závěrkou nejsou — na ně se použijí jen taxativně vyjmenovaná ustanovení (odst. 3) a rozsah povinností nelze rozšiřovat analogií; povinnost uložení do sbírky listin nicméně plyne z rejstříkových předpisů.
+- **Slabé místo:** hranice mezi příjmem „nahodilým a mimořádným" a příjmem z byť nárazové vlastní činnosti není zákonem definována a judikatura chybí; konzervativní postup velí v pochybnostech příjem do limitu započítat a přechod raději nasimulovat dříve.
+
+#### H. Praktický závěr
+
+§ 13b je výjimečný hotovostní režim pro nejmenší vyjmenované neziskové subjekty: tři soustavy knih (peněžní deník, kniha pohledávek a závazků, pomocné knihy), místo závěrky dva přehledy do 6 měsíců, vyloučení akruálních institutů (odst. 4) a vše ostatní jen přiměřeně. Každoročně testujte podmínky § 1f, protože jejich ztráta spouští povinný přechod na podvojné účetnictví s pětiletou blokací návratu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Každoročně ověřit podmínky § 1f (neplátcovství DPH, příjmy a majetek do 3 mil. Kč po očištění dle § 1f odst. 4 a 5, právní forma).
+- [ ] Vést peněžní deník s členěním na stavy prostředků, příjmy, výdaje a průběžné položky (odst. 2).
+- [ ] Vést knihu pohledávek, knihu závazků a pomocné knihy o ostatním majetku (odst. 1).
+- [ ] Sestavit oba přehledy do 6 měsíců po skončení účetního období a uložit přehled o majetku a závazcích do sbírky listin.
+- [ ] Při ztrátě podmínek provést přechod (převodový můstek dle vyhlášky č. 325/2015 Sb.) k prvnímu dni následujícího účetního období.
+
+**Typicky rozhodné důkazy / podklady:** peněžní deník, kniha pohledávek a závazků, pomocné knihy, přehledy za poslední období, inventurní soupisy, smlouvy o pronájmu a darovací smlouvy (kvalifikace příjmů), potvrzení o (ne)registraci k DPH.
+
 ---
 
 ### § 14 — Směrná účtová osnova a účtový rozvrh
@@ -502,6 +724,43 @@ Zákon stanoví tři pravidla pro životní cyklus účtového rozvrhu:
 
 > **Poznámka k anomálii číslování:** § 15 ZoÚ neexistuje. Číslo bylo uvolněno vypuštěním původního § 15 a nebylo přiděleno jinému ustanovení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obchodní s.r.o. převzala do nového roku účtový rozvrh z předchozího období („mlčanlivá prolongace" dle odst. 3). V květnu poprvé poskytla zápůjčku jednateli a začala obchodovat v cizí měně; účetní zaúčtovala nové operace na syntetické účty, které v rozvrhu uvedeny nejsou — ERP založení účtu „za běhu" technicky umožnil. Při auditu je zjištěno, že rozvrh nebyl celý rok aktualizován a neodpovídá množině skutečně používaných účtů.
+
+**2. Právní otázka.** Je účtování na syntetické účty nezahrnuté do účtového rozvrhu porušením § 14 odst. 2 ve spojení s § 13 odst. 3 ZoÚ a lze vadu zhojit doplněním rozvrhu v průběhu účetního období?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 ZoÚ — směrná účtová osnova (odst. 1), povinnost sestavit účtový rozvrh (odst. 2), roční periodicita, průběžné doplňování a mlčanlivá prolongace (odst. 3).
+- *Související ustanovení téhož zákona:* § 13 odst. 3 (zákaz účtů mimo účtový rozvrh a knihy), § 8 odst. 1 a 2 (správnost účetnictví), § 13a odst. 1 písm. a) (rozvrh na úrovni skupin u zjednodušeného rozsahu), § 37a (přestupky).
+- *Související předpisy:* vyhláška č. 500/2002 Sb. (směrná účtová osnova pro podnikatele v příloze č. 4), Český účetní standard č. 001; pro vybrané účetní jednotky vyhláška č. 410/2009 Sb. (závazné syntetické, případně analytické a podrozvahové účty pro potřeby CSÚIS).
+- *Judikatura:* specifická judikatura k § 14 chybí; v kontrolní i auditorské praxi se rozvrh posuzuje materiálně — rozhodné je, zda soustava účtů umožnila správné zaúčtování všech případů a sestavení účetní závěrky.
+
+**4. Subsumpce.** Povinnost podle odst. 2 trvá po celé období — rozvrh musí obsahovat všechny účty potřebné k zaúčtování všech účetních případů; nové operace (zápůjčka, kurzové rozdíly) takové účty vyžadují. Mlčanlivá prolongace dle odst. 3 platí jen, „pokud nedochází ke změně" — zde změny nastaly, takže rozvrh měl být doplněn. Účtování na účty mimo rozvrh porušuje § 13 odst. 3 i § 14 odst. 2; odst. 3 však průběžné doplňování výslovně dovoluje, vada je tedy zhojitelná.
+
+**5. Řešení.** Neprodleně doplnit účtový rozvrh o skutečně používané účty (s reálným datem doplnění, nikoli antedatovaně), prověřit soulad se směrnou účtovou osnovou vyhlášky č. 500/2002 Sb. a nastavit v ERP blokaci účtování na účty nezařazené do rozvrhu. Materiálně jde o formální pochybení s nízkou sankční relevancí; reálné riziko pokuty (nesprávné účetnictví, § 8 odst. 2 ve spojení s § 37a) vzniká, až pokud soustava účtů neumožní sestavit závěrku nebo zatemní obsah operací.
+
+**6. Varianty.** (i) U účetní jednotky ve zjednodušeném rozsahu postačí rozvrh na úrovni účtových skupin (§ 13a odst. 1 písm. a) — založení nového syntetického účtu by změnu rozvrhu nevyžadovalo, spadá-li do již uvedené skupiny. (ii) Vybraná účetní jednotka (obec, příspěvková organizace) se od závazného číselníku vyhlášky č. 410/2009 Sb. odchýlit nesmí ani v předepsané analytice — táž vada by tam znamenala chybné výkazy do CSÚIS, tedy podstatně závažnější následek.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka bezformálnosti:** rozvrh je interní pomůcka bez předepsané formy, jeho „nesestavení" nelze sankcionovat. *Neutralizace:* povinnost sestavení je výslovná (odst. 2); formální volnost znamená jen to, že rozvrhem může být i datovaná sestava účtů z ERP — musí však existovat, být přiřaditelná k účetnímu období a odpovídat skutečně používaným účtům.
+- **Námitka retroaktivity:** dodatečné doplnění rozvrhu v průběhu období je nepřípustnou zpětnou změnou. *Neutralizace:* odst. 3 průběžné doplňování výslovně připouští; nepřípustné je pouze zpětné rušení či přeskupování účtů, které by měnilo obsah již provedených zápisů.
+- **Slabé místo:** zákon neřeší rušení účtů v průběhu období ani kolizi rozvrhu s automaticky zakládanými účty ERP; zákaz zásahů se zpětnou účinností se dovozuje z odst. 3 jen argumentem a contrario.
+
+#### H. Praktický závěr
+
+§ 14 funguje dvoustupňově: směrná účtová osnova (příloha vyhlášky) je závazný rámec, účtový rozvrh jeho individuální provedení. Rozvrh sestavujte (či dokumentovaně prolongujte) ke každému prvnímu dni účetního období, průběžně jej doplňujte o nově potřebné účty a zajistěte technicky, aby se mimo něj nedalo účtovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] K prvnímu dni účetního období potvrdit platnost rozvrhu, nebo vydat nový (dokumentovaná prolongace).
+- [ ] Každé doplnění účtu datovat a schválit osobou odpovědnou dle vnitřní směrnice.
+- [ ] Ověřit soulad rozvrhu se směrnou účtovou osnovou příslušné vyhlášky (č. 500/2002, 504/2002, 410/2009 Sb.).
+- [ ] Nastavit v ERP kontrolu zákazu účtování na účty mimo rozvrh (§ 13 odst. 3).
+- [ ] U zjednodušeného rozsahu zvážit rozvrh na úrovni skupin, nevyžaduje-li zvláštní předpis podrobnější členění.
+
+**Typicky rozhodné důkazy / podklady:** účtový rozvrh s daty vydání a změn, vnitřní účetní směrnice, sestava skutečně použitých účtů z ERP, směrná účtová osnova (příloha vyhlášky), obratová předvaha.
+
 ---
 
 ### § 16 — Ostatní ustanovení o účetních knihách
@@ -531,6 +790,43 @@ Odstavec 2 doplňuje pravidlo, že analytické účty **musejí** obsahovat pen�
 Tato zásada navazuje na § 4 odst. 12 ZoÚ (povinnost oceňovat majetek a závazky v peněžních jednotkách české měny) a na § 7 odst. 1 ZoÚ (věrný a poctivý obraz). Lze přirozeně vést **kombinovanou evidenci** (peněžní + naturální), avšak naturální vyjádření samo o sobě nestačí.
 
 Praktický dopad: Skladová karta zásob musí zachycovat jak množství (kusy, kg), tak i peněžní ocenění (cena skladu). Pouhá evidence množství bez ceny by nesplňovala § 16 odst. 2 a porušovala by § 4 odst. 12 ZoÚ.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Velkoobchodní s.r.o. účtuje zásoby způsobem B; skladová evidence je vedena pouze v kusech a peněžní ocenění se přiřazuje až k 31. 12. globálním přepočtem průměrnou nákupní cenou. Kniha analytických účtů k účtu 311 (saldokonto odběratelů) vykazuje o 250 000 Kč méně, než činí zůstatek syntetického účtu 311 v hlavní knize; rozdíl tvoří neidentifikované přijaté platby evidované „na hromadě" mimo saldokonto. Finanční úřad při kontrole zpochybní průkaznost stavu zásob a pohledávek; auditor požaduje vysvětlení rozdílu.
+
+**2. Právní otázka.** Vyhovuje skladová evidence vedená jen v měrných jednotkách požadavku § 16 odst. 2 ZoÚ a je trvalý nesoulad mezi knihou analytických účtů a syntetickým účtem porušením § 16 odst. 1 ZoÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 ZoÚ — shoda analytiky se syntetikou u obratů i zůstatků (odst. 1), povinné peněžní vyjádření v knihách analytických účtů (odst. 2).
+- *Související ustanovení téhož zákona:* § 13 odst. 1 písm. c) (knihy analytických účtů), § 4 odst. 12 (oceňování v peněžních jednotkách), § 8 odst. 1 a 4 (správnost, průkaznost), § 25 (oceňovací metody zásob), § 29–30 (inventarizace), § 35 (opravy), § 12 odst. 3 (zápisy jen v knihách).
+- *Související předpisy:* Český účetní standard č. 015 (zásoby — požadavky na skladovou evidenci zejména při způsobu B), vyhláška č. 500/2002 Sb.; § 92 a § 98 daňového řádu (důkazní břemeno, pomůcky).
+- *Judikatura:* NSS opakovaně potvrdil, že při účtování zásob způsobem B je průkazná skladová evidence (v množství i v ocenění) nezbytnou podmínkou prokázání konečného stavu zásob a výše spotřeby; její absence zakládá důvodné pochybnosti správce daně a může vést ke stanovení daně podle pomůcek.
+
+**4. Subsumpce.** Odstavec 2: evidence vedená jen v kusech bez peněžního vyjádření je výslovně nedostatečná („nelze použít jen měrných jednotek a vyjádření množství"); jednorázový roční globální dopočet není vedením analytické knihy v peněžních jednotkách, nýbrž dodatečnou kalkulací. Odstavec 1: shoda se vyžaduje u obratů i zůstatků, tedy průběžně — rozdíl 250 000 Kč je porušením a indikátorem chyby či manipulace. Neidentifikované platby evidované mimo saldokonto navíc kolidují s požadavkem, aby zápisy probíhaly v účetních knihách (§ 12 odst. 3).
+
+**5. Řešení.** Zavést skladové karty s množstvím i oceněním (metoda váženého průměru či FIFO dle § 25), měsíčně odsouhlasovat saldokonto na syntetiku, rozklíčovat neidentifikované platby (samostatný analytický účet, párování, oprava dle § 35) a provázat dokladovou inventarizaci pohledávek s analytikou. Bez nápravy: neprůkazné účetnictví (přestupek dle § 37a ZoÚ, pokuta až 3 % hodnoty aktiv), riziko doměrku podle pomůcek a modifikace auditorského výroku.
+
+**6. Varianty.** (i) Při účtování zásob způsobem A s průběžným zaúčtováním na účty zásob by skladová evidence v ceně byla integrální součástí analytiky — vada dle odst. 2 by nevznikla, riziko by se omezilo na inventarizační rozdíly. (ii) Účetní jednotka ve zjednodušeném rozsahu, která knihy analytických účtů podle § 13a odst. 2 nevede, § 16 neporušuje — průkaznost stavů však musí zajistit jinak (zejména inventarizací).
+
+#### G. Protiargumenty a rizika
+
+- **Námitka roční shody:** zákon nestanoví frekvenci odsouhlasení, postačí shoda k rozvahovému dni. *Neutralizace:* odst. 1 výslovně míří na obraty i zůstatky, tedy na průběžný stav; shoda jen k jedinému dni vylučuje kontrolní funkci ustanovení; auditorská i kontrolní praxe vyžaduje odsouhlasení alespoň měsíční.
+- **Námitka tolerance:** drobné rozdíly jsou při hromadném zpracování dat nevyhnutelné a obvyklé. *Neutralizace:* zákon žádnou toleranci nezná; rozdíl je nutno identifikovat, vysvětlit a opravit — akceptovat lze pouze dočasné časové posuny ve zpracování, nikoli trvalý neodsouhlasený rozdíl.
+- **Slabé místo:** § 16 sám sankci nestanoví; vynutitelnost se opírá o kvalifikaci nesouladu jako nesprávného a neprůkazného účetnictví (§ 8) s navazujícím přestupkem dle § 37a, což vyžaduje argumentační mezikrok.
+
+#### H. Praktický závěr
+
+§ 16 je vestavěný kontrolní mechanismus podvojného účetnictví: analytika musí v penězích souhlasit se syntetikou průběžně (obraty i zůstatky) a nikdy nesmí být vedena jen v naturálních jednotkách. Odsouhlasování analytiky na syntetiku zařaďte do měsíční uzávěrky a na analytické evidence navažte inventarizaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Měsíčně odsouhlasit zůstatky a obraty knih analytických účtů na syntetické účty (saldokonto, sklad, majetek, mzdy).
+- [ ] Vést analytiku vždy i v peněžním vyjádření; měrné jednotky jen jako doplněk.
+- [ ] Neidentifikované platby evidovat na samostatném analytickém účtu a průběžně párovat.
+- [ ] Inventurní soupisy vázat na položky analytických evidencí (§ 29–30).
+- [ ] Při způsobu B u zásob udržovat průkaznou skladovou evidenci v množství i ceně po celé období.
+
+**Typicky rozhodné důkazy / podklady:** saldokonto a obratová předvaha, skladové karty, inventurní soupisy, bankovní výpisy k neidentifikovaným platbám, vnitřní směrnice o oceňovací metodě zásob.
 
 ---
 
@@ -667,3 +963,40 @@ Typická situace: Při vstupu do likvidace je nutná mimořádná závěrka ke d
 #### Aplikace na neobchodní korporace (odst. 9)
 
 Odstavec 9 rozšiřuje pravidla odst. 3–8 na účetní jednotky, které **nejsou obchodními korporacemi**, avšak při přeměnách postupují dle zvláštního předpisu (typicky zákon č. 3/2002 Sb. — registrace církví, zákon č. 89/2012 Sb., občanský zákoník — přeměny spolků). Použití je **přiměřené** (obdobné), nikoli doslovné — musí respektovat specifika daného zvláštního předpisu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Fúze sloučením: zanikající společnost B s.r.o. se slučuje s nástupnickou A s.r.o.; projekt fúze stanoví rozhodný den 1. 1. 2026, fúze je zapsána do obchodního rejstříku 15. 9. 2026. Obě společnosti mají účetní období shodné s kalendářním rokem. Účtárny řeší: kdy uzavřít knihy společnosti B, kdo a k jakému dni sestavuje jaké výkazy, jak naložit s účetnictvím B mezi 1. 1. a 15. 9. 2026 a zda se cokoli sestavuje ke dni zápisu fúze.
+
+**2. Právní otázka.** Ke kterým dnům zúčastněné účetní jednotky uzavírají a otevírají účetní knihy při fúzi s rozhodným dnem odlišným ode dne zápisu do obchodního rejstříku a sestavuje se účetní závěrka ke dni zápisu přeměny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 ZoÚ, zejména odst. 3 (otevření knih k rozhodnému dni, samostatné vedení do zápisu, zákaz závěrky ke dni zápisu), odst. 6 (splývá-li rozhodný den se dnem zápisu) a odst. 7 (finalita po schválení závěrky).
+- *Související ustanovení téhož zákona:* § 17 odst. 1 písm. j) a odst. 2 písm. j) (okamžiky dle zvláštního předpisu), § 18 a § 19 (účetní závěrka, rozvahový den), § 17 odst. 8 (přednost řádné/mimořádné závěrky před mezitímní).
+- *Související předpisy:* zákon č. 125/2008 Sb., o přeměnách obchodních společností a družstev (rozhodný den, který nesmí předcházet podání návrhu na zápis o více než 12 měsíců; konečná účetní závěrka ke dni předcházejícímu rozhodný den; zahajovací rozvaha k rozhodnému dni), zákon č. 182/2006 Sb., insolvenční zákon (okamžiky dle odst. 1 a 2 písm. e–i), zákon č. 304/2013 Sb. (zápis do obchodního rejstříku).
+- *Judikatura:* NS i NSS zdůrazňují, že od rozhodného dne se jednání zanikající společnosti považují z účetního hlediska za jednání na účet nástupnické společnosti, avšak tyto účinky nastávají definitivně až zápisem přeměny do obchodního rejstříku — do té doby jsou podmíněné; proto musí být účetnictví zúčastněných jednotek do zápisu kdykoli oddělitelné.
+
+**4. Subsumpce.** Společnost B uzavře účetní knihy k 31. 12. 2025 (den předcházející rozhodnému dni, zde splývající s posledním dnem účetního období) a sestaví konečnou účetní závěrku; A i B otevřou knihy k 1. 1. 2026 (rozhodný den) a od tohoto dne vedou účetnictví samostatně až do 15. 9. 2026; nástupnická A sestaví k rozhodnému dni zahajovací rozvahu. Ke dni zápisu, ke dni předcházejícímu ani následujícímu se účetní závěrka nesestavuje (odst. 3 věta třetí). Po zápisu A převezme účetní zápisy B s účinky od rozhodného dne v souladu s metodou přeměny. Pravidlo odst. 3 věty čtvrté (zanikající jednotka nesestavuje závěrku k poslednímu dni období po rozhodném dni) se neuplatní, neboť zápis proběhl v témže účetním období.
+
+**5. Řešení.** Postupovat podle subsumpce; prakticky: v projektu fúze synchronizovat rozhodný den s počátkem účetního období, hlídat dvanáctiměsíční limit mezi rozhodným dnem a podáním návrhu na zápis, od rozhodného dne vést oddělené účetní okruhy zúčastněných jednotek a po zápisu provést jejich spojení od rozhodného dne. Nebude-li fúze nakonec zapsána, samostatně vedené účetnictví B pokračuje standardně a závěrky se sestaví běžným způsobem — právě proto zákon ukládá oddělené vedení.
+
+**6. Varianty.** (i) Je-li rozhodný den shodný se dnem zápisu (odst. 6), režim odst. 3–5 se nepoužije: zúčastněné jednotky uzavřou knihy ke dni předcházejícímu rozhodný den a k rozhodnému dni otevírají knihy jen nástupnická a rozdělovaná jednotka. (ii) Zjistí-li A po zápisu chybu v již schválené závěrce za rok 2025, knihy znovu otevřít nelze (odst. 7) — oprava se provede v běžném období (významné chyby minulých let rozvahově přes položku „Jiný výsledek hospodaření minulých let" dle vyhlášky č. 500/2002 Sb.); není-li závěrka dosud schválena, lze do konce následujícího účetního období knihy znovu otevřít a sestavit novou závěrku.
+
+#### G. Protiargumenty a rizika
+
+- **Námitka prolomení finality:** znovuotevření knih dle odst. 7 by mělo být možné i po schválení závěrky, jde-li o významnou chybu zkreslující věrný obraz. *Neutralizace:* text je jednoznačný — po schválení platí absolutní zákaz (výjimkou jen přeměny dle odst. 3); věrný obraz se obnovuje prospektivní opravou v běžném období; opačný výklad by ohrozil právní jistotu třetích osob spoléhajících na zveřejněnou závěrku.
+- **Námitka podmíněnosti rozhodného dne:** vedení účetnictví „na účet nástupníka" mezi rozhodným dnem a zápisem je fikce, která se při nezapsání přeměny zpětně hroutí. *Neutralizace:* zákon na to pamatuje právě příkazem samostatného vedení účetnictví každé zúčastněné jednotky do dne zápisu — stavy jsou kdykoli oddělitelné a při neúspěchu přeměny se nic nerekonstruuje.
+- **Slabé místo:** hustá síť křížových odkazů (insolvenční zákon, zákon o přeměnách, zvláštní předpisy dle odst. 1 písm. j) zvyšuje riziko záměny dnů; typickou chybou praxe je uzavření knih ke dni vstupu do likvidace namísto ke dni, který mu předchází (odst. 2 písm. c), s následnou vadou mimořádné závěrky.
+
+#### H. Praktický závěr
+
+§ 17 čtěte jako uzavřený katalog okamžiků: nejprve identifikujte životní situaci jednotky (běžné období, likvidace, insolvence, přeměna), poté přiřaďte příslušné písmeno odst. 1 a 2 — s důrazem na rozlišení dnů „předcházejících" a „následujících" — a nakonec zkontrolujte navazující povinnost sestavit závěrku či zahajovací rozvahu. U přeměn platí zvláštní režim odst. 3–6 a pamatujte na dvoustupňovou finalitu odst. 7.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Určit správný okamžik otevření/uzavření knih dle odst. 1 a 2 (pozor na dny „předcházející" a „následující" rozhodným událostem).
+- [ ] U přeměn: rozhodný den dle projektu, konečná závěrka ke dni předcházejícímu, zahajovací rozvaha k rozhodnému dni, žádná závěrka ke dni zápisu.
+- [ ] Od rozhodného dne do zápisu vést účetnictví zúčastněných jednotek samostatně a oddělitelně.
+- [ ] Před jakoukoli opravou závěrky ověřit, zda již byla schválena (odst. 7) a zda neuplynulo následující účetní období.
+- [ ] Při souběhu řádné/mimořádné a mezitímní závěrky mezitímní nesestavovat (odst. 8); u neobchodních korporací použít odst. 3–8 obdobně (odst. 9).
+
+**Typicky rozhodné důkazy / podklady:** projekt přeměny (rozhodný den), výpis z obchodního rejstříku (den zápisu), konečná účetní závěrka a zahajovací rozvaha, zápis valné hromady o schválení účetní závěrky, usnesení insolvenčního soudu či rozhodnutí o vstupu do likvidace, účetní knihy zúčastněných jednotek za období od rozhodného dne.
