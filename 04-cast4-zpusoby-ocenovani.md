@@ -474,6 +474,15 @@ Vzniklé **kurzové rozdíly** (kladné = kurzové zisky, záporné = kurzové z
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [59 Af 3/2022 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715390) — kat. B, 25. 9. 2023
+  > „Ustanovení zákona o daních z příjmů [§ 29 odst. 1 písm. c) zákona č. 586/1992 Sb., o daních z příjmů, ve znění k 1. 1. 1993] a zákona o účetnictví [§ 25 odst. 4 písm. b) zákona č. 563/1991 Sb., o účetnictví, ve znění k 1. 1. 1993] o reprodukční pořizovací ceně je třeba vykládat tak, že pomocí nich byla určena co možná nejpřesněji taková cena (částka vyjádřená v penězích), za niž by poplatník v daném místě a v dané době pořídil hmotný majetek o stejných rozhodných vlastnostech, jaký měl v oné době on sám. Reprodukční pořizovací cena tedy odpovídá ceně, za kterou by si poplatník svůj vlastní hmotný majetek mohl ve stavu, v němž se tento majetek tehdy nacházel, pořídit za stavu trhu s daným hmotným majetkem (nemovitostmi) v rozhodné době, tedy obecné ceně tohoto majetku v rozhodné době"
+- *NSS* [4 Afs 178/2022 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/722250) — kat. B, 13. 6. 2024
+  > „NSS již ve věci Správa pohledávek OKD … uvedl, že účetní předpisy blíže neozřejmují pojem ‚souvislost‘ předpokládaný § 25 odst. 5 písm. a) zákona o účetnictví. Výkladem uvedeného ustanovení nelze dospět k jinému závěru než, že mezi vynaložením nákladů a pořízením hmotného majetku musí existovat přímá příčinná souvislost. Tato souvislost přitom musí být jednoznačná"
+- *NSS* [9 Afs 191/2014 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/633474) — kat. B, 15. 1. 2015
+  > „Podle § 25 odst. 1 písm. k) zákona č. 563/1991 Sb., o účetnictví, … se majetek v případech bezúplatného … nabytí ocení reprodukční pořizovací cenou, kterou je třeba ve smyslu § 25 odst. 4 písm. b) uvedeného zákona rozumět cenu, za kterou by byl majetek pořízen v době, kdy se o něm účtuje"
+
 #### Přehled oceňovacích základen
 
 § 25 je ústředním ustanovením o historickém oceňování — upravuje, jakou oceňovací základnu použít k okamžiku uskutečnění účetního případu (§ 24 odst. 2 písm. a)). Zákon zavádí čtyři základní oceňovací základny:
@@ -566,6 +575,13 @@ Odst. 3 obsahuje zákonný výraz **zásady opatrnosti** (prudence principle), j
 > *(4) Účetní jednotky, které nejsou založeny nebo zřízeny za účelem podnikání, uplatňují ustanovení odstavců 1 až 3 v souladu s účetními metodami.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 Af 50/2024 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/743793) — kat. B, 30. 6. 2025
+  > „Rezervy se účtují na vrub nákladů, čímž dochází ke snížení výsledku hospodaření běžného účetního období ve prospěch budoucích účetních období, ve kterých dojde k očekávanému zvýšení nákladů a rozpuštění rezervy na jejich uhrazení (§ 26 odst. 3 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, ve spojení s § 57 vyhlášky č. 500/2002 Sb.)"
+- *NSS* [5 Afs 72/2008 - 71](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/615949) — kat. B, 23. 7. 2009
+  > „… [§ 26 odst. 1 zákona o účetnictví] stanoví, že „pokud se při inventarizaci zásob zjistí, že jejich prodejní cena snížená o náklady spojené s prodejem je nižší, než cena použitá pro jejich ocenění v účetnictví, zásoby se ocení v účetnictví a v účetní závěrce touto nižší cenou“. Ze samotného tohoto ustanovení tedy nevyplývá, že by neprodejné či neupotřebitelné výrobky měly být oceňovány reprodukční cenou …"
 
 #### Zásoby pod prodejní cenou — pravidlo nižší hodnoty (odst. 1)
 
@@ -813,6 +829,13 @@ Mikro účetní jednotky (nejmenší kategorie dle § 1b ZoÚ) jsou od oceňová
 > *(6) Účetní jednotky uvedené v odstavci 1 jsou povinny sestavovat odpisový plán, na jehož podkladě provádějí odpisování majetku v průběhu jeho používání. Uvedený majetek se odpisuje jen do výše jeho ocenění v účetnictví.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Afs 111/2009 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/618165) — kat. B, 21. 4. 2010
+  > „Zásada upřednostnění ekonomické podstaty před stavem právním je v podstatě vyjádřena v § 28 zákona č. 563/1991 Sb., o účetnictví, z něhož plyne, že účetní jednotky účtují i o majetku, k němuž nemají vlastnické právo"
+- *NSS* [9 Afs 307/2017 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646028) — kat. B, 18. 4. 2018
+  > „Soubor movitých věcí se zařazuje do odpisové skupiny podle hlavního funkčního předmětu a odpisuje jako jeden celek, a to i v případě, že je sestaven z movitých věcí, u kterých je od počátku známo jejich ocenění [§ 28 zákona č. 563/1991 Sb., o účetnictví, … ve spojení s § 56 odst. 2 písm. e) vyhlášky č. 500/2002 Sb. …]"
 
 #### Kdo je způsobilým odpisovatelem (odst. 1–4)
 

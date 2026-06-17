@@ -572,6 +572,11 @@ Výroční zprávu vyhotovuje každá ÚJ s povinným auditem (mimo situace § 2
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 2535/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-2535-12_2) — usnesení, 27. 8. 2013
+  > „Povinnost společnosti založit požadované listiny do Sbírky listin je uložena přímo zákonem a nepřísluší jí jako podnikateli, aby si vyhodnocovala, zda jejich uložení ji může nějakým způsobem ohrozit. … Jestliže společnost je v obchodním rejstříku zapsána, musí povinnosti, které jsou jí zákonem uloženy, beze zbytku splnit, jinak jí hrozí sankce"
+
 #### Okruh povinně zveřejňujících ÚJ (odst. 1)
 
 Povinnost zveřejnit závěrku a výroční zprávu mají:

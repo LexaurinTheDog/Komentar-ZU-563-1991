@@ -20,6 +20,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [22 Af 79/2016 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/463623) — 13. 2. 2018
+  > „Podle § 29 odst. 1 zákona č. 563/1991 Sb., o účetnictví, účetní jednotky inventarizací zjišťují skutečný stav veškerého majetku a závazků a ověřují, zda zjištěný skutečný stav odpovídá stavu majetku a závazků v účetnictví … Z uvedeného vyplývá, že způsob účtování zásob A je spojen s průběžnou inventarizací a současně je zde povinnost k rozvahovému dni provést řádnou inventarizaci podle § 29 zákona o účetnictví a vypořádat případné inventarizační rozdíly. Žalobce tak byl povinen vést průběžně takovou evidenci zásob, kterou by byl schopen průkazným způsobem doložit pořízení zásob (nákup materiálu a zboží) a vyskladnění těchto zásob (spotřeba materiálu, prodej zboží) včetně zaúčtování inventarizačních rozdílů a prokázání nevyskladněných zásob, tedy prokázání skutečného stavu zásob na skladě ke dni účetní závěrky. Nepředložil-li žalobce správci daně úplnou evidenci zásob … a neprovedl-li současně inventarizaci, neprokázal skutečně spotřebovaný materiál"
+
 #### Funkce inventarizace v systému účetnictví — vazba na věrný obraz
 
 Inventarizace není izolovanou administrativní povinností, nýbrž **strukturální zárukou věrného a poctivého zobrazení** účetnictví ve smyslu [01-cast1-obecna-ustanoveni.md](01-cast1-obecna-ustanoveni.md). Zákon v odst. 1 ukládá účetní jednotce plnit inventarizací hned dvě funkce:
@@ -280,6 +285,11 @@ Zákon výslovně rozšiřuje inventarizační povinnost i na položky zachycen�
 > *(4) V případech, které nejsou uvedeny v odstavci 3, je povinna účetní jednotka podle § 1 odst. 2 písm. a) a c) před svým zánikem a účetní jednotka podle § 1 odst. 2 písm. b), d) až l) před zánikem povinnosti vést účetnictví zajistit povinnosti spojené s uschováním účetních záznamů a o způsobu tohoto zajištění prokazatelně informovat státní archiv.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 Af 41/2014 - 52](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/529596) — 30. 8. 2016
+  > „Měl-li daňový subjekt jako účetní jednotka zákonem stanovenou povinnost uschovat účetní doklady po dobu pěti let následujících po daném účetním období a zajistit jejich ochranu (§ 31, § 33 zákona č. 563/1991 Sb., o účetnictví), pak neměl-li doklady ve své dispozici, a nemohl je proto správci daně předložit, jedná se o porušení jeho povinností zákonem stanovených, a tedy o jeho zaviněné jednání. Skutečnost, že daňový subjekt nevěděl, kde se doklady po tuto dobu nacházely, rovněž nelze podřadit pod zákonnou podmínku … že je nemohl v řízení uplatnit bez svého zavinění"
 
 #### Systematika úschovní povinnosti
 

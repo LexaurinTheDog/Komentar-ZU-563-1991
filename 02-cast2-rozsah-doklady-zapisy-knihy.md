@@ -159,6 +159,13 @@ V obou případech platí **zásada účetního období**: změnu lze provést *
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 664/04](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-664-04) — nález, 18. 4. 2006
+  > „I když je prokazování daňových nákladů prvotně záležitostí dokladovou, současně je však třeba respektovat soulad skutečného stavu se stavem formálně právním, a nelze tedy automaticky vyloučit, že průkaznost vynaložených výdajů lze osvědčit i jiným způsobem než účetním dokladem splňujícím veškeré náležitosti § 11 zákona o účetnictví"
+- *ÚS* [IV.ÚS 48/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-48-05) — nález, 6. 12. 2006
+  > „Ústavní soud si uvědomuje, že prokazování daňových nákladů je prvotně záležitostí dokladovou, současně je však třeba respektovat potřebu souladu skutečného stavu se stavem formálně právním, proto nelze bez dalšího vyloučit, že průkaznost vynaložených výdajů lze osvědčit také jiným způsobem, než jen účetním dokladem splňujícím veškeré náležitosti § 11 zákona o účetnictví"
+
 #### Pojem účetního dokladu a jeho místo v systému účetních záznamů
 
 Zákon č. 563/1991 Sb. pracuje s pojmem **účetní záznam** jako nadřazeným pojmem pro jakýkoli nosič informace zachycený pro účetní účely (§ 33 ZoÚ). Účetní doklad je **zvláštním druhem účetního záznamu** s tím, že musí splňovat zákonem stanovené náležitosti — jde tedy o průkazný účetní záznam ve smyslu § 33a odst. 3 ZoÚ.

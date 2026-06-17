@@ -160,6 +160,11 @@ Odstavec 5 zakládá fiktivní rovnost: státy Evropského hospodářského pros
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [18 A 13/2024 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738361) — 11. 12. 2024
+  > „Nutnost přísnější kontroly auditorů provádějících audity u SVZ oproti ostatním auditorům plyne ze skutečnosti, že v případě auditů SVZ se na kvalitu práce auditorů spoléhá široká skupina osob a institucí s ohledem na vyšší míru důležitosti těchto subjektů z hospodářského hlediska (srov. bod 23 preambule směrnice 2006/43/ES) a také ze snahy uvedeným způsobem zabezpečit ochranu spotřebitelů a investorů (srov. bod 5 preambule nařízení č. 537/2014)"
+
 #### Pojem a funkce kategorie „subjekt veřejného zájmu"
 
 Kategorie **subjektu veřejného zájmu** (dále „SVZ") je transponována ze Směrnice 2013/34/EU a z Nařízení EU č. 537/2014 o specifických požadavcích na statutární audit subjektů veřejného zájmu. SVZ jsou charakterizovány tím, že jejich selhání nebo nepřesné účetní výkaznictví by mohlo ohrozit širší okruh osob — investory, věřitele, pojistníky, pojištěnce, střadatele nebo veřejné finance — a proto na ně zákon klade zvýšené požadavky.
@@ -431,7 +436,7 @@ Kategorii skupiny posuzujte na konsolidovaném základě testem „2 ze 3" se sh
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 100/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F8DD4E0BB259A4FC1258636001DCCA2?openDocument) — 30. 9. 2020, kat. A
+- *NS* [29 NSCR 100/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/8F8DD4E0BB259A4FC1258636001DCCA2?openDocument) — kat. A, 30. 9. 2020
   > „Zvláštním právním předpisem ve smyslu ustanovení § 316 odst. 4 insolvenčního zákona se rozumí zákon č. 563/1991 Sb., o účetnictví. Jestliže poslední účetní období předcházející insolvenčnímu návrhu bylo u dlužníka delší 1 roku, postupuje insolvenční soud při zkoumání přípustnosti reorganizace pro účely určení celkového ročního úhrnu čistého obratu dlužníka podle ustanovení § 1d odst. 2 zákona o účetnictví"
 
 #### Aktiva celkem (odst. 1)
@@ -666,6 +671,11 @@ Jednoduché účetnictví je výsadou úzkého okruhu neziskových právnických
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 Af 80/2014 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/541599) — 30. 10. 2015
+  > „O tomto nefinanční závazku však nelze účtovat, neboť se stejně jako v případě přijetí závazné objednávky nejedná o skutečnost, která je předmětem účetnictví ve smyslu ust. § 2 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů (dále jen „zákon o účetnictví“)., o které je účetní jednotka povinna účtovat"
+
 #### Podvojné účetnictví — předmět a princip (odst. 1)
 
 Zákon vymezuje předmět podvojného účetnictví ve čtyřech okruzích: **(i) stav a pohyb majetku a jiných aktiv**, **(ii) závazky včetně dluhů a jiná pasiva**, **(iii) náklady a výnosy** a **(iv) výsledek hospodaření**. Tyto čtyři okruhy odpovídají struktuře účetní závěrky: rozvaze (aktiva, pasiva), výkazu zisku a ztráty (náklady, výnosy) a výsledku hospodaření jako matematické diferenci výnosů a nákladů.
@@ -756,8 +766,12 @@ Předmětem jednoduchého účetnictví jsou jen **výdaje a příjmy** (hotovos
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [29 NSCR 2/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5D70BA69DFC2787C12589650041BC6B?openDocument) — 22. 12. 2022, kat. A
+- *NS* [29 NSCR 2/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D5D70BA69DFC2787C12589650041BC6B?openDocument) — kat. A, 22. 12. 2022
   > „Účetním obdobím předchozího roku trvání reorganizace podle ustanovení § 2 písm. b/ vyhlášky č. 313/2007 Sb. (ve znění pozdějších předpisů) se rozumí jen to účetní období, ve kterém dlužník účtoval podle zákona o účetnictví v roce předcházejícím době započetí „následujícího roku“ trvání reorganizace"
+- *NSS* [59 Af 3/2018 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/451486) — 11. 10. 2018
+  > „Dohadné pasivní položky jsou výrazem akruálního principu, podle něhož účetní jednotky v souladu s § 3 odst. 1 zákona č. 563/1991 Sb., o účetnictví, účtují o skutečnostech, které jsou předmětem účetnictví, do období, s nímž tyto skutečnosti věcně a časově souvisejí; není-li možné tuto zásadu dodržet, mohou účtovat i v účetním období, v němž zjistily uvedené skutečnosti"
+- *NSS* [6 Afs 97/2018 - 24](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646645) — 14. 6. 2018
+  > „Nejvyšší správní soud v tomto směru upozorňuje na tzv. akruální princip ovládající účetnictví (srov. § 3 odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů), dle něhož se o nákladech a výnosech účtuje v tom účetním období, se kterým věcně a časově souvisejí, a to bez ohledu na skutečnost, kdy došlo k platbě, resp. pohybu souvisejících peněžních prostředků"
 
 #### Akruální princip — časová a věcná souvislost (odst. 1)
 
@@ -1076,6 +1090,11 @@ U bezsubjektních útvarů (svěřenské, penzijní a investiční fondy) zákon
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [62 Af 120/2016 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/445696) — 16. 1. 2019
+  > „odpovědnost za vedení účetnictví má ze zákona účetní jednotka, a ani skutečnost, že pověří vedením účetnictví jinou osobu, ji této odpovědnosti nezbavuje. Okolnosti týkající se zpracování jeho účetnictví a role jeho účetní proto nezbavují žalobce odpovědnosti za řádně vedené účetnictví"
+
 #### Externalización účetnictví — právní základ a meze
 
 § 5 zakotvuje smluvní volnost: účetní jednotka může pověřit vedením svého účetnictví **externího poskytovatele** (účetní firmu, auditorskou kancelář, individuálního účetního). Toto pověření nemá zvláštní formu — jde o soukromoprávní smlouvu (typicky mandátní nebo smlouva o dílo dle OZ), jejíž náležitosti zákon nestanoví.
@@ -1219,6 +1238,11 @@ Outsourcing účetnictví je legální a běžný, nikdy však nepřenáší odp
 > *(6) Účetní jednotky jsou povinny účtovat o aktivech a pasivech, jakož i o finančních prostředcích státního rozpočtu a finančních prostředcích rozpočtů územních samosprávných celků, nákladech a výnosech v účetních knihách a zobrazovat je v účetní závěrce samostatně bez jejich vzájemného zúčtování. Účetní jednotky mohou provádět vzájemné zúčtování jen v případech upravených účetními metodami a jsou-li zúčtovávané částky, ve výši ocenění neupraveném o položky podle § 26 odst. 3, uvedeny v příloze v účetní závěrce.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [IV.ÚS 137/05](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-137-05) — nález, 22. 3. 2006
+  > „To, co obžaloba bez jakýchkoli pochyb označila jako doklad trestného počínání stěžovatele, mohlo být stejně dobře snahou stěžovatele promítnout reálný stav hospodaření záložny do účetnictví, jak to ostatně vyplývá ze zásady věrného a poctivého účetnictví (§ 7 odst. 1 zákona č. 563/1991 Sb., o účetnictví, v platném znění, resp. pravidlo „true and fair view“ mezinárodních účetních standardů IAS či EU GAAP)"
 
 #### Věrný a poctivý obraz jako nejvyšší princip (odst. 1)
 

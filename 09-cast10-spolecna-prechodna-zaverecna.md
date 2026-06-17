@@ -34,6 +34,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 52/2012 - 141](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/545766) — 10. 2. 2015
+  > „Rovněž exaktní účetní záznamy podléhají právní ochraně dle § 33 odst. 9 zákona č. 563/1991 Sb., o účetnictví. […] důvodem pro neposkytnutí informace není ustanovení § 33 odst. 9 zákona o účetnictví, které stanoví pouze povinnost účetní jednotky uchovávat účetní záznamy"
+- *NSS* [29 Af 42/2014 - 51](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/529595) — 30. 8. 2016
+  > „Měl-li daňový subjekt jako účetní jednotka zákonem stanovenou povinnost uschovat účetní doklady po dobu pěti let následujících po daném účetním období a zajistit jejich ochranu (§ 31, § 33 zákona č. 563/1991 Sb., o účetnictví), pak neměl-li doklady ve své dispozici, a nemohl je proto správci daně předložit, jedná se o porušení jeho povinností zákonem stanovených, a tedy o jeho zaviněné jednání"
+
 #### Pojem účetního záznamu — obsah a forma
 
 Zákon v § 4 odst. 10 definuje pojem „účetní záznam" jako jakýkoliv nosič účetní informace sloužící k vedení účetnictví. § 33 odst. 1 tuto definici rozvíjí zavedením dvou analytických kategorií: **obsah** (samotná informace) a **forma** (způsob jejího zaznamenání). Toto rozlišení má zásadní praktický význam — obsah musí být vždy shodný (přesný, průkazný, neměnný), zatímco forma může být různá a může se měnit převodem.
@@ -318,6 +325,11 @@ Průkazné účetní záznamy lze přenášet jen zabezpečeným kanálem (datov
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Af 44/2013 - 46](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/523620) — 24. 2. 2017
+  > „Tyto informace by z opraveného daňového dokladu měly vždy zřetelně vyplývat, jak stanoví § 35 zákona č. 563/1991 Sb., o účetnictví, ve znění rozhodném, dle kterého se opravy se musí provádět tak, aby bylo možno určit osobu odpovědnou za provedení každé opravy, okamžik jejího provedení a zjistit jak obsah opravovaného účetního záznamu před opravou, tak jeho obsah po opravě"
+
 #### Zákaz oprav poškozujících kvalitu účetnictví (odst. 1)
 
 Opravy jsou přípustné, ale nesmějí vést k jakékoliv z pěti negativních vlastností: neúplnosti, neprůkaznosti, nesprávnosti, nesrozumitelnosti, nepřehlednosti. Zákon tím vylučuje tzv. přepisování dokladů, škrtání bez auditní stopy, přepisování dat v systému bez záznamu o původní hodnotě apod.
@@ -394,6 +406,13 @@ Opravy provádět výhradně auditovatelně (kdo, kdy, co před a po opravě), v
 > *(3) Z důvodu zvláštního charakteru majetku může ministerstvo vydat pro ozbrojené síly, ozbrojené bezpečnostní sbory a zpravodajské služby zvláštní standardy odchylné od odstavce 1. Tyto standardy a jejich vydání se nezveřejňují.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 Af 16/2022 - 90](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714878) — 12. 9. 2023
+  > „z § 36 odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, plyne, že Český účetní standard sice není přímo závazným právním předpisem, nicméně pokud se od něj hodlá účetní jednotka odchýlit, musí to odůvodnit v příloze účetní závěrky a hlavně musí zajistit věrný a poctivý obraz předmětu účetnictví"
+- *NSS* [31 Af 13/2022 - 74](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714877) — 12. 9. 2023
+  > „z § 36 odst. 1 zákona č. 563/1991 Sb., o účetnictví, ve znění pozdějších předpisů, plyne, že Český účetní standard sice není přímo závazným právním předpisem, nicméně pokud se od něj hodlá účetní jednotka odchýlit, musí to odůvodnit v příloze účetní závěrky a hlavně musí zajistit věrný a poctivý obraz předmětu účetnictví"
 
 #### Právní povaha Českých účetních standardů
 
@@ -494,6 +513,11 @@ Podnikatelské ÚJ mohou ČÚS opustit jen s doloženým zdůvodněním uvedený
 > *- b) 3 % hodnoty aktiv celkem, jde-li o přestupek podle odstavce 1 písm. e) až k).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Afs 128/2004 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/243553) — 21. 7. 2005
+  > „[…] je nutno ustanovení § 37 zákona č. 563/1991 Sb. vykládat tak, že pokutu lze pravomocně uložit do tří let ode dne, kdy k porušení povinnosti došlo, nikoliv tedy že stačí, když je v uvedené prekluzivní lhůtě vydáno nepravomocné správní rozhodnutí. Z dikce i smyslu tohoto zákonného ustanovení je totiž dostatečně zřejmé, že pod „uložením pokuty“ je nutno chápat teprve skutečný, materiální zásah do právní sféry porušitele práva. Ten samozřejmě nastává až nabytím právní moci příslušného rozhodnutí"
 
 #### Osobní rozsah — účetní jednotky, které nejsou podnikateli
 
