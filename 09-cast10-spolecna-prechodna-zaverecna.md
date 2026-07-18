@@ -121,6 +121,74 @@ Záznam může být tvořen více dílčími záznamy (např. faktury složené 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e240240232d8461ceea generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 33 — Účetní záznam
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní záznam podle § 4 odst. 10 musí umožňovat vedení účetnictví podle tohoto zákona. Pro účely tohoto zákona se informace obsažená v účetním záznamu označuje jako obsah účetního záznamu; konkrétní způsob zaznamenání této informace se označuje jako forma účetního záznamu.
+>
+> (2) Účetní záznam může mít listinnou, technickou nebo smíšenou formu. Pro účely tohoto zákona se považuje za
+>
+> - a) listinnou formu účetní záznam provedený na analogový nosič rukopisem, psacím strojem, tiskařskými nebo reprografickými technikami anebo tiskovým výstupním zařízením výpočetní techniky, jehož obsah je pro fyzickou osobu čitelný,
+>
+> - b) technickou formu účetní záznam provedený elektronickým, optickým nebo jiným způsobem nespadajícím pod písmeno a), který umožňuje jeho převedení do formy, v níž je jeho obsah pro fyzickou osobu čitelný,
+>
+> - c) smíšenou formu účetní záznam v listinné formě obsahující též informace v technické formě pro fyzickou osobu nečitelné, který umožňuje jeho převedení do formy, v níž je jeho obsah pro fyzickou osobu čitelný.
+>
+> (3) Účetní jednotka může provést převod účetního záznamu z jedné formy do jiné nové formy. Tímto převodem vzniká nový účetní záznam. V uvedeném případě je účetní jednotka povinna zajistit, že obsah účetního záznamu v nové formě je shodný s obsahem účetního záznamu v původní formě. Splnění uvedené povinnosti se má za prokázané, pokud účetní jednotka předloží účetní záznam v původní i nové formě a jejich obsah je shodný. Splnění této povinnosti však účetní jednotka může prokázat i jiným způsobem, který nezpochybní žádná z osob, které s převedeným záznamem pracují. V případě nezpochybnění průkaznosti převodu účetního záznamu žádnou z osob, které s převedeným záznamem pracují, se u účetních záznamů, které nejsou označeny skartačními znaky pro výběr nebo archiválii podle zvláštního právního předpisu, nevyžaduje předložení účetního záznamu v původní formě a pro záznamy v původní formě neplatí ustanovení [[#§ 31|§ 31]].
+>
+> (4) Účetní záznam v technické nebo smíšené formě, se skartačními znaky „A“ nebo „V“ vzniklý z činnosti účetní jednotky, musí být ve formátu, který zaručí jeho neměnnost a umožní jeho následnou čitelnost pro fyzickou osobu. Pokud tuto podmínku nemůže účetní jednotka zabezpečit, převede takové účetní záznamy do listinné formy odpovídající době jejich vyřízení a opatří je náležitostmi originálu, a to nejpozději před jejich zařazením do výběru archiválií ve skartačním řízení nebo mimo něj; obdobně postupuje při nakládání s účetními záznamy přijatými účetní jednotkou v technické, případně smíšené formě, u účetních záznamů obsahujících uznávaný elektronický podpis včetně průkazného potvrzení v listinné formě o platnosti uznávaného elektronického podpisu v době přijetí účetního záznamu. Účetní jednotka je povinna disponovat účetními záznamy, kterými dokládá formu vedení účetnictví.
+>
+> (5) Jednotlivý účetní záznam může být tvořen několika dílčími účetními záznamy. Všechna ustanovení o účetních záznamech podle tohoto zákona se týkají každého jednotlivého účetního záznamu včetně dílčích účetních záznamů i účetního záznamu vzniklého jejich seskupením.
+>
+> (6) Na všechny formy účetního záznamu se, pokud tento zákon výslovně nestanoví jinak, pohlíží stejně; obsah všech účetních záznamů a jejich změny mají stejné důsledky, jsou-li provedeny v účetních záznamech ve formě podle odstavce 2 písm. b) a c), jako ve formě podle odstavce 2 písm. a).
+>
+> (7) Účetní jednotky mohou vést účetní záznamy i ve formě, ve které je jejich obsah bez dalšího nečitelný; v tomto případě jsou povinny disponovat takovými prostředky, nosiči a vybavením (§ 4 odst. 10), které umožní provést převod účetních záznamů do formy, ve které je jejich obsah pro fyzickou osobu čitelný. Pro potřeby ověřování účetní závěrky auditorem ([[#§ 20|§ 20]]), jejího zveřejňování ([[#§ 21a|§ 21a]]) a pro potřeby orgánů podle § 32 odst. 1 jsou účetní jednotky povinny na požádání umožnit oprávněným osobám seznámit se s obsahem jimi určených účetních záznamů v uvedené formě. Tyto povinnosti mají účetní jednotky po dobu, po kterou jsou povinny vést nebo uschovávat uvedené účetní záznamy. Stanovení těchto povinností na smluvním základě není dotčeno.
+>
+> (8) V řízení ve věcech týkajících se účetnictví nebo vycházejících z účetnictví lze použít k důkazu průkazné účetní záznamy ([[#§ 33a|§ 33a]]), které splňují požadavky tohoto zákona.
+>
+> (9) Účetní jednotky jsou povinny zajistit ochranu účetních záznamů a jejich obsahu, použitých technických prostředků, nosičů informací a programového vybavení před jejich zneužitím, poškozením, zničením, neoprávněnou změnou, ztrátou nebo odcizením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 31, § 20, § 21a, § 32, § 33a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e240240232d8461ceea -->
+
 ### § 33a — Průkaznost účetního záznamu
 
 > **§ 33a**
@@ -244,6 +312,88 @@ Průkaznost je třeba budovat systémově: podpisový řád podle odst. 10, důs
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4a5df1eee3f7a635b5cc generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 33a — Průkaznost účetního záznamu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Podle tohoto zákona se za průkazný účetní záznam považuje pouze
+>
+> - a) účetní záznam, jehož obsah je prokázán přímo porovnáním se skutečností, kterou tento záznam prokazuje,
+>
+> - b) účetní záznam, jehož obsah je prokázán obsahem jiných průkazných účetních záznamů, nebo
+>
+> - c) účetní záznam týkající se výhradně skutečností uvnitř jedné účetní jednotky, k němuž je připojen podpisový záznam osoby oprávněné a odpovědné podle odstavce 10.
+>
+> (2) Zjistí-li účetní jednotka, že obsah účetního záznamu neodpovídá skutečnosti, je povinna od tohoto okamžiku považovat tento účetní záznam za neprůkazný, byť splňuje ustanovení odstavce 1 písm. b) a c).
+>
+> (3) Účetní záznam určený k přenosu musí být podepsán vlastnoručním podpisem nebo uznávaným elektronickým podpisem anebo obdobným průkazným účetním záznamem v technické formě. Pokud účetní záznam není podepsán před předáním k přenosu, musí být podepsán nejpozději v okamžiku jeho předání k přenosu.
+>
+> (4) Podpisovým záznamem se rozumí účetní záznam, jehož obsahem je vlastnoruční podpis nebo uznávaný elektronický podpis podle zvláštního právního předpisu, anebo obdobný průkazný účetní záznam v technické formě, který zaručuje průkaznou a jednoznačnou původnost. Na obě formy podpisového záznamu se přitom pohlíží stejně a obě mohou být použity v případech, kdy je vyžadován vlastnoruční podpis. U případů týkajících se výhradně skutečností uvnitř jedné účetní jednotky lze použít jako podpisový záznam vlastnoruční podpis nebo zaručený elektronický podpis anebo obdobný průkazný účetní záznam v technické formě.
+>
+> (5) Připojením podpisového záznamu se rozumí
+>
+> - a) v případě účetního záznamu v listinné formě jeho podepsání vlastnoručním podpisem,
+>
+> - b) v případě účetního záznamu v technické formě jeho podepsání uznávaným elektronickým podpisem podle zvláštního právního předpisu anebo obdobným průkazným účetním záznamem v technické formě,
+>
+> - c) v případě účetního záznamu ve smíšené formě jeho podepsání vlastnoručním podpisem na listinné části a současně u částí účetního záznamu v technické formě obsahující digitální data jejich podepsání uznávaným elektronickým podpisem podle zvláštního právního předpisu anebo obdobným průkazným účetním záznamem v technické formě.
+>
+> (6) Připojení podpisového záznamu u technických forem, případně připojení podpisového záznamu u smíšených forem v částech obsahujících technické formy, musí splňovat požadavky na podpisový záznam podle odstavce 4.
+>
+> (7) Účetní záznam v listinné formě podepsaný vlastnoručním podpisem výstavce, který se shoduje s podpisovým vzorem vyhotoveným účetní jednotkou, se považuje za průkazný podle odstavce 1 písm. c) bez ohledu na to, zda se týká výhradně skutečností uvnitř jedné účetní jednotky.
+>
+> (8) Identifikačním záznamem se rozumí účetní záznam, který není podpisovým záznamem podle odstavce 4, připojený k jinému účetnímu záznamu
+>
+> - a) automaticky technickým prostředkem (§ 4 odst. 10), nebo
+>
+> - b) fyzickou osobou odpovědnou podle odstavce 10,
+>
+> který umožňuje jednoznačné určení uvedeného technického prostředku nebo fyzické osoby.
+>
+> (9) K jednomu účetnímu záznamu může být připojeno více podpisových záznamů, popřípadě identifikačních záznamů.
+>
+> (10) Účetní jednotka stanoví vnitřním předpisem oprávnění, povinnosti a odpovědnost osob v této účetní jednotce, vztahující se k připojování podpisového záznamu nebo identifikačního záznamu, a to takovým způsobem, aby bylo možno určit nezávisle na sobě odpovědnost jednotlivých osob za obsah účetního záznamu, ke kterému byly uvedené záznamy připojeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4a5df1eee3f7a635b5cc -->
+
 ### § 34 — Přenos průkazného účetního záznamu
 
 > **§ 34**
@@ -298,6 +448,54 @@ Průkazné účetní záznamy lze přenášet jen zabezpečeným kanálem (datov
 **Typicky rozhodné důkazy / podklady:** smlouva s operátorem či poskytovatelem, přenosové a doručovací logy, certifikace (ISO 27001, eIDAS), porovnání odeslaných a přijatých záznamů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=49d9993159fea457c39a generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 34 — Přenos průkazného účetního záznamu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Přenos průkazného účetního záznamu může být uskutečněn pouze prostřednictvím informačního systému nebo jiným způsobem, který splňuje požadavky průkaznosti a neměnnosti a dále požadavky ochrany a bezpečnosti odpovídající charakteru přenášených informací podle zvláštních právních předpisů.
+>
+> (2) Požadavky průkaznosti a jiné požadavky uvedené v odstavci 1 jsou splněny i v případě, je-li přenos průkazného účetního záznamu uskutečněn prostřednictvím třetí osoby odlišné od účetních jednotek, pokud tato osoba splňuje požadavky podle zvláštních právních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=49d9993159fea457c39a -->
 
 ### § 35 — Opravy a ostatní ustanovení o účetních záznamech
 
@@ -395,6 +593,70 @@ Opravy provádět výhradně auditovatelně (kdo, kdy, co před a po opravě), v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=092e2e167f75ce5fa41a generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 35 — Opravy a ostatní ustanovení o účetních záznamech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Opravy nebo doplnění v účetních záznamech nesmějí vést k neúplnosti, neprůkaznosti, nesprávnosti, nesrozumitelnosti nebo nepřehlednosti účetnictví.
+>
+> (2) Zjistí-li účetní jednotka, že některé účetní záznamy jejího účetnictví jsou neúplné, neprůkazné, nesprávné nebo nesrozumitelné, je povinna provést bez zbytečného odkladu jejich opravu způsobem podle odstavce 3. Účetní záznam vzniklý seskupením je též nesrozumitelný, pokud kterýkoli z dílčích účetních záznamů v technické formě nesplňuje podmínky § 33 odst. 7. Účetní záznam ve smíšené formě je též nesrozumitelný, pokud část účetního záznamu v technické formě nesplňuje podmínky § 33 odst. 7.
+>
+> (3) Opravy se musí provádět tak, aby bylo možno určit osobu odpovědnou za provedení každé opravy, okamžik jejího provedení a zjistit jak obsah opravovaného účetního záznamu před opravou, tak jeho obsah po opravě.
+>
+> (4) Okamžik se v účetním záznamu zaznamenává s takovou přesností, aby nejistota v určení času neměla za následek nejistotu v určení obsahu účetních případů.
+>
+> (5) Na účetní záznamy, které jsou ve formě nečitelné, není-li dodrženo ustanovení § 33 odst. 7, se pohlíží, jakoby je účetní jednotky nevedly.
+>
+> (6) V případě, že účetní záznamy jsou ztracené nebo odcizené, zničené nebo poškozené tak, že tímto poškozením došlo ke změně jejich obsahu, je povinna účetní jednotka provést opatření k obnovení průkaznosti účetnictví.
+>
+> (7) Za opravu se nepovažuje doplnění informace v účetním záznamu, jestliže
+>
+> - a) nedochází k změně původního obsahu účetního záznamu,
+>
+> - b) doplňovaná informace nezpůsobuje nejednoznačnost obsahu účetního záznamu a
+>
+> - c) nejsou porušeny požadavky průkaznosti, neměnnosti a trvalosti účetního záznamu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 33
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=092e2e167f75ce5fa41a -->
+
 ### § 36 — České účetní standardy a zmocnění ministerstva
 
 > **§ 36**
@@ -477,6 +739,56 @@ Podnikatelské ÚJ mohou ČÚS opustit jen s doloženým zdůvodněním uvedený
 **Typicky rozhodné důkazy / podklady:** příloha účetní závěrky, vnitřní směrnice účetních metod, analýza či posudek dopadu metody, stanovisko auditora, text příslušného ČÚS a registr standardů MF.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4e218b23f470efb00308 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 36
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Pro dosažení souladu při používání účetních metod účetními jednotkami a pro zajištění vyšší míry srovnatelnosti účetních závěrek ministerstvo vydává České účetní standardy (dále jen „standardy“). Standardy stanoví zejména bližší popis účetních metod a postupů účtování. Vybrané účetní jednotky postupují podle standardů vždy. Ostatní účetní jednotky se mohou od standardů odchýlit, pokud tím zajistí věrný a poctivý obraz předmětu účetnictví. Odchylku od standardů a její důvody jsou ostatní účetní jednotky povinny uvést v příloze účetní závěrky. Použití standardů účetními jednotkami se považuje za naplnění účetních metod podle tohoto zákona a věrného a poctivého obrazu předmětu účetnictví. Pravidla pro tvorbu a vydávání standardů může ministerstvo stanovit prováděcím právním předpisem. Vydání standardů oznamuje ministerstvo ve Finančním zpravodaji. Ministerstvo vede registr vydaných standardů.
+>
+> (2) Ministerstvo může s právnickou osobou vybranou ve veřejném výběrovém řízení uzavřít smlouvu o vytvoření standardu.
+>
+> (3) Z důvodu zvláštního charakteru majetku může ministerstvo vydat pro ozbrojené síly, ozbrojené bezpečnostní sbory a zpravodajské služby zvláštní standardy odchylné od odstavce 1. Tyto standardy a jejich vydání se nezveřejňují.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e218b23f470efb00308 -->
 
 ### § 37 — Přestupky účetních jednotek, které nejsou podnikateli
 
@@ -576,6 +888,80 @@ Nepodnikatelské ÚJ podléhají sankcím škálovaným podle hodnoty aktiv; roz
 **Typicky rozhodné důkazy / podklady:** účetní závěrky a doklady o založení do sbírky listin, vnitřní předpisy o účetní agendě, korespondence se zpracovatelem účetnictví, doklady o majetkových a finančních poměrech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2949b40d2c08a8ef7b8b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 37
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotka, která není podnikatelem, se dopustí přestupku tím, že
+>
+> - a) nevede účetnictví podle § 4 odst. 2 až 6,
+>
+> - b) nesestaví účetní závěrku podle § 6 odst. 4,
+>
+> - c) nesestaví účetní závěrku ke dni stanovenému v § 19 odst. 1,
+>
+> - d) nevyhotoví výroční zprávu podle § 21 odst. 1, [[#§ 2|2]], 4 až 7 nebo [[#§ 9|9]],
+>
+> - e) vede účetnictví v rozporu s § 7 odst. 1 a [[#§ 2|2]],
+>
+> - f) vede účetnictví v rozporu s § 8 odst. 2,
+>
+> - g) jí sestavená účetní závěrka neobsahuje všechny povinné součásti uvedené v § 18 odst. 1 nebo [[#§ 2|2]],
+>
+> - h) v rozporu s § 20 odst. 1 nemá účetní závěrku ověřenou auditorem,
+>
+> - i) v rozporu s § 21 odst. 8 nemá výroční zprávu ověřenou auditorem,
+>
+> - j) nezveřejní účetní závěrku nebo výroční zprávu podle [[#§ 21a|§ 21a]], nebo
+>
+> - k) v rozporu s [[#§ 31|§ 31]] neuschová účetní záznamy.
+>
+> (2) Za přestupek lze uložit pokutu do výše
+>
+> - a) 6 % hodnoty aktiv celkem, jde-li o přestupek podle odstavce 1 písm. a) až d),
+>
+> - b) 3 % hodnoty aktiv celkem, jde-li o přestupek podle odstavce 1 písm. e) až k).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 6, § 19, § 21, § 2, § 9, § 7, § 8, § 18, § 20, § 21a, § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2949b40d2c08a8ef7b8b -->
 
 ### § 37a — Přestupky podnikatelských a konsolidujících ÚJ
 
@@ -761,6 +1147,160 @@ Podnikatelské a konsolidující ÚJ čelí nejširšímu sankčnímu katalogu z
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3cf0c18d8018653a333b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 37a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotka neuvedená v [[#§ 37|§ 37]] nebo osoba odpovědná za vedení účetnictví podle tohoto zákona se dopustí přestupku tím, že
+>
+> - a) nevede účetnictví podle § 4 odst. 1,
+>
+> - b) nesestaví účetní závěrku podle § 6 odst. 4,
+>
+> - c) nesestaví účetní závěrku ke dni stanovenému v § 19 odst. 1,
+>
+> - d) nevyhotoví výroční zprávu podle § 21 odst. 1 až 7, [[#§ 9|9]] nebo [[#§ 10|10]] nebo § 32h odst. 1,
+>
+> - e) nesestaví zprávu o platbách podle [[#§ 32b|§ 32b]],
+>
+> - f) nevyhotoví zprávu o udržitelnosti podle § 32h odst. 2 až 11,
+>
+> - g) nesestaví zprávu o daních z příjmů podle [[#§ 32n|§ 32n]] nebo konsolidovanou zprávu o daních z příjmů podle [[#§ 32p|§ 32p]],
+>
+> - h) vede účetnictví v rozporu s § 7 odst. 1 a [[#§ 2|2]],
+>
+> - i) vede účetnictví v rozporu s § 8 odst. 2,
+>
+> - j) nezajistí, aby jí sestavená účetní závěrka obsahovala veškeré povinné součásti podle § 18 odst. 1 nebo [[#§ 2|2]],
+>
+> - k) v rozporu s § 19a odst. 1 nepoužije pro účtování a sestavení účetní závěrky mezinárodní účetní standardy,
+>
+> - l) v rozporu s § 20 odst. 1 nemá účetní závěrku ověřenou auditorem,
+>
+> - m) v rozporu s § 21 odst. 8 nemá výroční zprávu ověřenou auditorem,
+>
+> - n) nezveřejní účetní závěrku nebo výroční zprávu podle [[#§ 21a|§ 21a]],
+>
+> - o) nezveřejní zprávu o platbách podle [[#§ 32d|§ 32d]],
+>
+> - p) nezveřejní nebo neuveřejní zprávu o daních z příjmů nebo konsolidovanou zprávu o daních z příjmů podle § 32q odst. 1 až 3,
+>
+> - q) nezajistí uveřejnění zprávy s informacemi o daních z příjmů rovnocenné zprávě o daních z příjmů nebo konsolidované zprávě o daních z příjmů podle § 32q odst. 4,
+>
+> - r) nesestaví účetní výkazy za dílčí konsolidační celek státu nebo účetní výkazy za Českou republiku podle [[#§ 23b|§ 23b]],
+>
+> - s) v rozporu s [[#§ 31|§ 31]] neuschová účetní záznamy,
+>
+> - t) nezajistí podmínky pro předávání účetních záznamů do centrálního systému účetních informací státu způsobem stanoveným prováděcím právním předpisem vydaným podle § 4 odst. 8 a § 23b odst. 5,
+>
+> - u) nepředá účetní záznam do centrálního systému účetních informací státu způsobem stanoveným prováděcím právním předpisem vydaným podle § 4 odst. 8 a § 23b odst. 5 nebo
+>
+> - v) neinformuje zástupce zaměstnanců nebo s nimi neprojedná informace o udržitelnosti podle § 32f odst. 2.
+>
+> (2) Konsolidující účetní jednotka se dopustí přestupku tím, že
+>
+> - a) nesestaví konsolidovanou účetní závěrku podle § 6 odst. 4,
+>
+> - b) nesestaví konsolidovanou účetní závěrku ke dni stanovenému v § 23 odst. 2,
+>
+> - c) nevyhotoví konsolidovanou výroční zprávu podle § 22b odst. 2 nebo § 32n odst. 1,
+>
+> - d) nesestaví konsolidovanou zprávu o platbách podle [[#§ 32c|§ 32c]],
+>
+> - e) nevyhotoví konsolidovanou zprávu o udržitelnosti podle § 32k odst. 2 až 6,
+>
+> - f) nesestaví konsolidovanou zprávu o daních z příjmů podle [[#§ 32p|§ 32p]],
+>
+> - g) nezajistí, aby jí sestavená konsolidovaná účetní závěrka obsahovala veškeré povinné součásti podle § 18 odst. 1 nebo [[#§ 2|2]],
+>
+> - h) v rozporu s § 22 odst. 1 nemá konsolidovanou účetní závěrku ověřenou auditorem,
+>
+> - i) v rozporu s § 22b odst. 2 nemá konsolidovanou výroční zprávu ověřenou auditorem,
+>
+> - j) nezveřejní konsolidovanou účetní závěrku nebo konsolidovanou výroční zprávu podle [[#§ 21a|§ 21a]],
+>
+> - k) nezveřejní konsolidovanou zprávu o udržitelnosti nebo zprávu o jejím ověření auditorem podle § 32k odst. 1,
+>
+> - l) nezveřejní konsolidovanou zprávu o platbách podle [[#§ 32d|§ 32d]],
+>
+> - m) nezveřejní nebo neuveřejní konsolidovanou zprávu o daních z příjmů podle § 32q odst. 1 až 3,
+>
+> - n) nezajistí uveřejnění zprávy s informacemi o daních z příjmů rovnocenné konsolidované zprávě o daních z příjmů podle § 32q odst. 4,
+>
+> - o) v rozporu s § 23a odst. 1 nepoužije pro sestavení konsolidované účetní závěrky mezinárodní účetní standardy nebo
+>
+> - p) neinformuje zástupce zaměstnanců nebo s nimi neprojedná informace o udržitelnosti podle § 32i odst. 2.
+>
+> (3) Účetní jednotka, která vede jednoduché účetnictví, se dopustí přestupku tím, že
+>
+> - a) nevede jednoduché účetnictví podle § 4 odst. 1,
+>
+> - b) nesestaví přehledy v rozsahu a ve lhůtě podle § 13b odst. 3,
+>
+> - c) nezajistí, aby jí zpracované přehledy obsahovaly veškeré údaje podle § 18 odst. 3,
+>
+> - d) nesestaví přehledy ke dni stanovenému v § 19 odst. 1 a [[#§ 2|2]],
+>
+> - e) vede jednoduché účetnictví v rozporu s § 8 odst. 2,
+>
+> - f) v rozporu s [[#§ 31|§ 31]] neuschová účetní záznamy, nebo
+>
+> - g) nezveřejní přehled o majetku a závazcích, výroční zprávu nebo obdobný dokument podle § 21a odst. 1.
+>
+> (4) Za přestupek lze uložit pokutu do výše
+>
+> - a) 6 % hodnoty aktiv celkem, jde-li o přestupek podle odstavce 1 písm. a) až d) nebo k),
+>
+> - b) 3 % hodnoty aktiv celkem, jde-li o přestupek podle odstavce 1 písm. e) až j), l) až s),
+>
+> - c) 3 % hodnoty konsolidovaných aktiv celkem, jde-li o přestupek podle odstavce 2,
+>
+> - d) 5 000 Kč, jde-li o přestupek podle odstavce 1 písm. t) nebo u) a není-li dále stanoveno jinak,
+>
+> - e) 100 000 Kč, jde-li o přestupek podle odstavce 1 písm. v) nebo odstavce 3 písm. a) až d),
+>
+> - f) 50 000 Kč, jde-li o přestupek podle odstavce 3 písm. e) až g).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37, § 4, § 6, § 19, § 21, § 9, § 10, § 32h, § 32b, § 32n, § 32p, § 7, § 2, § 8, § 18, § 19a, § 20, § 21a, § 32d, § 32q, § 23b, § 31, § 32f, § 23, § 22b, § 32c, § 32k, § 22, § 23a, § 32i, § 13b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cf0c18d8018653a333b -->
+
 ### § 37aa — Zjišťování hodnoty aktiv pro výpočet pokuty
 
 > **§ 37aa**
@@ -828,6 +1368,58 @@ Promlčecí doby pro přestupky právnické osoby upravuje § 29 PřestZ: pro p�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1add382b3248a7bfdde2 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 37aa
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Hodnota aktiv celkem uvedená v § 37 odst. 2 a v § 37a odst. 4 se zjistí z účetní závěrky nebo z konsolidované účetní závěrky účetní jednotky sestavené za účetní období, ve kterém nebo za které k porušení povinnosti došlo.
+>
+> (2) Pokud hodnota aktiv celkem zjištěná podle odstavce 1 neodpovídá aktivům celkem zjištěným v řízení o přestupku, použije se pro účely § 37 odst. 2 a § 37a odst. 4 výše aktiv zjištěná v řízení o přestupku. Obdobně se postupuje, pokud účetní závěrka nebo konsolidovaná účetní závěrka nebyla za dané účetní období sestavena.
+>
+> (3) Nelze-li skutečnou výši aktiv zjistit postupem podle odstavce 2, stanoví hodnotu aktiv celkem orgán, který porušení právních povinností projednává, kvalifikovaným odhadem.
+>
+> (4) V případě, že rozsah a obsah účetních případů v účetním období, ve kterém nebo za které k porušení povinnosti došlo, je srovnatelný s rozsahem a obsahem účetních případů bezprostředně předcházejícího účetního období, kvalifikovaným odhadem pro účely odstavce 3 se rozumí hodnota aktiv celkem zjištěná z účetní závěrky sestavené za toto předcházející účetní období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 37, § 37a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1add382b3248a7bfdde2 -->
+
 ### § 37ab — Věcná příslušnost k projednávání přestupků
 
 > **§ 37ab**
@@ -880,6 +1472,52 @@ Výchozím orgánem pro přestupky podle ZoÚ je finanční úřad, místně př
 **Typicky rozhodné důkazy / podklady:** výpis z obchodního či spolkového rejstříku, oznámení o zahájení řízení, spis daňové kontroly, licence a dohledová korespondence sektorového regulátora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=cebad9121697bc5090a7 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 37ab
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> Přestupky podle tohoto zákona projednává finanční úřad, nestanoví-li zvláštní právní předpis jinak.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cebad9121697bc5090a7 -->
 
 ### § 37b — Zmocňovací ustanovení pro prováděcí předpisy
 
@@ -950,6 +1588,54 @@ Při compliance i obraně proti pokutám je rozhodující identifikace normativn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=829bf603f02e876d1fca generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 37b — Zmocňovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo vydá vyhlášky k provedení § 1f odst. 6, § 4 odst. 8, § 13b odst. 6, § 23b odst. 5, § 24 odst. 5, § 29 odst. 4 a § 30 odst. 9.
+>
+> (2) Ministerstvo může vydat vyhlášku k provedení § 36 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1f, § 4, § 13b, § 23b, § 24, § 29, § 30, § 36
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=829bf603f02e876d1fca -->
+
 ### § 38 — Přechodné ustanovení pro rok 1992
 
 > **§ 38**
@@ -1003,6 +1689,55 @@ Z dnešního pohledu je § 38 historickým reliktem bez praktické aplikace — 
 **Typicky rozhodné důkazy / podklady:** účetní závěrka a účetní knihy z roku 1992, dobové účtové osnovy a vyhlášky, archivní fondy, znalecký posudek.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1a142dd0e761abafc083 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 38
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) V účetním období roku 1992 účetní jednotky použijí účtové osnovy a postupy účtování, ocení majetek a závazky v účetnictví i v účetní závěrce a sestaví účetní závěrku způsoby vyplývajícími z dosavadních právních předpisů.
+>
+> (2) Ode dne účinnosti tohoto zákona nepostupuje federální ministerstvo financí podle ustanovení [[§ 4 odst. 2|§ 4 odst. 2]], [[§ 14|§ 14]] a [[§ 35 odst. 3|§ 35 odst. 3]] [[zákona č. 21/1971 Sb., o jednotné soustavě sociálně ekonomických informací|zákona č. 21/1971 Sb., o jednotné soustavě sociálně ekonomických informací]], ve znění [[zákona č. 128/1989 Sb|zákona č. 128/1989 Sb.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 14, § 35
+
+##### Souvisící předpisy
+
+- zákon č. 21/1971 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 128/1989 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a142dd0e761abafc083 -->
 
 ### § 39 — Zrušovací ustanovení
 
@@ -1067,6 +1802,60 @@ Derogace v § 39 uzavřela federální úpravu účetní evidence; při retrospe
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=728aaf9150d3245d1e3b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 39
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> Zrušují se
+>
+> - 1. nařízení vlády ČSSR č. [[136/1989 Sb., o informační soustavě organizací|136/1989 Sb., o informační soustavě organizací]],
+>
+> - 2. [[vyhláška federálního ministerstva financí č. 155/1971 Sb., o inventarizacích hospodářských prostředků|vyhláška federálního ministerstva financí č. 155/1971 Sb., o inventarizacích hospodářských prostředků]],
+>
+> - 3. [[vyhláška federálního ministerstva financí č. 21/1990 Sb., o kalkulaci|vyhláška federálního ministerstva financí č. 21/1990 Sb., o kalkulaci]],
+>
+> - 4. [[vyhláška federálního ministerstva financí č. 23/1990 Sb., o účetnictví|vyhláška federálního ministerstva financí č. 23/1990 Sb., o účetnictví]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=728aaf9150d3245d1e3b -->
+
 ### § 40 — Účinnost
 
 > **§ 40**
@@ -1123,3 +1912,48 @@ Za 34 let účinnosti (1992–2026) prošel ZoÚ četnými novelami — z původ
 ---
 
 *Křížové odkazy: [00-uvod.md](00-uvod.md) · [01-cast1-obecna-ustanoveni.md](01-cast1-obecna-ustanoveni.md) · [02-cast2-rozsah-doklady-zapisy-knihy.md](02-cast2-rozsah-doklady-zapisy-knihy.md) · [03-cast3-ucetni-zaverka.md](03-cast3-ucetni-zaverka.md) · [04-cast4-zpusoby-ocenovani.md](04-cast4-zpusoby-ocenovani.md) · [05-cast5-6-inventarizace-uschova.md](05-cast5-6-inventarizace-uschova.md) · [06-cast7-zprava-o-platbach.md](06-cast7-zprava-o-platbach.md) · [07-cast8-zprava-o-udrzitelnosti.md](07-cast8-zprava-o-udrzitelnosti.md) · [08-cast9-zprava-o-danich.md](08-cast9-zprava-o-danich.md)*
+
+<!-- LEGAL-REVISION:BEGIN id=06aae816d89aca4a503c generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 40
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. ledna 1992.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=06aae816d89aca4a503c -->

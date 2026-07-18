@@ -107,6 +107,64 @@ Odst. 5 řeší situaci, kdy osoba pověřená pobočkou nemá přístup ke vše
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=71b75759dc7509ca7b4b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32m — Povinnost sestavit a zpřístupnit zprávu o daních z příjmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Zprávu o daních z příjmů za účetní období sestavuje samostatná účetní jednotka, která je obchodní společností a má v účetním období zahraniční pobočku nebo zahraniční stálou provozovnu, poprvé za druhé ze dvou po sobě následujících účetních období, ve kterých její roční úhrn čistého obratu dosáhne 19 000 000 000 Kč, a naposledy za první ze dvou po sobě následujících účetních období, ve kterých její roční úhrn čistého obratu nedosáhne 19 000 000 000 Kč.
+>
+> (2) Zprávu o daních z příjmů za účetní období zpřístupňuje samostatná účetní jednotka ustavená podle právního řádu jiného státu než členského státu Evropské unie, která má formu srovnatelnou s obchodní společností a má v účetním období pobočku na území České republiky, prostřednictvím této pobočky poprvé za druhé ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu pobočky dosáhne 240 000 000 Kč a výnosy účetní jednotky dosáhnou částky odpovídající částce 750 000 000 EUR, a naposledy za první ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu pobočky nedosáhne 240 000 000 Kč, nebo za první ze dvou po sobě následujících účetních období, ve kterých výnosy účetní jednotky nedosáhnou částky odpovídající částce 750 000 000 EUR. Zpřístupnění se provede podle [[#§ 32q|§ 32q]].
+>
+> (3) Pro účely zprávy o daních z příjmů se
+>
+> - a) samostatnou účetní jednotkou rozumí účetní jednotka, která není ovládající ani ovládanou osobou s výjimkou ovládání na základě společného vlivu, a
+>
+> - b) výnosy účetní jednotky ustavené podle právního řádu jiného státu než členského státu Evropské unie rozumí její výnosy podle účetních předpisů použitých pro sestavení její účetní závěrky.
+>
+> (4) Kritérium výnosu účetní jednotky ustavené podle právního řádu jiného státu než členského státu Evropské unie se pro účely zprávy o daních z příjmů přepočítá na měnu účetní závěrky této účetní jednotky kurzem vyhlášeným Evropskou centrální bankou pro 21. prosinec 2021 se zaokrouhlením na celé tisíce.
+>
+> (5) Pokud není k dispozici zpráva o daních z příjmů, která by mohla být zpřístupněna podle odstavce 2, namísto této povinnosti vzniká povinnost ji sestavit a zpřístupnit osobě pověřené jednáním za pobočku účetní jednotky na území České republiky. Nemá-li tato osoba všechny údaje potřebné k sestavení této zprávy, požádá o ně tuto účetní jednotku. Pokud tato osoba neobdrží všechny potřebné údaje, sestaví zprávu na základě údajů, které má k dispozici, a její součástí je prohlášení o tom, že účetní jednotka neposkytla všechny potřebné údaje. Ve vztahu ke zprávě o daních z příjmů se tato osoba pověřená jednáním za pobočku účetní jednotky na území České republiky považuje za osobu odpovědnou za vedení účetnictví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32q
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=71b75759dc7509ca7b4b -->
+
 ### § 32n — Obsah zprávy o daních z příjmů
 
 > **§ 32n**
@@ -239,6 +297,90 @@ Vynechání je časově omezeno: neuvedené informace musí být obsaženy v ně
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d07ee8ea0de5c518af14 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32n — Obsah zprávy o daních z příjmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Ve zprávě o daních z příjmů se uvede
+>
+> - a) název účetní jednotky a účetní období, za které se zpráva sestavuje,
+>
+> - b) měna použitá ve zprávě, kterou je měna používaná pro sestavení účetní závěrky účetní jednotky v daném účetním období,
+>
+> - c) stručný popis povahy činnosti účetní jednotky,
+>
+> - d) počet zaměstnanců v přepočtu na plné pracovní úvazky,
+>
+> - e) celkové výnosy účetní jednotky s vyloučením úprav hodnot,
+>
+> - f) výsledek hospodaření před zdaněním účetní jednotky,
+>
+> - g) výše nákladu na splatnou daň z příjmů účetní jednotky nebo ve vztahu k její pobočce v příslušné daňové jurisdikci za dané účetní období,
+>
+> - h) výše uhrazené daně z příjmů účetní jednotky nebo ve vztahu k její pobočce v příslušné daňové jurisdikci během daného účetního období včetně částek srážkové daně odvedených z jejich příjmů a
+>
+> - i) výše kumulovaných výsledků hospodaření účetní jednotky na konci daného účetního období.
+>
+> (2) Zpráva o daních z příjmů může být sestavena na základě pokynů pro vyplňování zprávy podle zemí uvedených ve vyhlášce upravující vzor zprávy podle zemí a pokyny k jejímu vyplnění pro účely automatické výměny informací s jiným státem v rámci mezinárodní spolupráce při správě daní. Ve zprávě se uvede, zda byla tato možnost využita.
+>
+> (3) Údaje ve zprávě o daních z příjmů se uspořádají podle společného vzoru a v elektronickém formátu podle přímo použitelného předpisu Evropské unie vydaného podle čl. 48c odst. 4 směrnice Evropského parlamentu a Rady 2013/34/EU, v platném znění49).
+>
+> (4) Údaje ve zprávě o daních z příjmů jsou uváděné na základě usazení, existence stálé provozovny nebo trvalé podnikatelské činnosti, které jsou rozhodné pro určení, ve které daňové jurisdikci daná činnost podléhá dani,
+>
+> - a) odděleně za každý členský stát Evropské unie bez ohledu na to, zda je tvořen více daňovými jurisdikcemi,
+>
+> - b) odděleně za každý stát, který je k 1. březnu kalendářního roku, do kterého spadá rozvahový den, uveden na unijním seznamu jurisdikcí nespolupracujících v daňové oblasti schváleném Radou Evropské unie,
+>
+> - c) odděleně za každý stát, který je k 1. březnu kalendářního roku, do kterého spadá poslední den daného účetního období, i k 1. březnu předcházejícího kalendářního roku uveden na seznamu současného stavu spolupráce s Evropskou unií, pokud jde o závazky učiněné spolupracujícími jurisdikcemi v zájmu uplatňování zásad řádné správy v oblasti daní, schváleném Radou Evropské unie, a
+>
+> - d) souhrnně za daňové jurisdikce neuvedené v písmenech a) až c).
+>
+> (5) Údaje o určité činnosti uvedené ve zprávě o daních z příjmů nemohou být uvedeny u více než jedné daňové jurisdikce.
+>
+> (6) Zpráva o daních z příjmů nemusí obsahovat informace, jejichž uvedení by mohlo závažně poškodit obchodní postavení účetní jednotky a které se netýkají daňové jurisdikce uvedené v odstavci 4 písm. b) nebo c). Využije-li se tato možnost, uvede se to ve zprávě spolu s vysvětlením důvodů a neuvedené informace jsou obsahem některé zprávy o daních z příjmů sestavené za některé následující účetní období započaté do 5 let od rozvahového dne účetního období, za které došlo k neuvedení těchto informací.
+>
+> (7) Zpráva o daních z příjmů může obsahovat vysvětlení významných nesrovnalostí mezi výší splatné daně z příjmů a výší daně z příjmů zaplacené na hotovostním základě. Toto vysvětlení může zohlednit tyto částky za předcházející účetní období.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2013/34 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d07ee8ea0de5c518af14 -->
+
 ### § 32o — Konsolidovaná zpráva o daních z příjmů
 
 > **§ 32o**
@@ -341,6 +483,70 @@ Konsolidovaná zpráva o daních z příjmů je samostatným výstupem — nevst
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=44bfa12b037e0af16201 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32o — Konsolidovaná zpráva o daních z příjmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidovanou zprávu o daních z příjmů za účetní období sestavuje konsolidující účetní jednotka, která je nejvyšší konsolidující osobou a jejíž konsolidační celek netvoří pouze účetní jednotky ustavené podle právního řádu České republiky, které v účetním období nemají zahraniční pobočku ani stálou provozovnu, poprvé za druhé ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu na konsolidovaném základě dosáhne 19 000 000 000 Kč, a naposledy za první ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu na konsolidovaném základě nedosáhne 19 000 000 000 Kč.
+>
+> (2) Konsolidovanou zprávu o daních z příjmů za účetní období sestavují střední účetní jednotka a velká účetní jednotka, která by byla velkou nebo střední účetní jednotkou, i kdyby nebyla subjektem veřejného zájmu, pokud jsou obchodní společností a jejich nejvyšší konsolidující osoba je ustavena podle právního řádu jiného státu než členského státu Evropské unie, poprvé za druhé ze dvou po sobě následujících účetních období, ve kterých konsolidované výnosy v konsolidované účetní závěrce této nejvyšší konsolidující osoby dosáhnou částky odpovídající 750 000 000 EUR, a naposledy za první ze dvou po sobě následujících účetních období, ve kterých konsolidované výnosy v konsolidované účetní závěrce této nejvyšší konsolidující osoby nedosáhnou částky odpovídající 750 000 000 EUR.
+>
+> (3) Konsolidovanou zprávu o daních z příjmů za účetní období zpřístupňuje účetní jednotka ustavená podle právního řádu jiného státu než členského státu Evropské unie, která má v účetním období pobočku na území České republiky, má právní formu srovnatelnou s obchodní společností a je nejvyšší konsolidující osobou, pokud neovládá žádnou osobu ustavenou podle právního řádu členského státu Evropské unie splňující kritéria pro střední nebo velkou účetní jednotku s výjimkou ovládání na základě společného vlivu, prostřednictvím své pobočky poprvé za druhé ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu pobočky dosáhne 240 000 000 Kč a konsolidované výnosy v konsolidované účetní závěrce této nejvyšší konsolidující osoby dosáhnou částky odpovídající částce 750 000 000 EUR, a naposledy za první ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu pobočky nedosáhne 240 000 000 Kč, nebo za první ze dvou po sobě následujících účetních období, ve kterých konsolidované výnosy v konsolidované účetní závěrce této nejvyšší konsolidující osoby nedosáhnou částky odpovídající částce 750 000 000 EUR. Zpřístupnění se provede podle [[#§ 32q|§ 32q]].
+>
+> (4) Konsolidovanou zprávu o daních z příjmů za účetní období zpřístupňuje účetní jednotka ustavená podle právního řádu jiného státu než členského státu Evropské unie, která má v účetním období pobočku na území České republiky, má právní formu srovnatelnou s obchodní společností a má nejvyšší konsolidující osobu ustavenou podle právního řádu jiného státu než členského státu Evropské unie, pokud tato nejvyšší konsolidující osoba v účetním období není účetní jednotkou podle tohoto zákona a neovládá žádnou osobu ustavenou podle právního řádu členského státu Evropské unie splňující kritéria pro střední nebo velkou účetní jednotku s výjimkou ovládání na základě společného vlivu, prostřednictvím své pobočky poprvé za druhé ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu pobočky dosáhne 240 000 000 Kč a konsolidované výnosy v konsolidované účetní závěrce nejvyšší konsolidující osoby dosáhnou částky odpovídající částce 750 000 000 EUR, a naposledy za první ze dvou po sobě následujících účetních období, ve kterých roční úhrn čistého obratu pobočky nedosáhne 240 000 000 Kč, nebo za první ze dvou po sobě následujících účetních období, ve kterých konsolidované výnosy v konsolidované účetní závěrce nejvyšší konsolidující osoby nedosáhnou částky odpovídající částce 750 000 000 EUR. Zpřístupnění se provede podle [[#§ 32q|§ 32q]].
+>
+> (5) Pro účely konsolidované zprávy o daních z příjmů se
+>
+> - a) nejvyšší konsolidující osobou rozumí konsolidující účetní jednotka nebo konsolidující zahraniční osoba, která není ovládanou osobou, nejedná-li se o ovládání na základě společného vlivu, zahrnutou do konsolidačního celku jiné konsolidující účetní jednotky nebo konsolidující zahraniční osoby, a
+>
+> - b) konsolidovanými výnosy účetní jednotky ustavené podle právního řádu jiného státu než členského státu Evropské unie rozumí její konsolidované výnosy podle účetních předpisů použitých pro sestavení její konsolidované účetní závěrky.
+>
+> (6) Kritérium konsolidovaných výnosů v konsolidované účetní závěrce nejvyšší konsolidující osoby ustavené podle právního řádu jiného státu než členského státu Evropské unie se pro účely zprávy o daních z příjmů přepočítá na měnu konsolidované účetní závěrky této osoby kurzem vyhlášeným Evropskou centrální bankou pro 21. prosinec 2021 se zaokrouhlením na celé tisíce.
+>
+> (7) Pokud účetní jednotka podle odstavce 2 nemá údaje potřebné k sestavení konsolidované zprávy o daních z příjmů, požádá o poskytnutí těchto údajů nejvyšší konsolidující osobu. Pokud neobdrží všechny potřebné údaje, sestaví zprávu na základě údajů, které má k dispozici, a její součástí je prohlášení o tom, že jí tato osoba neposkytla všechny potřebné údaje.
+>
+> (8) Pokud není k dispozici konsolidovaná zpráva o daních z příjmů, která by mohla být zpřístupněna podle odstavce 3 nebo [[#§ 4|4]], namísto této povinnosti vzniká povinnost ji sestavit a zpřístupnit osobě pověřené jednáním za pobočku účetní jednotky na území České republiky. Nemá-li tato osoba všechny údaje potřebné k sestavení této zprávy, požádá o ně tuto účetní jednotku. Pokud tato osoba neobdrží všechny potřebné údaje, sestaví zprávu na základě údajů, které má k dispozici, a její součástí je prohlášení o tom, že účetní jednotka neposkytla všechny potřebné údaje. Ve vztahu ke konsolidované zprávě o daních z příjmů se tato osoba pověřená jednáním za pobočku účetní jednotky na území České republiky považuje za osobu odpovědnou za vedení účetnictví.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32q, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44bfa12b037e0af16201 -->
+
 ### § 32p — Obsah konsolidované zprávy o daních z příjmů
 
 > **§ 32p**
@@ -419,6 +625,62 @@ Odst. 2 § 32p přejímá formou globálního odkazu celá metodická pravidla �
 **Typicky rozhodné důkazy / podklady:** konsolidovaná závěrka a konsolidační balíčky, přehled dividendových toků, organigram s jurisdikcemi, unijní seznamy k rozhodným datům, dokumentace zvolené metodiky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=174224a57cc457b596d4 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32p — Obsah konsolidované zprávy o daních z příjmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) V konsolidované zprávě o daních z příjmů se uvedou údaje o nejvyšší konsolidující osobě a všech ovládaných osobách, nejedná-li se o ovládání na základě společného vlivu, zahrnutých v konsolidované účetní závěrce nejvyšší konsolidující osoby, které by se uváděly ve zprávě o daních z příjmů jednotlivých entit, s tím, že
+>
+> - a) se uvede také seznam všech ovládaných osob, nejedná-li se o ovládání na základě společného vlivu, usazených v členském státě Evropské unie nebo ve státě, který je uveden na unijním seznamu jurisdikcí nespolupracujících v daňové oblasti schváleném Radou Evropské unie nebo na seznamu současného stavu spolupráce s Evropskou unií, pokud jde o závazky učiněné spolupracujícími jurisdikcemi v zájmu uplatňování zásad řádné správy v oblasti daní, schválených Radou Evropské unie,
+>
+> - b) měnou použitou ve zprávě je měna používaná pro sestavení konsolidované účetní závěrky nejvyšší konsolidující osoby,
+>
+> - c) pokud zprávu sestavuje účetní jednotka jiná než nejvyšší konsolidující osoba, je měnou použitou ve zprávě měna používaná pro sestavení účetní závěrky účetní jednotky, a
+>
+> - d) pro uvedení celkových výnosů se vylučují dividendy obdržené od ovládaných osob, nejedná-li se o ovládání na základě společného vlivu.
+>
+> (2) Ustanovení § 32n odst. 2 až 7 se pro konsolidovanou zprávu o daních z příjmů použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32n
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=174224a57cc457b596d4 -->
 
 ### § 32q — Zpřístupnění
 
@@ -503,6 +765,58 @@ Odst. 4 doplňuje § 32r (viz níže): subjekt, který je osvobozen od sestaven�
 **Typicky rozhodné důkazy / podklady:** potvrzení o uložení do sbírky listin, výpis ze sbírky listin, archivní snímky internetových stránek, interní směrnice k publikačním povinnostem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b9074591ade51c4e27ea generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32q — Zpřístupnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotka, která má povinnost sestavit zprávu o daních z příjmů nebo konsolidovanou zprávu o daních z příjmů, ji zveřejní způsobem podle [[#§ 21a|§ 21a]].
+>
+> (2) Účetní jednotka, která má povinnost sestavit zprávu o daních z příjmů nebo konsolidovanou zprávu o daních z příjmů, uveřejní na svých internetových stránkách odkaz na veřejný rejstřík, ve kterém je tato zpráva zveřejněna, a oznámení o skutečnosti, že nemá povinnost tuto zprávu uveřejnit na svých internetových stránkách. Uveřejnění se provede do 12 měsíců od rozvahového dne na dobu alespoň 5 let.
+>
+> (3) V případě zprávy o daních z příjmů nebo konsolidované zprávy o daních z příjmů sestavených nebo zpřístupněných z důvodu existence pobočky na území České republiky se zveřejnění provede uložením do sbírky listin veřejného rejstříku, ve kterém je pobočka zapsána, a uveřejnění se provede na internetových stránkách účetní jednotky nebo její pobočky na území České republiky.
+>
+> (4) Účetní jednotka, která nemá povinnost sestavit nebo zpřístupnit zprávu o daních z příjmů nebo konsolidovanou zprávu o daních z příjmů z důvodu uveřejnění zprávy s informacemi o daních z příjmů rovnocenné zprávě o daních z příjmů nebo konsolidované zprávě o daních z příjmů, zajistí uveřejnění této zprávy po dobu alespoň 5 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b9074591ade51c4e27ea -->
 
 ### § 32r — Kritéria rovnocennosti
 
@@ -600,6 +914,70 @@ Jak bylo zmíněno u § 32q, osvobozená entita (odst. 4 § 32q) musí rovnocenn
 **Typicky rozhodné důkazy / podklady:** zpráva dle čl. 89 CRD IV, mapovací analýza rovnocennosti, potvrzení o uložení překladu do sbírky listin, snímky webu vrcholu (formát, bezplatnost), vnitroskupinová korespondence a závazky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=84f3343d8d3374bb37c6 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32r — Kritéria rovnocennosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotka uvedená v § 32m odst. 1 není povinna sestavit zprávu o daních z příjmů, pokud podává zprávu podle čl. 89 směrnice Evropského parlamentu a Rady [[2013/36/EU|2013/36/EU]], která zahrnuje údaje o veškerých jejích činnostech.
+>
+> (2) Účetní jednotka uvedená v § 32m odst. 2 není povinna zpřístupnit zprávu o daních z příjmů, pokud
+>
+> - a) sestavila zprávu s informacemi o daních z příjmů rovnocennou zprávě o daních z příjmů,
+>
+> - b) zpráva podle písmene a) obsahuje název a adresu pobočky na území České republiky, a
+>
+> - c) do 12 měsíců od rozvahového dne je její překlad do českého nebo anglického jazyka zveřejněn uložením do sbírky listin veřejného rejstříku, ve kterém je zapsána pobočka účetní jednotky, a bezplatně a v elektronickém strojově čitelném formátu uveřejněn na internetových stránkách účetní jednotky.
+>
+> (3) Účetní jednotka uvedená v § 32o odst. 1 není povinna sestavit konsolidovanou zprávu o daních z příjmů, pokud ona nebo její konsolidovaná účetní jednotka podávají zprávu podle čl. 89 směrnice Evropského parlamentu a Rady [[2013/36/EU|2013/36/EU]], která zahrnuje údaje o veškerých činnostech konsolidující účetní jednotky a všech konsolidovaných účetních jednotek zahrnutých v konsolidované účetní závěrce, za které by se konsolidovaná zpráva o daních z příjmů sestavovala.
+>
+> (4) Účetní jednotka uvedená v § 32o odst. 2, [[#§ 3|3]] nebo [[#§ 4|4]] není povinna sestavit nebo zpřístupnit konsolidovanou zprávu o daních z příjmů, pokud
+>
+> - a) nejvyšší konsolidující osoba sestavila za osoby, za které by se zpráva sestavovala, zprávu s informacemi o daních z příjmů rovnocennou konsolidované zprávě o daních z příjmů,
+>
+> - b) zpráva podle písmene a) obsahuje název a sídlo účetní jednotky ustavené podle právního řádu České republiky, kterou ovládá nejvyšší konsolidující osoba, nebo název a adresu pobočky na území České republiky, a
+>
+> - c) do 12 měsíců od rozvahového dne je její překlad do českého nebo anglického jazyka zveřejněn uložením do sbírky listin veřejného rejstříku, ve kterém je účetní jednotka nebo pobočka účetní jednotky zapsána, a bezplatně a v elektronickém strojově čitelném formátu uveřejněn na internetových stránkách nejvyšší konsolidující osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32m, § 32o, § 3, § 4
+
+##### Souvisící předpisy
+
+- akt EU 2013/36 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=84f3343d8d3374bb37c6 -->
 
 ## Synoptická tabulka — Část devátá: povinné subjekty a jejich povinnosti
 

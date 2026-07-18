@@ -116,6 +116,82 @@ Závěrka je vždy trojsložkový (u větších obchodních společností pětis
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=351563a9e8b38b0edf9a generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 18 — Účetní závěrka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky sestavují v případech stanovených tímto zákonem účetní závěrku. Účetní závěrka je nedílný celek a tvoří ji
+>
+> - a) rozvaha (bilance),
+>
+> - b) výkaz zisku a ztráty,
+>
+> - c) příloha, která vysvětluje a doplňuje informace obsažené v částech uvedených pod písmeny a) a b), zejména naplněním § 7 odst. 3 až 5 a § 19 odst. 5 a [[#§ 6|6.]]
+>
+> (2) Účetní závěrka obchodních společností zahrnuje i přehled o peněžních tocích a přehled o změnách vlastního kapitálu. Účetní jednotky uvedené v § 1a písm. b) až d) přehled o peněžních tocích nesestavují. Malé účetní jednotky a mikro účetní jednotky nejsou povinny sestavovat přehled o peněžních tocích a přehled o změnách vlastního kapitálu. Vybrané účetní jednotky sestavují přehled o peněžních tocích a přehled o změnách vlastního kapitálu vždy, pokud k rozvahovému dni a za bezprostředně předcházející účetní období splní obě hodnoty uvedené v § 20 odst. 1 písm. c) bodech 1 a [[#§ 2|2.]]
+>
+> (3) Účetní závěrka podle odstavce 1 musí obsahovat
+>
+> - a) u účetních jednotek podle § 1 odst. 2 písm. a) až c) a § 1 odst. 2 písm. i) až l) obchodní firmu nebo název a sídlo; u účetních jednotek podle § 1 odst. 2 písm. d) až h) obchodní firmu nebo jméno, bydliště a sídlo, liší-li se od bydliště,
+>
+> - b) identifikační číslo osoby, pokud je má účetní jednotka přiděleno, a informaci o zápisu do veřejného rejstříku uváděnou na obchodních listinách,
+>
+> - c) právní formu účetní jednotky, případně informaci o tom, že účetní jednotka je v likvidaci,
+>
+> - d) předmět podnikání nebo jiné činnosti, případně účel, pro který byla zřízena,
+>
+> - e) rozvahový den (§ 19 odst. 1) nebo jiný okamžik, k němuž se účetní závěrka sestavuje (§ 19 odst. 3),
+>
+> - f) okamžik sestavení účetní závěrky,
+>
+> a musí k ní být připojen podpisový záznam statutárního orgánu účetní jednotky podle § 1 odst. 2 písm. a) až c), podpisový záznam účetní jednotky podle § 1 odst. 2 písm. d) až h) nebo podpisový záznam osob stanovených v [[#§ 4a|§ 4a]] účetní jednotky podle § 1 odst. 2 písm. i) až l); připojením uvedeného podpisového záznamu se považuje účetní závěrka za sestavenou podle písmene f). Pokud je den zápisu přeměny do veřejného rejstříku shodný s rozhodným dnem, u zanikající účetní jednotky se podpisovým záznamem podle věty předchozí rozumí podpisový záznam osoby, která vykonávala funkci statutárního orgánu k rozvahovému dni, neurčí-li nejvyšší orgán účetní jednotky jinak.
+>
+> (4) Účetní jednotky sestavují účetní závěrku v plném nebo zkráceném rozsahu. Nestanoví-li tento zákon jinak, ve zkráceném rozsahu mohou sestavit účetní závěrku účetní jednotky, které nejsou povinny mít účetní závěrku ověřenou auditorem.
+>
+> (5) Prováděcí právní předpis stanoví pro jednotlivé skupiny účetních jednotek podle kategorií účetních jednotek rozsah a způsob sestavení účetní závěrky v plném rozsahu a ve zkráceném rozsahu.
+>
+> (6) Prováděcí právní předpis stanoví pro jednotlivé skupiny účetních jednotek podle kategorií účetních jednotek vysvětlující a doplňující informace, které jsou účetní jednotky povinny uvádět v příloze v účetní závěrce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 19, § 6, § 1a, § 20, § 2, § 1, § 4a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=351563a9e8b38b0edf9a -->
+
 ### § 19 — Rozvahový den, druhy závěrek a kvalita informací
 
 > **§ 19**
@@ -239,6 +315,72 @@ Rozvahový den určuje obsah závěrky; okamžik sestavení určuje, do kdy se �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c67d2fb2248533eb6427 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 19 — Rozvahový den
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky sestavují účetní závěrku k rozvahovému dni, kterým je den, kdy uzavírají účetní knihy. Řádnou účetní závěrku sestavují účetní jednotky k poslednímu dni účetního období a v ostatních případech sestavují mimořádnou účetní závěrku. Rozvahu jako zahajovací sestavují účetní jednotky v případech uvedených v § 17 odst. 1 s výjimkou k prvnímu dni účetního období.
+>
+> (2) Účetní jednotky jsou povinny uvádět v účetní závěrce informace podle stavu ke konci rozvahového dne; to platí obdobně i pro všechny účetní záznamy, které se sestavují k rozvahovému dni nebo k jinému okamžiku, k němuž se sestavuje účetní závěrka.
+>
+> (3) V případech, kdy to vyžadují zvláštní právní předpisy, účetní jednotky sestavují účetní závěrku v průběhu účetního období i k jinému okamžiku než ke konci rozvahového dne (dále jen „mezitímní účetní závěrka“). V případech sestavování mezitímní účetní závěrky účetní jednotky neuzavírají účetní knihy a provádějí inventarizaci jen pro účely vyjádření ocenění podle § 25 odst. 3; ostatní ustanovení tohoto zákona týkající se účetní závěrky platí obdobně. Povinnost použít ustanovení § 25 odst. 3 a ostatní ustanovení týkající se použití účetních metod k rozvahovému dni při sestavování mezitímní účetní závěrky se na vybrané účetní jednotky nevztahuje. Účetní jednotky podle § 1 odst. 2 písm. a), b) a d) až h), které jsou příjemci prostředků ze státního rozpočtu nebo rozpočtů územních samosprávných celků a jsou povinny tyto prostředky vypořádat podle zvláštního právního předpisu, a uplatňují hospodářský rok podle § 3 odst. 2 a [[#§ 3|3]], sestavují k 31. prosinci kalendářního roku mezitímní účetní závěrku, při které nepoužijí ustanovení § 24 odst. 2 písm. b) a § 24 odst. 6 písm. b).
+>
+> (4) Účetní jednotky sestavují rozvahu tak, aby počáteční zůstatky účtů, které obsahuje rozvaha, (dále jen „rozvahové účty“), jimiž se otevírá účetní období, navazovaly na konečné zůstatky rozvahových účtů, jimiž se bezprostředně předcházející období uzavřelo; toto ustanovení platí i pro podrozvahové účty.
+>
+> (5) V účetnictví běžného účetního období musí být k rozvahovému dni zohledněn dopad událostí, které nastaly do konce rozvahového dne, i když se informace o těchto událostech staly účetní jednotce známými až mezi rozvahovým dnem a okamžikem sestavení účetní závěrky.
+>
+> (6) V případě významných událostí, které nastaly mezi rozvahovým dnem a okamžikem sestavení účetní závěrky, jsou důsledky těchto událostí popsány a jejich ekonomické dopady kvantifikovány v příloze v účetní závěrce.
+>
+> (7) Informace v účetní závěrce musí být spolehlivé, srovnatelné, srozumitelné a posuzují se z hlediska významnosti. Informace se považuje za spolehlivou, jestliže splňuje požadavek § 7 odst. 1 a je-li úplná a včasná. Informace je včasná, je-li získána ve správném čase z hlediska její významnosti a nákladů na její získání, pokud tyto náklady nepřevýší přínosy plynoucí z této informace. Informace je srovnatelná, jestliže splňuje požadavky stanovené v § 7 odst. 3 až 5. Informace se považuje za významnou, jestliže je o ní možné předpokládat, že by její neuvedení nebo chybné uvedení mohlo ovlivnit úsudek uživatele, přičemž významnost jednotlivých informací se posuzuje v souvislosti s jinými obdobnými informacemi. U vybraných účetních jednotek podle § 1 odst. 3, s výjimkou zdravotních pojišťoven, se považuje za významnou též informace o ocenění nehmotného majetku ve výši nad 60 000 Kč a u samostatných hmotných movitých věcí nebo souboru hmotných movitých věcí ve výši nad 40 000 Kč. Informace je srozumitelná, jestliže splňuje požadavky stanovené v § 8 odst. 5.
+>
+> (8) Pro účely tohoto zákona se majetek a závazky člení na dlouhodobé a krátkodobé. Dlouhodobým se rozumí takový majetek a závazky, kde doba použitelnosti, popřípadě sjednaná doba splatnosti při vzniku účetního případu je delší než 1 rok, ostatní majetek a závazky jsou považovány za krátkodobé. Pro účely vykazování v účetní závěrce se aktiva mohou členit na stálá a oběžná. Pokud s ohledem na charakter majetku a závazků objektivně nelze použít uvedená hlediska členění, je rozhodující záměr účetní jednotky projevený při jejich pořízení.
+>
+> (9) V případech, kdy to vyžadují právní předpisy, mohou účetní jednotky poskytnout účetní záznamy nesoucí informace uspořádané podle oborů (druhů) činnosti nebo podle zeměpisných oblastí, ve kterých provozují svou činnost.
+>
+> (10) Kromě případů podle odstavců 1 a [[#§ 3|3]] žádný jiný účetní záznam nesmí být označován názvy podle § 18 odst. 1.
+>
+> (11) Účetní závěrkou není shromažďování nebo vyžadování informací prováděné na základě zvláštních právních předpisů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 17, § 25, § 1, § 3, § 24, § 7, § 8, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c67d2fb2248533eb6427 -->
+
 ### § 19a — Použití mezinárodních účetních standardů pro individuální závěrku
 
 > **§ 19a**
@@ -329,6 +471,68 @@ Emitent na evropském regulovaném trhu účtuje a sestavuje individuální záv
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3f3ad1708124de7d335b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 19a — Použití mezinárodních účetních standardů pro účtování a sestavení účetní závěrky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotka, která je obchodní společností a je emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu, použije pro účtování a sestavení účetní závěrky mezinárodní účetní standardy.
+>
+> (2) Pokud došlo k přijetí investičních cenných papírů emitovaných účetní jednotkou podle odstavce 1 k obchodování na evropském regulovaném trhu k jinému dni než k prvnímu dni účetního období, účetní jednotka, která dosud nepoužívá mezinárodní účetní standardy, rozhodne o jejich použití již od počátku účetního období, v němž k přijetí investičního cenného papíru k takovému obchodování došlo, nebo od počátku účetního období následujícího po účetním období, v němž byly investiční cenné papíry k takovému obchodování přijaty.
+>
+> (3) Pokud investiční cenné papíry emitované účetní jednotkou podle odstavce 1 již nejsou obchodovány na žádném z evropských regulovaných trhů a přestaly být takto obchodovány k jinému dni než k poslednímu dni účetního období, účetní jednotka rozhodne o použití mezinárodních účetních standardů až do konce účetního období, v němž investiční cenné papíry přestaly být takto obchodovány, nebo rozhodne o ukončení jejich použití k poslednímu dni účetního období předcházejícího účetnímu období, v němž investiční cenné papíry přestaly být takto obchodovány.
+>
+> (4) Postup podle odstavců 2 a [[#§ 3|3]] se použije, pokud to neodporuje přímo použitelnému předpisu Evropské unie nebo zvláštnímu právnímu předpisu.
+>
+> (5) Pokud investiční cenné papíry emitované účetní jednotkou podle odstavce 1 již nejsou obchodovány na žádném z evropských regulovaných trhů a nejvyšší orgán účetní jednotky rozhodne do konce účetního období, v němž investiční cenné papíry přestaly být takto obchodovány, o záměru požádat nejdéle do tří let od okamžiku, kdy investiční cenné papíry přestaly být takto obchodovány, o přijetí nového investičního cenného papíru k obchodování na evropském regulovaném trhu, může účetní jednotka rozhodnout o použití mezinárodních účetních standardů až do konce účetního období, ve kterém má dojít k přijetí tohoto investičního cenného papíru k obchodování.
+>
+> (6) Pokud nejpozději k poslednímu dni účetního období, ve kterém skončí tříletá lhůta podle odstavce 5, účetní jednotka požádá o přijetí investičního cenného papíru k obchodování na evropském regulovaném trhu, může prodloužit používání mezinárodních účetních standardů ještě o jedno účetní období. Pokud v tomto účetním období k přijetí investičního cenného papíru k takovému obchodování nedojde, nepoužije účetní jednotka od následujícího účetního období pro účtování a sestavení účetní závěrky mezinárodní účetní standardy.
+>
+> (7) Pokud lze předpokládat, že k rozvahovému dni bude účetní jednotka uvedená v § 22 odst. 3 písm. a) nebo b) povinna podrobit se sestavení konsolidované účetní závěrky za použití mezinárodních účetních standardů, může rozhodnout o použití mezinárodních účetních standardů pro účtování a sestavení své účetní závěrky k uvedenému rozvahovému dni. Rozhodnutí o použití mezinárodních účetních standardů pro účtování a sestavení účetní závěrky a stanovení účetního období, od kterého budou mezinárodní účetní standardy používány, podléhá schválení nejvyšším orgánem této účetní jednotky.
+>
+> (8) Pokud lze předpokládat, že k rozvahovému dni bude účetní jednotka uvedená v § 22 odst. 2 sestavovat konsolidovanou účetní závěrku za použití mezinárodních účetních standardů, může rozhodnout o použití mezinárodních účetních standardů pro účtování a sestavení své účetní závěrky k uvedenému rozvahovému dni. Rozhodnutí o použití mezinárodních účetních standardů pro účtování a sestavení účetní závěrky a stanovení účetního období, od kterého budou mezinárodní účetní standardy používány, podléhá schválení nejvyšším orgánem této účetní jednotky.
+>
+> (9) Využije-li účetní jednotka možnosti podle odstavců 7 nebo [[#§ 8|8]] a dojde ke změně původního předpokladu, a to i v průběhu účetního období, nepoužije účetní jednotka pro účtování a sestavení účetní závěrky mezinárodní účetní standardy od počátku účetního období, ve kterém došlo ke změně původního předpokladu, případně od počátku účetního období, které bylo stanoveno rozhodnutím nejvyššího orgánu účetní jednotky, nebo od následujícího účetního období. Jsou-li však k prvnímu dni následujícího účetního období důvody pro další použití mezinárodních účetních standardů, uvedené v odstavcích 1 až 8, použije účetní jednotka pro účtování a sestavení účetní závěrky mezinárodní účetní standardy v souladu s ustanoveními těchto odstavců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 22, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3f3ad1708124de7d335b -->
+
 ### § 20 — Ověřování účetní závěrky auditorem
 
 > **§ 20**
@@ -413,6 +617,64 @@ Povinný audit mají velké ÚJ (mimo vybrané ÚJ, které nejsou SVZ), všechny
 **Typicky rozhodné důkazy / podklady:** závěrky za dvě poslední období, výpočty kategorizačních kritérií, mzdová evidence (průměrný počet zaměstnanců), usnesení insolvenčního soudu, zápisy věřitelského výboru, smlouva s auditorem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b006987b54dc2bff4ff0 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 20 — Ověřování účetní závěrky auditorem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Řádnou nebo mimořádnou účetní závěrku jsou povinny mít ověřenou auditorem, kterého účetní jednotka určí způsobem stanoveným v zákoně upravujícím činnost auditorů, účetní jednotky, kterým tuto povinnost stanoví zvláštní právní předpis, a dále
+>
+> - a) velké účetní jednotky s výjimkou vybraných účetních jednotek, které nejsou subjekty veřejného zájmu,
+>
+> - b) střední účetní jednotky.
+>
+> (2) Účetní jednotky uvedené v odstavci 1 nejsou povinny mít auditorem ověřenou účetní závěrku
+>
+> - a) sestavenou v průběhu konkursu, a to po dobu nepřetržitě po sobě jdoucích 36 kalendářních měsíců, počínaje prvním dnem kalendářního měsíce následujícího po dni, kterým nastaly účinky prohlášení konkursu, pokud o jejím ověření auditorem nerozhodne věřitelský výbor,
+>
+> - b) sestavenou ke dni předcházejícímu dni, kterým nastanou účinky schválení reorganizačního plánu, pokud o jejím ověření auditorem nerozhodne věřitelský výbor,
+>
+> - c) pokud došlo ke zrušení konkursu z důvodu, že majetek dlužníka je pro uspokojení věřitelů zcela nepostačující.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b006987b54dc2bff4ff0 -->
 
 ### § 21 — Výroční zpráva
 
@@ -546,6 +808,94 @@ Výroční zprávu vyhotovuje každá ÚJ s povinným auditem (mimo situace § 2
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2fc425d8a36c08ae0491 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 21 — Výroční zpráva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky, které mají povinnost mít účetní závěrku ověřenou auditorem, jsou povinny vyhotovit výroční zprávu, jejímž účelem je uceleně, vyváženě a komplexně informovat o vývoji jejich výkonnosti, činnosti a stávajícím hospodářském postavení. Výroční zpráva se nevyhotovuje v případech uvedených v § 20 odst. 2.
+>
+> (2) Výroční zpráva musí kromě informací nezbytných pro naplnění účelu výroční zprávy dále obsahovat nejméně finanční a nefinanční informace
+>
+> - a) o skutečnostech, které nastaly až po rozvahovém dni a jsou významné pro naplnění účelu výroční zprávy podle odstavce 1,
+>
+> - b) o předpokládaném vývoji činnosti účetní jednotky,
+>
+> - c) o aktivitách v oblasti výzkumu a vývoje,
+>
+> - d) o nabytí vlastních akcií nebo vlastních podílů,
+>
+> - e) o aktivitách v oblasti ochrany životního prostředí a pracovněprávních vztazích,
+>
+> - f) o tom, zda účetní jednotka má pobočku nebo jinou část obchodního závodu v zahraničí,
+>
+> - g) požadované podle zvláštních právních předpisů.
+>
+> (3) Výroční zpráva obsahuje také informace o nehmotných zdrojích, na kterých zásadně závisí obchodní model účetní jednotky a které jsou pro ni zdrojem tvorby hodnoty, a to včetně vysvětlení, jak jsou tyto nehmotné zdroje pro její obchodní model zásadní a jakým způsobem jsou pro ni zdrojem tvorby hodnoty, jedná-li se o účetní jednotku, která je obchodní společností, spořitelním a úvěrním družstvem nebo pojišťovnou a která
+>
+> - a) je subjektem veřejného zájmu,
+>
+> - b) splňuje kritéria pro velkou účetní jednotku podle § 1b odst. 4 a
+>
+> - c) k rozvahovému dni překročila kritérium průměrného počtu 1 000 zaměstnanců za účetní období.
+>
+> (4) Střední účetní jednotky, malé účetní jednotky a mikro účetní jednotky neuvádějí ve výroční zprávě nefinanční informace podle odstavce 2 písm. a) až f). Účetní jednotka, která v souladu s tímto zákonem vyhotovila zprávu o udržitelnosti nebo konsolidovanou zprávu o udržitelnosti, není povinna uvádět ve výroční zprávě informace podle odstavce 2, uvede-li je ve zprávě o udržitelnosti nebo konsolidované zprávě o udržitelnosti.
+>
+> (5) Má-li to význam pro posouzení majetku a jiných aktiv, závazků a jiných pasiv, finanční situace a výsledku hospodaření účetní jednotky, musí účetní jednotka, která používá investiční nástroje, případně další obdobná aktiva a pasiva, uvést ve výroční zprávě také informace o
+>
+> - a) cílech a metodách řízení rizik dané účetní jednotky, včetně její politiky pro zajištění všech hlavních typů plánovaných transakcí, u kterých se použijí zajišťovací deriváty, a
+>
+> - b) cenových, úvěrových a likvidních rizicích a rizicích souvisejících s tokem hotovosti, kterým je účetní jednotka vystavena.
+>
+> (6) Výroční zpráva obsahuje též účetní závěrku podle [[#§ 18|§ 18]], [[#§ 19a|19a]], [[#§ 22|22]] a [[#§ 23a|23a]] a zprávu auditora, případně další dokumenty a údaje podle zvláštního právního předpisu.
+>
+> (7) Účetní jednotky, kterým povinnost mít účetní závěrku ověřenou auditorem stanoví zvláštní právní předpis, vyhotovují výroční zprávu nebo obdobný dokument, pokud jim tuto povinnost stanoví zvláštní právní předpis.
+>
+> (8) Pro ověřování výroční zprávy auditorem platí ustanovení [[#§ 20|§ 20]] obdobně; předmět ověření je stanoven [[zákonem upravujícím činnost auditorů|zákonem upravujícím činnost auditorů]].
+>
+> (9) Součástí výroční zprávy nebo obdobného dokumentu podle zvláštních právních předpisů u účetních jednotek uvedených v [[#§ 1f|§ 1f]], které se zapisují do veřejného rejstříku, je i přehled o majetku a závazcích.
+>
+> (10) Výroční zpráva účetní jednotky, která vyhotovuje zprávu o udržitelnosti, se vyhotovuje ve formátu Extensible Hypertext Markup Language (přípona xhtml).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 1b, § 18, § 19a, § 22, § 23a, § 1f
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2fc425d8a36c08ae0491 -->
+
 ### § 21a — Způsoby zveřejňování
 
 > **§ 21a**
@@ -653,6 +1003,70 @@ Zveřejnění = uložení do sbírky listin (resp. předání přes ČNB či spr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=43f3224f28746247bf18 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 21a — Způsoby zveřejňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Z účetních jednotek podle § 1 odst. 2 jsou povinny účetní závěrku nebo přehled o majetku a závazcích a výroční zprávu, vyžaduje-li jejich vyhotovení tento zákon nebo zvláštní právní předpis, zveřejnit ty, které se zapisují do veřejného rejstříku, nebo ty, kterým tuto povinnost stanoví zvláštní právní předpis. Účetní jednotky zveřejňují účetní závěrku v rozsahu, v jakém jimi byla sestavena (§ 18 odst. 4) a v případě účetních jednotek, které mají povinnost mít účetní závěrku ověřenou auditorem, v rozsahu a znění, ve kterém byla ověřena auditorem. Povinnosti účetních jednotek ke zveřejnění či uveřejnění jiných informací stanovené ve zvláštních právních předpisech nejsou dotčeny. Ustanovení o účetních záznamech podle tohoto zákona se mohou použít obdobně i v uvedených případech.
+>
+> (2) Účetní jednotky, které mají povinnost mít účetní závěrku ověřenou auditorem, zveřejní účetní závěrku i výroční zprávu po jejich ověření auditorem a po schválení k tomu příslušným orgánem podle zvláštních právních předpisů do 30 dnů od splnění obou uvedených podmínek, pokud zvláštní právní předpisy nestanoví jinak, nejpozději však do 12 měsíců od rozvahového dne zveřejňované účetní závěrky bez ohledu na to, zda byly tyto účetní záznamy uvedeným způsobem schváleny.
+>
+> (3) Účetní jednotky jsou povinny zveřejnit i zprávu auditora a informaci o tom, že zveřejňované účetní záznamy nebyly případně schváleny způsobem uvedeným v odstavci 2.
+>
+> (4) Účetní jednotky, které se zapisují do veřejného rejstříku, zveřejňují účetní závěrku a výroční zprávu jejich uložením do sbírky listin nejpozději v době stanovené v odstavci 2, přitom účetní závěrka může být uložena jako součást výroční zprávy. Povinnost zveřejnění uvedených účetních záznamů podle tohoto zákona účetní jednotka splnila okamžikem jejich předání rejstříkovému soudu.
+>
+> (5) Organizační složky státu zveřejňují účetní závěrku prostřednictvím ministerstva způsobem umožňujícím dálkový přístup; ustanovení zvláštních právních předpisů o nakládání s utajovanými a jinými obdobnými informacemi tímto nejsou dotčena. Zveřejňování účetních výkazů za Českou republiku se provádí obdobně.
+>
+> (6) Účetní jednotky, které mají povinnost mít účetní závěrku ověřenou auditorem, nesmí zveřejnit informace, které předtím nebyly ověřeny auditorem, způsobem, který by mohl uživatele uvést v omyl, že auditorem ověřeny byly.
+>
+> (7) Povinnost zveřejnění podle tohoto ustanovení se vztahuje na všechny informace účetní závěrky i výroční zprávy s výjimkou těch, na které se vztahuje utajení podle zvláštního právního předpisu.
+>
+> (8) Odstavce 1 až 7 platí obdobně pro konsolidovanou účetní závěrku, výroční zprávu, zprávu o platbách, konsolidovanou zprávu o platbách podle části sedmé, zprávu o udržitelnosti a konsolidovanou zprávu o udržitelnosti podle části osmé a pro zprávu o daních z příjmů a konsolidovanou zprávu o daních z příjmů podle části deváté.
+>
+> (9) Malé účetní jednotky a mikro účetní jednotky, které nemají povinnost mít účetní závěrku ověřenou auditorem, nemusejí zveřejňovat výkaz zisku a ztráty, pokud jim tuto povinnost nestanoví zvláštní právní předpis.
+>
+> (10) Jestliže účetní jednotka prezentuje vybrané údaje ze své účetní závěrky, uvede, že se jedná pouze o vybrané údaje z účetní závěrky a informaci o tom, ve které sbírce listin veřejného rejstříku je účetní závěrka uložena. K těmto vybraným údajům se nepřikládá zpráva auditora o ověření účetní závěrky. Místo této zprávy uvede účetní jednotka druh výroku auditora k účetní závěrce a odkaz na jakékoli záležitosti, na něž auditor zvláštním způsobem upozornil.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=43f3224f28746247bf18 -->
+
 ### § 21b — Zvláštní způsoby zveřejňování
 
 > **§ 21b**
@@ -727,6 +1141,70 @@ Podání opravného daňového přiznání (odst. 4) anuluje i přílohu (závě
 **Typicky rozhodné důkazy / podklady:** potvrzení o elektronickém podání (EPO/datová schránka) včetně příloh, XML struktura podání s údajem o rozsahu, výpis ze sbírky listin, komunikace se správcem daně o vadách podání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=45b5da218fdf1460a98a generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 21b — Zvláštní způsoby zveřejňování
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky, které podle zvláštního právního předpisu předávají výroční zprávu České národní bance, předávají účetní závěrku a výroční zprávu do sbírky listin veřejného rejstříku prostřednictvím České národní banky. Povinnost zveřejnění těchto účetních záznamů je splněna okamžikem jejich předání České národní bance.
+>
+> (2) Účetní jednotky, které jsou obchodními korporacemi a které nejsou účetními jednotkami podle odstavce 1, mohou předat účetní závěrku do sbírky listin veřejného rejstříku prostřednictvím podání u příslušného správce daně z příjmů.
+>
+> (3) Podání podle odstavce 2 musí obsahovat údaj o rozsahu, v jakém má být účetní závěrka předána rejstříkovému soudu, a lze jej učinit pouze
+>
+> - a) jako přílohu daňového přiznání nebo dodatečného daňového přiznání k dani z příjmů podaného v elektronické podobě, které není nepřípustné, a
+>
+> - b) ve formátu, struktuře a za podmínek zveřejněných podle [[daňového řádu|daňového řádu]] správcem daně z příjmů.
+>
+> (4) Dojde-li k podání opravného daňového přiznání k dani z příjmů, nepřihlíží se také k podání podle odstavce 2, které bylo učiněno jako příloha předchozího daňového přiznání k dani z příjmů.
+>
+> (5) Nebudou-li odstraněny vady podání spočívající ve skutečnosti, že podání nebylo učiněno způsobem podle odstavce 3, správce daně z příjmů nepředá účetní závěrku rejstříkovému soudu.
+>
+> (6) Jsou-li splněny podmínky odstavce 3,
+>
+> - a) správce daně z příjmů bez zbytečného odkladu předá rejstříkovému soudu účetní závěrku v požadovaném rozsahu v elektronické podobě prostřednictvím propojení informačních systémů veřejné správy,
+>
+> - b) je povinnost účetní jednotky zveřejnit účetní závěrku splněna okamžikem, kdy bylo podání podle odstavce 2 učiněno u příslušného správce daně z příjmů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=45b5da218fdf1460a98a -->
 
 ### § 22 — Konsolidovaná účetní závěrka
 
@@ -816,6 +1294,70 @@ Konsolidační povinnost stíhá ovládající obchodní společnosti, SÚD a po
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4dfbed2665d80822406b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 22 — Konsolidovaná účetní závěrka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidovanou účetní závěrkou se rozumí účetní závěrka sestavená a upravená metodami konsolidace. Nestanoví-li se dále jinak, ustanovení tohoto zákona týkající se účetní závěrky se použijí i pro konsolidovanou účetní závěrku; konsolidovaná účetní závěrka je ověřována auditorem.
+>
+> (2) Povinnost sestavit konsolidovanou účetní závěrku má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, účetní jednotka, která je obchodní společností, spořitelním a úvěrním družstvem nebo pojišťovnou a je ovládající osobou, s výjimkou ovládajících osob, které vykonávají společný vliv podle odstavce 4 (dále jen „konsolidující účetní jednotka“).
+>
+> (3) Povinnost podrobit se sestavení konsolidované účetní závěrky má, za podmínek stanovených tímto zákonem a prováděcími právními předpisy, osoba bez ohledu na její sídlo, pokud je
+>
+> - a) ovládanou osobou, s výjimkou ovládaných osob, ve kterých je vykonáván společný vliv podle odstavce 4 (dále jen „konsolidovaná účetní jednotka“),
+>
+> - b) osobou, ve které konsolidující nebo konsolidovaná účetní jednotka vykonává společný vliv (dále jen „účetní jednotka pod společným vlivem“), nebo
+>
+> - c) osobou, ve které konsolidující účetní jednotka vykonává podstatný vliv (dále jen „účetní jednotka přidružená“).
+>
+> (4) Společným vlivem se pro účely sestavení konsolidované účetní závěrky rozumí takový vliv, kdy osoba v konsolidačním celku spolu s jednou nebo více osobami nezahrnutými do konsolidačního celku ovládají jinou osobu, přičemž osoba vykonávající společný vliv samostatně nevykonává rozhodující vliv v této jiné osobě.
+>
+> (5) Podstatným vlivem se rozumí takový významný vliv na řízení nebo provozování účetní jednotky, jenž není rozhodující ani společný; není-li prokázán opak, považuje se za podstatný vliv dispozice nejméně s 20 % hlasovacích práv.
+>
+> (6) Konsolidační celek tvoří účetní jednotky uvedené v odstavcích 2 a 3 písm. a), a to za podmínek stanovených [[#§ 22a|§ 22a]], [[#§ 22aa|22aa]] a prováděcími právními předpisy.
+>
+> (7) Konsolidovaná účetní závěrka musí být sestavena tak, aby podávala věrný a poctivý obraz předmětu účetnictví a finanční situace konsolidačního celku, účetních jednotek pod společným vlivem a účetních jednotek přidružených.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22a, § 22aa
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4dfbed2665d80822406b -->
+
 ### § 22a — Výjimky z povinnosti konsolidace (malá skupina, nevýznamné ÚJ)
 
 > **§ 22a**
@@ -900,6 +1442,70 @@ Před sestavením KAZ vždy proveďte dvoustupňový test: (1) není skupina mal
 **Typicky rozhodné důkazy / podklady:** agregované výkazy skupiny, výpočty kritérií, smlouvy o prodeji podílů, doklady o právních/faktických omezeních (sankce, devizová opatření, insolvence), interní směrnice významnosti, stanovisko auditora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b6cd7d85439db5d002ec generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 22a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Malá skupina účetních jednotek nemá povinnost sestavit konsolidovanou účetní závěrku s výjimkou případů, kdy je některá účetní jednotka ve skupině subjektem veřejného zájmu.
+>
+> (2) Účetní jednotka, včetně subjektu veřejného zájmu, nemusí být zahrnuta do konsolidačního celku, pokud je splněna alespoň jedna z těchto podmínek:
+>
+> - a) v mimořádně výjimečných případech nelze informace nezbytné pro sestavení konsolidované účetní závěrky v souladu se zákonem získat bez nepřiměřených nákladů nebo bez zbytečného zdržení,
+>
+> - b) podíly této účetní jednotky jsou drženy výhradně za účelem jejich následného prodeje, nebo
+>
+> - c) přísná a dlouhodobá omezení podstatně brání konsolidující účetní jednotce ve
+>
+> - 1. výkonu jejích práv, pokud jde o nakládání s majetkem nebo o řízení této účetní jednotky, nebo
+>
+> - 2. výkonu jednotného řízení této účetní jednotky, jedná-li se o vztahy vzniklé na základě smlouvy uzavřené s účetní jednotkou nebo na základě zakladatelské či společenské smlouvy nebo stanov účetní jednotky nebo skládají-li se správní, řídící či dozorčí orgány této účetní jednotky a jedné nebo více jiných účetních jednotek, ve kterých nevykonává vliv, převážně ze stejných osob vykonávajících funkci během účetního období až do sestavení konsolidované účetní závěrky.
+>
+> (3) Konsolidující účetní jednotka nemá povinnost sestavit konsolidovanou účetní závěrku, pokud konsolidující účetní jednotka ovládá pouze konsolidované účetní jednotky, jež jsou jednotlivě i v úhrnu nevýznamné, nebo její konsolidované účetní jednotky mohou být vyloučeny z konsolidace podle odstavce 2.
+>
+> (4) Pro zahrnutí účetních jednotek pod společným vlivem do položek konsolidované účetní závěrky se přiměřeně použijí ustanovení odstavců 2 a [[#§ 3|3.]]
+>
+> (5) Účetní jednotky přidružené nemusejí být vykázány v položkách konsolidované účetní závěrky, je-li podíl konsolidující účetní jednotky na vlastním kapitálu účetní jednotky přidružené nevýznamný.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b6cd7d85439db5d002ec -->
 
 ### § 22aa — Osvobození subkonsolidujících ÚJ (tzv. sub-consolidation exemption)
 
@@ -996,6 +1602,72 @@ Výjimka se neuplatní, pokud:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=685c07c08510d5d14ddb generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 22aa
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidující účetní jednotka nemá povinnost sestavit konsolidovanou účetní závěrku, pokud je současně konsolidovanou účetní jednotkou zahrnutou do konsolidačního celku jiné konsolidující osoby, která je konsolidující účetní jednotkou nebo konsolidující zahraniční osobou řídící se právem členského státu Evropské unie (dále jen „jiná konsolidující osoba z Evropské unie“), za předpokladu, že tato jiná konsolidující osoba z Evropské unie drží
+>
+> - a) veškeré podíly konsolidující účetní jednotky; k akciím nebo podílům drženým členy správního, řídícího nebo dozorčího orgánu na základě zvláštních právních předpisů, stanov nebo společenské smlouvy se nepřihlíží,
+>
+> - b) alespoň 90 % podílů konsolidující účetní jednotky a nesestavení konsolidované účetní závěrky schválili ostatní akcionáři nebo společníci konsolidující účetní jednotky, nebo
+>
+> - c) méně než 90 % podílů konsolidující účetní jednotky a ostatní akcionáři nebo společníci držící určitý podíl v konsolidující účetní jednotce nepožádali nejpozději 6 měsíců před koncem účetního období o sestavení konsolidované účetní závěrky konsolidující účetní jednotky; tento podíl činí celkem alespoň 10 %.
+>
+> (2) Podle odstavce 1 se postupuje, pokud jsou současně splněny tyto podmínky:
+>
+> - a) konsolidující účetní jednotka a všechny jí konsolidované účetní jednotky jsou konsolidovány v konsolidované účetní závěrce konsolidačního celku jiné konsolidující osoby z Evropské unie,
+>
+> - b) konsolidovaná účetní závěrka podle písmene a) a konsolidovaná výroční zpráva jsou sestaveny jinou konsolidující účetní jednotkou a jsou ověřeny auditorem podle práva státu, kterým se tato jiná konsolidující osoba z Evropské unie řídí,
+>
+> - c) konsolidovanou účetní závěrku podle písmene a) a konsolidovanou výroční zprávu podle písmene b) a zprávu auditora odpovědného za ověření této konsolidované účetní závěrky a konsolidované výroční zprávy konsolidující účetní jednotka zveřejní podle [[#§ 21a|§ 21a]] zákona; tyto účetní záznamy musí být zveřejněny v českém jazyce a
+>
+> - d) příloha v účetní závěrce konsolidující účetní jednotky obsahuje název a sídlo jiné konsolidující osoby z Evropské unie, která konsolidovanou účetní závěrku podle písmene a) sestavila, a důvody nevytvoření konsolidačního celku.
+>
+> (3) Požaduje-li se sestavení konsolidované účetní závěrky a konsolidované výroční zprávy pro účely informování zaměstnanců nebo jejich zástupců podle zvláštního právního předpisu anebo na žádost správních orgánů nebo soudu pro jejich potřeby, postup podle odstavců 1 a [[#§ 2|2]] se nepoužije.
+>
+> (4) Účetní jednotky stanovené v § 19a odstavce 1 až 3 nepoužijí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a, § 2, § 19a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=685c07c08510d5d14ddb -->
+
 ### § 22b — Povinnosti konsolidující účetní jednotky
 
 > **§ 22b**
@@ -1056,6 +1728,54 @@ Konsolidující ÚJ musí včas a adresně informovat všechny zahrnované jedno
 **Typicky rozhodné důkazy / podklady:** doručenky sdělení, konsolidační manuál/balíček, harmonogram závěrkových prací skupiny, korespondence o součinnosti, konsolidovaná výroční zpráva a zpráva auditora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=fb31427daec657735b3f generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 22b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidující účetní jednotka je povinna včas sdělit účetním jednotkám uvedeným v § 22 odst. 3, že budou konsolidovány. Současně jim sdělí informaci o vymezení konsolidačního celku a určí, které účetní záznamy a ostatní dokumenty jsou povinny tyto účetní jednotky poskytnout konsolidující účetní jednotce pro sestavení konsolidované účetní závěrky.
+>
+> (2) Konsolidující účetní jednotka je povinna vyhotovit konsolidovanou výroční zprávu a zajistit její ověření auditorem; předmět ověření je stanoven zákonem upravujícím činnost auditorů. Povinnosti podle § 22 odst. 2 a [[#§ 3|3]] a podle odstavce 1 platí obdobně v souvislosti s povinností vyhotovit konsolidovanou výroční zprávu. Konsolidovanou výroční zprávou se rozumí výroční zpráva, která obsahuje informace o konsolidačním celku, účetních jednotkách pod společným vlivem a účetních jednotkách přidružených. Jsou-li obsahem konsolidované výroční zprávy i všechny informace o konsolidující účetní jednotce, které musí obsahovat výroční zpráva, nemusí tato konsolidující účetní jednotka vyhotovovat výroční zprávu. Nestanoví-li se dále jinak, ustanovení tohoto zákona týkající se výroční zprávy se použijí i pro konsolidovanou výroční zprávu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fb31427daec657735b3f -->
 
 ### § 23 — Metody konsolidace a technické podmínky sestavení KAZ
 
@@ -1136,6 +1856,64 @@ Metoda konsolidace plyne z typu vlivu (plná — dcery, poměrná — JV, ekviva
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=2b9a82e3dd8cd25df60f generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 23
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidující účetní jednotka je povinna pro sestavení konsolidované účetní závěrky použít metody
+>
+> - a) plné konsolidace,
+>
+> - b) poměrné konsolidace, nebo
+>
+> - c) konsolidace ekvivalencí (protihodnotou).
+>
+> (2) Konsolidovaná účetní závěrka se sestavuje ke konci rozvahového dne konsolidující účetní jednotky.
+>
+> (3) Účetní závěrky konsolidující účetní jednotky a jí konsolidovaných účetních jednotek a účetních jednotek pod společným vlivem použité pro sestavení konsolidované účetní závěrky sestavují tyto účetní jednotky v zásadě ke stejnému okamžiku. Předchází-li rozvahový den poslední účetní závěrky některé z konsolidovaných účetních jednotek a účetních jednotek pod společným vlivem o více jak 3 měsíce rozvahový den podle odstavce 2, jsou pro sestavení konsolidované účetní závěrky použity jimi sestavené účetní závěrky podle § 19 odst. 3 ke konci rozvahového dne konsolidující účetní jednotky. V případě účetních jednotek, které provozují činnost pojištění nebo zajištění podle zvláštních právních předpisů, může uvedená doba činit až 6 měsíců.
+>
+> (4) Délka účetního období při konsolidaci účetní závěrky musí být stejná. Dojde-li v průběhu účetního období ke změnám ve vymezení účetních jednotek, které mají povinnost podrobit se sestavení konsolidované účetní závěrky podle § 22 odst. 3, musí být tato informace uvedena v příloze v konsolidované účetní závěrce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 19, § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b9a82e3dd8cd25df60f -->
+
 ### § 23a — Použití mezinárodních účetních standardů v konsolidaci
 
 > **§ 23a**
@@ -1196,6 +1974,54 @@ KAZ podle IFRS je povinná jen pro konsolidující ÚJ, které jsou samy emitent
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o přijetí cenných papírů k obchodování, emisní podmínky, rozhodnutí orgánů o volbě rámce, konsolidační manuál, IFRS závěrky a převodové můstky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d33a67b6a83f27832539 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 23a — Použití mezinárodních účetních standardů v konsolidaci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidující účetní jednotka, která je emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu, použije pro sestavení konsolidované účetní závěrky mezinárodní účetní standardy.
+>
+> (2) Konsolidující účetní jednotky neuvedené v odstavci 1 mohou pro sestavení konsolidované účetní závěrky použít mezinárodní účetní standardy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d33a67b6a83f27832539 -->
 
 ### § 23b — Účetní výkazy za Českou republiku
 
@@ -1285,3 +2111,64 @@ Systém státního konsolidačního účetnictví navazuje na zákon č. 218/200
 - [ ] Zveřejnění výkazů za ČR způsobem umožňujícím dálkový přístup (§ 21a odst. 5)?
 
 **Typicky rozhodné důkazy / podklady:** seznam jednotek konsolidačního celku státu, výpis vlastnické struktury, výzva spravující jednotky s rozsahem záznamů, potvrzení o přenosu do CSÚIS, účetní závěrka a pomocný konsolidační přehled.
+
+<!-- LEGAL-REVISION:BEGIN id=b97ad38201c20ec21ae2 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 23b — Účetní výkazy za Českou republiku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Na sestavování účetních výkazů za Českou republiku se ustanovení § 22 až 22b, § 23 odst. 1 až 4 a [[#§ 23a|§ 23a]] nevztahují.
+>
+> (2) Za Českou republiku se sestavují roční účetní výkazy k poslednímu dni kalendářního roku v tomto členění:
+>
+> - a) souhrnný výkaz majetku a závazků státu,
+>
+> - b) souhrnný výkaz nákladů a výnosů státu,
+>
+> - c) výkaz peněžních toků,
+>
+> - d) příloha.
+>
+> (3) K účetním výkazům za Českou republiku musí být připojen podpisový záznam statutárního orgánu účetní jednotky, která tyto účetní výkazy sestavila.
+>
+> (4) Účetní jednotky zahrnuté do konsolidačního celku Česká republika a dílčích konsolidačních celků státu jsou povinny poskytnout svoji účetní závěrku a veškeré ostatní účetní záznamy potřebné pro sestavení účetních výkazů za Českou republiku a účetních výkazů za dílčí konsolidační celky státu podle prováděcích právních předpisů.
+>
+> (5) Podmínky způsobu sestavení ročních účetních výkazů a mezitímních účetních výkazů za Českou republiku, zejména vymezení konsolidačního celku Česká republika a dílčích konsolidačních celků státu, podmínky významnosti pro zahrnutí do konsolidačního celku Česká republika a do dílčích konsolidačních celků státu, pravidla konsolidace, včetně pravidel pro přenos účetních záznamů v technické formě, a dále způsob a rozsah použití metod konsolidace a určení odchylek stanoví prováděcí právní předpisy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 22, § 23, § 23a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b97ad38201c20ec21ae2 -->

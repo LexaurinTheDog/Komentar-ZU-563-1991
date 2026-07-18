@@ -90,6 +90,64 @@ Povinnost zprávy o udržitelnosti stíhá jen obchodní společnosti, spořitel
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1c3e26fc0eb2db8f49c6 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32f — Povinnost vyhotovovat zprávu o udržitelnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Zprávu o udržitelnosti vyhotovuje účetní jednotka, která je obchodní společností, spořitelním a úvěrním družstvem nebo pojišťovnou a která
+>
+> - a) je subjektem veřejného zájmu,
+>
+> - b) splňuje kritéria pro velkou účetní jednotku podle § 1b odst. 4 a
+>
+> - c) k rozvahovému dni překročila kritérium průměrného počtu 1 000 zaměstnanců za účetní období.
+>
+> (2) Účetní jednotka podle odstavce 1 s výjimkou účetní jednotky podle § 32g odst. 1 informuje zástupce zaměstnanců a projedná s nimi informace o udržitelnosti včetně prostředků pro jejich získávání a ověření postupem podle [[zákoníku práce|zákoníku práce]]. Tato účetní jednotka také zajistí předání stanoviska zástupců zaměstnanců k informacím podle věty první příslušným orgánům účetní jednotky.
+>
+> (3) Zpráva o udržitelnosti musí být ověřena auditorem; předmět ověření je upraven [[zákonem upravujícím činnost auditorů|zákonem upravujícím činnost auditorů]].
+>
+> (4) Účetní jednotka, která nemá povinnost vyhotovit zprávu o udržitelnosti, může za zprávu o udržitelnosti označit pouze dokument, který byl vyhotoven podle [[#§ 32h|§ 32h]] nebo podle mezinárodně uznávaných standardů pro vykazování udržitelnosti jiných než podle § 32h odst. 10. Tento dokument je za podmínek podle [[#§ 20|§ 20]] ověřován auditorem jako zpráva o udržitelnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1b, § 32g, § 32h, § 20
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1c3e26fc0eb2db8f49c6 -->
+
 ### § 32g — Výjimky z povinnosti vyhotovovat zprávu o udržitelnosti
 
 > **§ 32g**
@@ -224,6 +282,106 @@ Výjimky z § 32f je třeba testovat v pořadí: per se výjimky (odst. 1) → s
 **Typicky rozhodné důkazy / podklady:** konsolidovaná výroční zpráva / zpráva vedení mateřské osoby se zprávou o ověření, vymezení konsolidačního celku, výroční zpráva ÚJ s náležitostmi písm. c), doklad o zveřejnění ve sbírce listin, u třetích zemí doklad o použitých standardech a jejich rovnocennosti.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=0c67c64a5a54b55cbf2b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32g — Výjimka z povinnosti vyhotovovat zprávu o udržitelnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Zprávu o udržitelnosti není povinna vyhotovovat účetní jednotka, která je
+>
+> - a) malou a nepříliš složitou institucí podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky na úvěrové instituce43),
+>
+> - b) kaptivní pojišťovnou nebo kaptivní zajišťovnou podle zákona upravujícího pojišťovnictví, nebo
+>
+> - c) investičním fondem.
+>
+> (2) Zprávu o udržitelnosti není povinna vyhotovovat také účetní jednotka, pokud
+>
+> - a) není emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu,
+>
+> - b) konsolidovaná výroční zpráva nebo konsolidovaná zpráva vedení jiné konsolidující osoby z Evropské unie obsahující konsolidovanou zprávu o udržitelnosti
+>
+> - 1. obsahuje informace o této účetní jednotce a všech jejích konsolidovaných účetních jednotkách a
+>
+> - 2. je vyhotovena v souladu s právními předpisy právního řádu členského státu Evropské unie, podle jehož právního řádu byla ustavena, a
+>
+> - c) výroční zpráva nebo konsolidovaná výroční zpráva této účetní jednotky obsahuje
+>
+> - 1. název a sídlo jiné konsolidující osoby z Evropské unie, v jejímž konsolidačním celku je tato účetní jednotka zahrnuta,
+>
+> - 2. odkaz na internetové stránky, na kterých je uveřejněna konsolidovaná výroční zpráva nebo konsolidovaná zpráva vedení jiné konsolidující osoby z Evropské unie a zpráva o ověření zprávy o udržitelnosti, výroční zprávy nebo zprávy vedení, a
+>
+> - 3. informaci o tom, že tato účetní jednotka není povinna vyhotovovat zprávu o udržitelnosti.
+>
+> (3) Zprávu o udržitelnosti není povinna vyhotovovat také účetní jednotka, pokud
+>
+> - a) není emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu,
+>
+> - b) konsolidovaná zpráva o udržitelnosti jiné konsolidující zahraniční osoby řídící se právem jiného státu než členského státu Evropské unie (dále jen „jiná konsolidující osoba ze třetí země“)
+>
+> - 1. obsahuje informace o této účetní jednotce a všech jejích konsolidovaných účetních jednotkách,
+>
+> - 2. je vyhotovena v souladu se standardy pro podávání zpráv o udržitelnosti podle přímo použitelného předpisu Evropské unie vydaného podle čl. 29b směrnice Evropského parlamentu a Rady 2013/34/EU, v platném znění48), nebo způsobem rovnocenným těmto standardům podle prováděcího předpisu Evropské unie,
+>
+> - 3. obsahuje informace podle přímo použitelného předpisu Evropské unie upravujícího rámec pro usnadnění udržitelných investic44) ve vztahu k činnosti této účetní jednotky a k činnostem všech jejích konsolidovaných účetních jednotek, nejsou-li tyto informace součástí výroční zprávy této účetní jednotky,
+>
+> - 4. je vyhotovena ve formátu Extensible Hypertext Markup Language (přípona xhtml) a značkována v souladu s nařízením Evropské komise vydaným v přenesené pravomoci upravujícím jednotný elektronický formát pro podávání zpráv45),
+>
+> - 5. je ověřena v souladu s pravidly právního řádu státu, podle kterých byla jiná konsolidující osoba ze třetí země ustavena, a
+>
+> - 6. je společně se zprávou o jejím ověření zveřejněna ve veřejném rejstříku, v němž je zapsána tato účetní jednotka, ve lhůtě pro zveřejnění výroční zprávy, a
+>
+> - c) výroční zpráva nebo konsolidovaná výroční zpráva této účetní jednotky obsahuje
+>
+> - 1. název a sídlo jiné konsolidující osoby ze třetí země, v jejímž konsolidačním celku je tato účetní jednotka zahrnuta,
+>
+> - 2. odkaz na internetové stránky, na kterých se uveřejňuje konsolidovaná zpráva o udržitelnosti jiné konsolidující osoby ze třetí země a zpráva o jejím ověření,
+>
+> - 3. informaci o tom, že tato účetní jednotka není povinna vyhotovovat zprávu o udržitelnosti, a
+>
+> - 4. informace podle přímo použitelného předpisu Evropské unie upravujícího rámec pro usnadnění udržitelných investic44) ve vztahu k činnosti této účetní jednotky a k činnostem všech jejích konsolidovaných účetních jednotek, nejsou-li tyto informace součástí konsolidované zprávy o udržitelnosti jiné konsolidující osoby ze třetí země.
+>
+> (4) Zprávu o udržitelnosti není povinna vyhotovovat účetní jednotka, která vyhotovila v souladu s tímto zákonem konsolidovanou zprávu o udržitelnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2013/34 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c67c64a5a54b55cbf2b -->
 
 ### § 32h — Vymezení zprávy o udržitelnosti
 
@@ -405,6 +563,124 @@ Zpráva o udržitelnosti je standardizovaný oddíl výroční zprávy: obsah ur
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=805d5624be8dd53d2684 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32h — Vymezení zprávy o udržitelnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Zpráva o udržitelnosti je samostatným oddílem výroční zprávy. Nevyhotovuje-li účetní jednotka výroční zprávu, je povinna zveřejnit zprávu o udržitelnosti společně se zprávou auditora o jejím ověření způsobem podle [[#§ 21a|§ 21a]].
+>
+> (2) Účelem zprávy o udržitelnosti je poskytnout informace potřebné k pochopení dopadů činnosti účetní jednotky na udržitelnost a k pochopení vlivu udržitelnosti na vývoj, výkonnost a postavení účetní jednotky. Udržitelností se pro účely účetnictví rozumí otázky
+>
+> - a) životního prostředí,
+>
+> - b) sociální,
+>
+> - c) lidských práv a jejich dodržování,
+>
+> - d) správy a řízení,
+>
+> - e) zaměstnanecké a
+>
+> - f) boje proti korupci a úplatkářství.
+>
+> (3) Zpráva o udržitelnosti obsahuje
+>
+> - a) stručný popis obchodního modelu a strategie účetní jednotky včetně
+>
+> - 1. popisu odolnosti obchodního modelu a strategie účetní jednotky vůči rizikům spojeným s udržitelností,
+>
+> - 2. příležitostí pro účetní jednotku vztahujících se k udržitelnosti,
+>
+> - 3. plánů účetní jednotky včetně opatření přijatých k jejich zavedení a souvisejících finančních a investičních plánů, které mají zajistit, aby obchodní model a strategie účetní jednotky byly slučitelné s přechodem na udržitelné hospodářství a s omezením globálního oteplování na 1,5 °C v souladu s Pařížskou dohodou46) a s cílem dosáhnout klimatické neutrality do roku 2050 podle přímo použitelného předpisu Evropské unie upravujícího evropský právní rámec pro klima47),
+>
+> - 4. informace, jak je účetní jednotka vystavena činnostem souvisejícím s uhlím, ropou a plynem, je-li těmto činnostem vystavena,
+>
+> - 5. způsobu, jakým obchodní model a strategie účetní jednotky zohledňují zájmy jejích zúčastněných stran a dopady účetní jednotky na udržitelnost, a
+>
+> - 6. popisu, jak je strategie účetní jednotky s ohledem na udržitelnost zaváděna,
+>
+> - b) popis časově vymezených cílů souvisejících s udržitelností, které si účetní jednotka určila, případně také absolutních cílů snížení emisí skleníkových plynů alespoň pro roky 2030 a 2050, včetně
+>
+> - 1. popisu pokroku, jakého účetní jednotka při plnění těchto cílů dosáhla, a
+>
+> - 2. prohlášení o tom, zda jsou tyto cíle účetní jednotky týkající se otázek životního prostředí založeny na přesvědčivých vědeckých důkazech,
+>
+> - c) popis úlohy příslušných orgánů účetní jednotky s ohledem na udržitelnost, včetně popisu jejich odborných znalostí a dovedností ve vztahu k plnění této úlohy či přístupu k těmto odborným znalostem a dovednostem,
+>
+> - d) informace o existenci systémů pobídek spojených s udržitelností, které jsou nabízeny členům orgánů účetní jednotky,
+>
+> - e) popis politik účetní jednotky ve vztahu k udržitelnosti,
+>
+> - f) popis postupu náležité péče, který účetní jednotka uplatňuje ve vztahu k udržitelnosti a případně také dodržování požadavků Evropské unie na uplatňování postupů náležité péče,
+>
+> - g) popis hlavních skutečných nebo potenciálních nepříznivých dopadů spojených s vlastní provozní činností účetní jednotky, s jejím hodnotovým řetězcem, produkty a službami, obchodními vztahy a dodavatelským řetězcem,
+>
+> - h) popis opatření přijatých účetní jednotkou k identifikaci a sledování dopadů podle písmene g) a dalších nepříznivých dopadů, které musí účetní jednotka identifikovat podle požadavků Evropské unie na uplatňování postupů náležité péče,
+>
+> - i) popis opatření přijatých účetní jednotkou, která mají skutečným nebo potenciálním nepříznivým dopadům podle písmene g) předcházet, zmírnit je, napravit je nebo je odstranit, a to včetně popisu výsledků uplatňování těchto opatření, a
+>
+> - j) popis hlavních rizik pro účetní jednotku spojených s udržitelností, včetně popisu
+>
+> - 1. hlavních závislostí účetní jednotky na těchto otázkách a
+>
+> - 2. způsobu, jakým účetní jednotka tato rizika řídí.
+>
+> (4) Zpráva o udržitelnosti obsahuje také ukazatele vztahující se k informacím uvedeným ve zprávě o udržitelnosti a postup použitý pro určení těchto informací.
+>
+> (5) Informace o udržitelnosti se ve zprávě o udržitelnosti uvádějí z krátkodobého, střednědobého nebo dlouhodobého časového hlediska tak, aby byl naplněn účel zprávy o udržitelnosti.
+>
+> (6) Zpráva o udržitelnosti obsahuje také informace o vlastní činnosti účetní jednotky a jejím hodnotovém řetězci, včetně informací o jejích produktech a službách, obchodních vztazích a dodavatelském řetězci. Účetní jednotka při získávání informací potřebných k vyhotovení zprávy o udržitelnosti může od účetních jednotek ve svém hodnotovém řetězci, které nemají povinnost vyhotovit a zveřejnit zprávu o udržitelnosti, požadovat pouze informace v rozsahu dobrovolných standardů pro podávání zpráv o udržitelnosti pro nekotované malé a střední podniky vydaných Evropskou poradní skupinou pro účetní výkaznictví (EFRAG) dne 17. prosince 2024 nebo podobných později přijatých standardů, které je nahrazují; to neplatí pro informace obvykle sdílené v rámci odvětví. Uvedení informací podle věty druhé se považuje za splnění požadavků na uvedení informací o hodnotovém řetězci.
+>
+> (7) Vztahují-li se informace uvedené v jiných částech výroční zprávy nebo částky uvedené v účetní závěrce k informacím obsaženým ve zprávě o udržitelnosti, účetní jednotka uvede ve zprávě o udržitelnosti k těmto údajům dodatečné vysvětlení a na tyto údaje odkáže.
+>
+> (8) Zpráva o udržitelnosti nemusí ve výjimečných případech a na základě odůvodněného rozhodnutí příslušných orgánů účetní jednotky obsahovat informace týkající se budoucího vývoje účetní jednotky nebo právě projednávaných záležitostí, pokud by uvedení těchto informací ve zprávě o udržitelnosti mohlo výrazně poškodit obchodní postavení této účetní jednotky, ledaže by neuvedení těchto informací znemožnilo naplnit účel zprávy o udržitelnosti.
+>
+> (9) Zpráva o udržitelnosti obsahuje také informace podle přímo použitelného předpisu Evropské unie upravujícího rámec pro usnadnění udržitelných investic44).
+>
+> (10) Zpráva o udržitelnosti se vyhotovuje v souladu se standardy pro podávání zpráv o udržitelnosti podle přímo použitelného předpisu Evropské unie vydaného podle čl. 29b směrnice Evropského parlamentu a Rady 2013/34/EU, v platném znění48).
+>
+> (11) Zpráva o udržitelnosti je značkována podle přímo použitelného předpisu Evropské unie upravujícího jednotný elektronický formát pro podávání zpráv45).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a
+
+##### Souvisící předpisy
+
+- akt EU 2013/34 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=805d5624be8dd53d2684 -->
+
 ### § 32i — Povinnost vyhotovovat konsolidovanou zprávu o udržitelnosti
 
 > **§ 32i**
@@ -489,6 +765,62 @@ Konsolidovanou zprávu o udržitelnosti sestavuje konsolidující ÚJ, která je
 **Typicky rozhodné důkazy / podklady:** konsolidovaná účetní závěrka, vymezení konsolidačního celku, výpočty skupinových kritérií a konsolidovaného počtu zaměstnanců, zápisy z projednání se zástupci zaměstnanců, smlouva s auditorem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c5414cf1356be15bb4a2 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32i — Povinnost vyhotovovat konsolidovanou zprávu o udržitelnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidovanou zprávu o udržitelnosti vyhotovuje konsolidující účetní jednotka, která je
+>
+> - a) subjektem veřejného zájmu a
+>
+> - b) konsolidující účetní jednotkou velké skupiny účetních jednotek, která na konsolidovaném základě překročila kritérium průměrného počtu 1 000 zaměstnanců za účetní období.
+>
+> (2) Povinnosti podle § 32f odst. 2 platí obdobně i pro konsolidující účetní jednotku podle odstavce 1 s výjimkou konsolidující účetní jednotky podle § 32j odst. 1.
+>
+> (3) Konsolidovaná zpráva o udržitelnosti musí být ověřena auditorem; předmět ověření je upraven [[zákonem upravujícím činnost auditorů|zákonem upravujícím činnost auditorů]].
+>
+> (4) Účetní jednotka, která nemá povinnost vyhotovit konsolidovanou zprávu o udržitelnosti, může za konsolidovanou zprávu o udržitelnosti označit pouze dokument, který byl vyhotoven podle [[#§ 32k|§ 32k]] nebo podle mezinárodně uznávaných standardů pro vykazování udržitelnosti jiných než podle § 32h odst. 10. Tento dokument je ověřován auditorem jako zpráva o udržitelnosti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32f, § 32j, § 32k, § 32h
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c5414cf1356be15bb4a2 -->
 
 ### § 32j — Výjimky z povinnosti vyhotovovat konsolidovanou zprávu o udržitelnosti
 
@@ -606,6 +938,98 @@ Výjimky z konsolidované zprávy kopírují logiku § 32g: absolutně jsou vyň
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d0a0bdd1d1cf6a9b455a generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32j — Výjimky z povinnosti vyhotovovat konsolidovanou zprávu o udržitelnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidovanou zprávu o udržitelnosti není povinna vyhotovovat účetní jednotka, která je investičním fondem.
+>
+> (2) Konsolidovanou zprávu o udržitelnosti není povinna vyhotovovat konsolidující účetní jednotka, pokud
+>
+> - a) není velkou účetní jednotkou, která je emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu,
+>
+> - b) konsolidovaná výroční zpráva nebo konsolidovaná zpráva vedení jiné konsolidující osoby z Evropské unie obsahující konsolidovanou zprávu o udržitelnosti
+>
+> - 1. obsahuje informace o této konsolidující účetní jednotce a všech jejích konsolidovaných účetních jednotkách a
+>
+> - 2. je vyhotovena v souladu s právními předpisy právního řádu členského státu Evropské unie, podle jehož právního řádu byla ustavena, a
+>
+> - c) výroční zpráva nebo konsolidovaná výroční zpráva této konsolidující účetní jednotky obsahuje
+>
+> - 1. název a sídlo jiné konsolidující osoby z Evropské unie, v jejímž konsolidačním celku je tato konsolidující účetní jednotka zahrnuta,
+>
+> - 2. odkaz na internetové stránky, na kterých je uveřejněna konsolidovaná výroční zpráva nebo konsolidovaná zpráva vedení jiné konsolidující osoby z Evropské unie a zpráva o ověření konsolidované zprávy o udržitelnosti, konsolidované výroční zprávy nebo konsolidované zprávy vedení, a
+>
+> - 3. informaci o tom, že tato konsolidovaná účetní jednotka není povinna vyhotovovat konsolidovanou zprávu o udržitelnosti.
+>
+> (3) Konsolidovanou zprávu o udržitelnosti není povinna vyhotovovat také konsolidující účetní jednotka, pokud
+>
+> - a) není velkou účetní jednotkou, která je emitentem investičních cenných papírů přijatých k obchodování na evropském regulovaném trhu,
+>
+> - b) konsolidovaná zpráva o udržitelnosti jiné konsolidující osoby ze třetí země
+>
+> - 1. obsahuje informace o této konsolidující účetní jednotce a všech jejích konsolidovaných účetních jednotkách,
+>
+> - 2. je vyhotovena v souladu se standardy pro podávání zpráv o udržitelnosti podle přímo použitelného předpisu Evropské unie vydaného podle čl. 29b směrnice Evropského parlamentu a Rady 2013/34/EU, v platném znění48), nebo způsobem rovnocenným těmto standardům podle prováděcího předpisu Evropské unie,
+>
+> - 3. obsahuje informace podle přímo použitelného předpisu Evropské unie upravujícího rámec pro usnadnění udržitelných investic44) ve vztahu k činnosti konsolidované účetní jednotky zahrnuté do konsolidačního celku této konsolidující účetní jednotky, která není povinna vyhotovovat zprávu o udržitelnosti podle § 32g odst. 3, nejsou-li tyto informace součástí zprávy o udržitelnosti této konsolidující účetní jednotky,
+>
+> - 4. je vyhotovena ve formátu Extensible Hypertext Markup Language (přípona xhtml) a značkována v souladu s nařízením Evropské komise vydaným v přenesené pravomoci upravujícím jednotný elektronický formát pro podávání zpráv45),
+>
+> - 5. je ověřena v souladu s pravidly právního řádu státu, podle kterých byla jiná konsolidující osoba ze třetí země ustavena, a
+>
+> - 6. je společně se zprávou o jejím ověření zveřejněna ve veřejném rejstříku, v němž je zapsána tato konsolidující účetní jednotka, ve lhůtě pro zveřejnění výroční zprávy, a
+>
+> - c) výroční zpráva nebo konsolidovaná výroční zpráva této konsolidující účetní jednotky obsahuje
+>
+> - 1. název a sídlo jiné konsolidující osoby ze třetí země, v jejímž konsolidačním celku je tato konsolidující účetní jednotka zahrnuta,
+>
+> - 2. odkaz na internetové stránky, na kterých se uveřejňuje konsolidovaná zpráva o udržitelnosti jiné konsolidující osoby ze třetí země a zpráva o jejím ověření,
+>
+> - 3. informaci o tom, že tato konsolidující účetní jednotka není povinna vyhotovovat konsolidovanou zprávu o udržitelnosti, a
+>
+> - 4. v rámci zprávy o udržitelnosti informace podle přímo použitelného předpisu Evropské unie upravujícího rámec pro usnadnění udržitelných investic44) ve vztahu k činnosti konsolidované účetní jednotky zahrnuté do konsolidačního celku této konsolidující účetní jednotky, která není povinna vyhotovovat zprávu o udržitelnosti podle § 32g odst. 3, nejsou-li součástí konsolidované zprávy o udržitelnosti jiné konsolidující osoby ze třetí země, v jejímž konsolidačním celku je tato konsolidující účetní jednotka zahrnuta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 32g
+
+##### Souvisící předpisy
+
+- akt EU 2013/34 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0a0bdd1d1cf6a9b455a -->
+
 ### § 32k — Vymezení konsolidované zprávy o udržitelnosti
 
 > **§ 32k**
@@ -693,6 +1117,64 @@ Konsolidovaná zpráva o udržitelnosti přebírá obsahový i formální režim
 **Typicky rozhodné důkazy / podklady:** vymezení konsolidačního celku, skupinová analýza dvojí významnosti včetně posouzení jednotlivých ÚJ, environmentální a sociální data dceřiných společností, dokumentace posouzení významných rozdílů, seznam osvobozených ÚJ, XHTML výstup a zpráva auditora.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=98308d48107a01d58c7f generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32k — Vymezení konsolidované zprávy o udržitelnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Konsolidovaná zpráva o udržitelnosti je samostatným oddílem konsolidované výroční zprávy. Nevyhotovuje-li konsolidující účetní jednotka velké skupiny účetních jednotek konsolidovanou výroční zprávu, je tato účetní jednotka povinna zveřejnit konsolidovanou zprávu o udržitelnosti společně se zprávou auditora o jejím ověření způsobem podle [[#§ 21a|§ 21a]].
+>
+> (2) Účelem konsolidované zprávy o udržitelnosti je poskytnout informace potřebné k pochopení dopadů činnosti skupiny na udržitelnost a k pochopení vlivu udržitelnosti na vývoj, výkonnost a postavení skupiny.
+>
+> (3) Ustanovení § 32h odst. 3 až 11 se pro konsolidovanou zprávu o udržitelnosti použijí obdobně.
+>
+> (4) Jsou-li významné rozdíly mezi nepříznivými dopady podle § 32h odst. 3 písm. g) u skupiny a u jedné nebo více konsolidovaných účetních jednotek patřících do této skupiny, konsolidovaná zpráva o udržitelnosti obsahuje také informaci o nepříznivých dopadech podle § 32h odst. 3 písm. g) ve vztahu ke konsolidovaným účetním jednotkám, kterých se významné rozdíly v těchto dopadech týkají.
+>
+> (5) Jsou-li významné rozdíly mezi hlavními riziky spojenými s udržitelností pro skupinu a pro jednu nebo více konsolidovaných účetních jednotek patřících do této skupiny, konsolidovaná zpráva o udržitelnosti obsahuje také informaci o hlavních rizicích spojených s otázkami udržitelnosti pro konsolidované účetní jednotky, kterých se významné rozdíly v těchto rizicích týkají.
+>
+> (6) Konsolidovaná zpráva o udržitelnosti obsahuje také seznam konsolidovaných účetních jednotek zahrnutých do konsolidačního celku konsolidující účetní jednotky vyhotovující tuto zprávu, které nevyhotovují zprávu o udržitelnosti podle § 32g odst. 2 nebo [[#§ 3|3]] nebo konsolidovanou zprávu o udržitelnosti podle § 32j odst. 2 nebo [[#§ 3|3.]]
+>
+> (7) Skupinou se pro účely konsolidované zprávy o udržitelnosti rozumí skupina tvořená konsolidující účetní jednotkou a všemi jejími konsolidovanými účetními jednotkami.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a, § 32h, § 32g, § 3, § 32j
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=98308d48107a01d58c7f -->
 
 ## Shrnutí — klíčové vazby a přehled
 

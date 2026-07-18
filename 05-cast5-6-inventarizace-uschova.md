@@ -103,6 +103,58 @@ Pro **vybrané účetní jednotky** (stát, územní samosprávné celky, přís
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d91e087deaf35f580b7c generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky inventarizací zjišťují skutečný stav veškerého majetku a závazků a ověřují, zda zjištěný skutečný stav odpovídá stavu majetku a závazků v účetnictví a zda nejsou dány důvody pro účtování o položkách podle § 25 odst. 3. Inventarizaci účetní jednotky provádějí k okamžiku, ke kterému sestavují účetní závěrku jako řádnou nebo mimořádnou (dále jen „periodická inventarizace“). V případech uvedených v odstavci 2 účetní jednotky mohou provádět inventarizaci i v průběhu účetního období (dále jen „průběžná inventarizace“). Ustanovení o provádění inventarizací podle zvláštních právních předpisů nejsou tímto dotčena.
+>
+> (2) Průběžnou inventarizaci mohou účetní jednotky provádět pouze u zásob, u nichž účtují podle druhů nebo podle míst jejich uložení nebo hmotně odpovědných osob, a dále u dlouhodobého hmotného movitého majetku, jenž vzhledem k funkci, kterou plní v účetní jednotce, je v soustavném pohybu a nemá stálé místo, kam náleží. Termín této inventarizace si stanoví sama účetní jednotka. Každý druh zásob a uvedeného hmotného majetku musí být takto inventarizován alespoň jednou za účetní období.
+>
+> (3) Účetní jednotky jsou povinny prokázat provedení inventarizace u veškerého majetku a závazků po dobu 5 let po jejím provedení.
+>
+> (4) Požadavky na organizační zajištění a způsob provedení inventarizace u vybraných účetních jednotek, včetně bližších podmínek inventarizace položek jiných aktiv a jiných pasiv stanoví prováděcí právní předpis.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d91e087deaf35f580b7c -->
+
 ### § 30 — Inventurní soupisy, způsoby inventury, inventarizační rozdíly
 
 > **§ 30**
@@ -260,6 +312,102 @@ Zákon výslovně rozšiřuje inventarizační povinnost i na položky zachycen�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=afe847a8a98c6e628d5a generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky zjišťují při inventarizaci skutečné stavy majetku a závazků a zaznamenávají je v inventurních soupisech. Tyto stavy zjišťují
+>
+> - a) fyzickou inventurou u majetku, u kterého lze vizuálně zjistit jeho existenci, nebo
+>
+> - b) dokladovou inventurou u závazků a majetku, u kterého nelze vizuálně zjistit jeho existenci, a to včetně jiných aktiv, jiných pasiv a skutečností účtovaných v knize podrozvahových účtů.
+>
+> (2) Účetní jednotky při inventarizaci postupují tak, že provádějí jednu nebo více inventur a ověřují, zda zjištěný skutečný stav odpovídá stavu v účetnictví.
+>
+> (3) Účetní jednotky mohou při fyzické inventuře zjišťovat skutečný stav majetku počítáním, měřením, vážením a dalšími obdobnými způsoby, případně mohou využívat účetní záznamy, které prokazují jeho existenci.
+>
+> (4) Při periodické inventarizaci mohou účetní jednotky při zjišťování skutečného stavu stanovit den, ke kterému skutečný stav zjišťují a který předchází rozvahovému dni (dále jen „rozhodný den“), a mohou dokončit zjišťování skutečného stavu podle účetních záznamů, které prokazují přírůstky a úbytky majetku a závazků, které nastaly mezi tímto dnem a rozvahovým dnem.
+>
+> (5) Při průběžné inventarizaci se odstavec 4 použije obdobně.
+>
+> (6) Účetní jednotky při periodické inventarizaci
+>
+> - a) mohou zahájit inventuru nejdříve čtyři měsíce před rozvahovým dnem,
+>
+> - b) ukončí inventuru nejpozději dva měsíce po rozvahovém dni.
+>
+> (7) Inventurní soupisy jsou průkazné účetní záznamy, které musí obsahovat
+>
+> - a) skutečnosti podle odstavce 1, a to tak, aby bylo možno zjištěný majetek a závazky též jednoznačně určit,
+>
+> - b) podpisový záznam osoby odpovědné za zjištění skutečností podle písmene a) a podpisový záznam osoby odpovědné za provedení inventury,
+>
+> - c) způsob zjišťování skutečných stavů,
+>
+> - d) ocenění majetku a závazků při periodické inventarizaci k rozvahovému dni nebo i k rozhodnému dni, pokud jej účetní jednotka stanovila,
+>
+> - e) ocenění majetku při průběžné inventarizaci ke dni ukončení inventury nebo i k rozhodnému dni, pokud jej účetní jednotka stanovila,
+>
+> - f) okamžik, ke kterému se sestavuje účetní závěrka,
+>
+> - g) rozhodný den, pokud jej účetní jednotka stanovila,
+>
+> - h) okamžik zahájení a okamžik ukončení inventury.
+>
+> (8) Při průběžné inventarizaci mohou být inventurní soupisy podle odstavce 7 nahrazeny průkazným účetním záznamem o provedení fyzické inventury a o vyúčtování inventarizačních rozdílů.
+>
+> (9) Pro inventarizaci kulturních památek, sbírek muzejní povahy a archeologických nálezů se ustanovení odstavců 1 až 8 použijí pouze v rozsahu, v jakém je účetní jednotka schopna zajistit inventarizaci tohoto majetku společně s plněním zvláštních povinností o zjišťování skutečného stavu tohoto majetku. Požadavky na organizační zajištění a způsob provedení inventarizace kulturních památek, sbírek muzejní povahy a archeologických nálezů stanoví prováděcí právní předpis.
+>
+> (10) Inventarizačními rozdíly se rozumí rozdíly mezi skutečným stavem a stavem v účetnictví, které nelze prokázat způsobem stanoveným tímto zákonem, kdy
+>
+> - a) skutečný stav je nižší než stav v účetnictví a rozdíl se označuje jako manko, popřípadě schodek u peněžních hotovostí a cenin, nebo
+>
+> - b) skutečný stav je vyšší než stav v účetnictví a rozdíl se označuje jako přebytek.
+>
+> (11) Inventarizační rozdíly vyúčtují účetní jednotky do účetního období, za které se inventarizací ověřuje stav majetku a závazků.
+>
+> (12) Ustanovení týkající se inventarizace majetku a závazků se použijí i pro inventarizaci jiných aktiv a jiných pasiv, včetně skutečností účtovaných v knize podrozvahových účtů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afe847a8a98c6e628d5a -->
+
 ## Část šestá — Úschova účetních záznamů
 
 ### § 31 — Úschovní lhůty a přechod povinností
@@ -368,6 +516,68 @@ Zákon řeší přechod povinností úschovy při zániku účetní jednotky, a 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=756d53071326867502c8 generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 31
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Účetní jednotky jsou povinny uschovávat účetní záznamy pro účely vedení účetnictví po dobu stanovenou v odstavci 2 nebo [[#§ 3|3.]] Nestanoví-li tento zákon jinak, platí pro nakládání s nimi zvláštní právní předpisy.
+>
+> (2) Účetní záznamy se uschovávají, pokud v [[#§ 32|§ 32]] není stanoveno jinak,
+>
+> - a) účetní závěrka a výroční zpráva po dobu 10 let počínajících koncem účetního období, kterého se týkají,
+>
+> - b) účetní doklady, účetní knihy, odpisové plány, inventurní soupisy, účtový rozvrh, přehledy po dobu 5 let počínajících koncem účetního období, kterého se týkají,
+>
+> - c) účetní záznamy, kterými účetní jednotky dokládají vedení účetnictví ([[#§ 33|§ 33]]), po dobu 5 let počínajících koncem účetního období, kterého se týkají.
+>
+> (3) Povinnosti spojené s uschováním účetních záznamů, jakož i povinnosti podle § 33 odst. 3 přecházejí u účetních jednotek uvedených v
+>
+> - a) § 1 odst. 2 písm. a) až c) na právního nástupce této účetní jednotky, a není-li ho, na likvidátora či insolvenčního správce nebo jinou osobu podle zvláštních právních předpisů,
+>
+> - b) § 1 odst. 2 písm. d) až h) v případě úmrtí na dědice, převezme-li věci, práva či jiné majetkové hodnoty, náležející k účetní jednotce; připadne-li dědictví nebo jeho část zahrnující věci, práva či jiné majetkové hodnoty, které náleží k účetní jednotce, státu, přecházejí uvedené povinnosti na příslušnou organizační složku státu, která vyrozumí státní archiv.
+>
+> (4) V případech, které nejsou uvedeny v odstavci 3, je povinna účetní jednotka podle § 1 odst. 2 písm. a) a c) před svým zánikem a účetní jednotka podle § 1 odst. 2 písm. b), d) až l) před zánikem povinnosti vést účetnictví zajistit povinnosti spojené s uschováním účetních záznamů a o způsobu tohoto zajištění prokazatelně informovat státní archiv.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 32, § 33, § 1
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=756d53071326867502c8 -->
+
 ### § 32 — Zvláštní podmínky úschovy a rozšíření úschovní povinnosti
 
 > **§ 32**
@@ -471,3 +681,54 @@ Tyto záznamy **nesmí být bez souhlasu ministerstva financí vyřazeny** — m
 ---
 
 > **Pokračování:** [06-cast7-zprava-o-platbach.md](06-cast7-zprava-o-platbach.md) — Část sedmá: zpráva o platbách orgánům správy členských států EU a třetích zemí (§§ 32a–32i).
+
+<!-- LEGAL-REVISION:BEGIN id=077ad6d4be315c8cdf5b generator=2026-07-17.4 source_sha256=a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5 -->
+#### Revizní doplnění k § 32
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/1991/563-1991 Zákon o účetnictví.md`; identifikátor verze: `SB-1991-00563_2026-01-01`; SHA-256: `a75a1efaab287b58c8c3754ea04591bb19be9e65f8cfc94850fa854eed9074d5`.
+
+##### Znění ustanovení
+
+> (1) Použijí-li účetní jednotky účetní záznamy i pro jiný účel než uvedený v § 31 odst. 1, a to zejména pro účely trestního řízení, opatření proti legalizaci výnosů z trestné činnosti, správního řízení, občanského soudního řízení, daňového řízení, výběru archiválií ve skartačním řízení nebo mimo něj, nebo pro účely sociálního zabezpečení, veřejného zdravotního pojištění anebo pro účely ochrany autorských práv, postupují po uplynutí dob úschovy uvedených v § 31 odst. 2 dále tak, aby byly zajištěny požadavky vyplývající z jejich použití pro uvedené účely; v případě, kdy účetní jednotky použijí účetní záznamy k těmto účelům, platí všechna ustanovení tohoto zákona týkající se účetních záznamů obdobně.
+>
+> (2) Účetní jednotka může jako účetní záznamy použít zejména mzdové listy, daňové doklady nebo jinou dokumentaci vyplývající ze zvláštních právních předpisů. Takto použitá dokumentace musí splňovat požadavky kladené tímto zákonem na účetní záznamy. Tuto dokumentaci uschovávají účetní jednotky po dobu stanovenou v § 31 odst. 2 podle toho, jakou funkci plní při vedení účetnictví, nejde-li o případ podle odstavce 1.
+>
+> (3) Pokud záruční lhůta nebo reklamační řízení je delší než lhůta podle § 31 odst. 2, uschovává účetní jednotka doklady a jiné účetní záznamy po dobu, po kterou tato lhůta běží nebo toto řízení trvá; pokud se účetní záznam vztahuje k nezaplacené pohledávce či nesplněnému závazku ve lhůtě podle § 31 odst. 2, uschovává účetní jednotka tento účetní záznam do konce prvního účetního období následujícího po účetním období, v němž došlo k zaplacení pohledávky nebo ke splnění závazku.
+>
+> (4) Knihy analytické evidence pohledávek a závazků, účetní doklady a jiné účetní písemnosti, které vyplývají z přímého styku s cizinou z doby před 1. lednem 1949, a účetní závěrku vztahující se k převodu majetku na jiné právnické nebo fyzické osoby provedenému podle zvláštních právních předpisů uschovávají účetní jednotky, dokud ministerstvo nedá samo nebo na žádost účetní jednotky souhlas k vyřazení těchto písemností.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 31
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=077ad6d4be315c8cdf5b -->
